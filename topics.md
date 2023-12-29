@@ -356,6 +356,7 @@
 
 ## ajax 
 
+- [josephernest/Swap](https://github.com/josephernest/Swap) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
 - [subbu963/buzy](https://github.com/subbu963/buzy) - Async queue manager for node and browser
 - [Mevrael/bunny](https://github.com/Mevrael/bunny) - BunnyJS - Lightweight native (vanilla) JavaScript (JS) and ECMAScript 6 (ES6) browser library, package of small stand-alone components without dependencies: FormData, upload, image preview, HTML5 vali
@@ -666,6 +667,7 @@
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 - [dijs/wiki](https://github.com/dijs/wiki) - Wikipedia Interface for Node.js
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
 - [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [andrasbacsai/machine-learning-api](https://github.com/andrasbacsai/machine-learning-api) - Simple Machine Learning API
@@ -2263,6 +2265,7 @@
 
 ## csharp 
 
+- [NickvisionApps/Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
@@ -2273,6 +2276,7 @@
 
 ## css 
 
+- [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [OSSPhilippines/nuxtwind-daisy](https://github.com/OSSPhilippines/nuxtwind-daisy) - Nuxtwind Daisy is a starter template project for Nuxt.js 3 + Tailwind CSS + Daisy UI with additional installed setup for custom font, icons, animation, and more.
 - [customerio/howtotarget](https://github.com/customerio/howtotarget) - Email development techniques for singling out email clients and platforms.
@@ -2367,7 +2371,7 @@
 - [nuxt-modules/google-fonts](https://github.com/nuxt-modules/google-fonts) - Google Fonts module for NuxtJS
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
 - [frameable/knopf.css](https://github.com/frameable/knopf.css) - Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -3767,7 +3771,7 @@
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
 - [bytesbay/web3-token](https://github.com/bytesbay/web3-token) - Web3 Token is a new way to authenticate users in a hybrid dApps using signed messages. Implementation of EIP-4361.
 - [stereum-dev/ethereum-node](https://github.com/stereum-dev/ethereum-node) - Run an Ethereum node, solo stake ETH and connect dApps to your server with Stereum Ethereum Node Setup & Manager!
-- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue 3 library for building Dapps on Ethereum.
+- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue library for building DApps
 - [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [valist-io/valist](https://github.com/valist-io/valist) - Web3-native software distribution. Publish and install executables, Docker images, WebAssembly, and more. Powered by Ethereum, IPFS, and Filecoin.
@@ -3906,6 +3910,7 @@
 
 ## finance 
 
+- [NickvisionApps/Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 - [Lumiwealth/lumibot](https://github.com/Lumiwealth/lumibot) - Backtesting and Trading Bots Made Easy for Crypto, Stocks, Options, Futures, FOREX and more
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -4711,7 +4716,7 @@
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -5384,6 +5389,8 @@
 
 ## hacktoberfest 
 
+- [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
@@ -5423,7 +5430,6 @@
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is a Grammar for production-friendly Generative AI.  Based on Jsonnet & WASM. Works anywhere that Webassembly does. Prompts live declaratively & "outside code". Easy to Reason/Test/Deplo
@@ -6068,6 +6074,7 @@
 
 ## html 
 
+- [josephernest/Swap](https://github.com/josephernest/Swap) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
@@ -6583,6 +6590,7 @@
 
 ## javascript 
 
+- [josephernest/Swap](https://github.com/josephernest/Swap) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
 - [unadlib/data-transport](https://github.com/unadlib/data-transport) - A simple and responsible universal transport
@@ -8243,7 +8251,7 @@
 - [Madmous/madClones](https://github.com/Madmous/madClones) - A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
@@ -9787,6 +9795,7 @@
 - [atapas/nodeX](https://github.com/atapas/nodeX) - A collection of examples from Node.js modules.
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - The effortless way to build admin apps - Run `npx dashpress` to see some magic!
+- [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [srav001/cross-vue](https://github.com/srav001/cross-vue) - A Vue 💚 production ready 🤩 template for building bleeding edge 😎 web apps for all platforms 🔥
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -10720,6 +10729,9 @@
 
 ## others 
 
+- [ipfs-examples/helia-examples](https://github.com/ipfs-examples/helia-examples) - How to do most anything with your Helia node
+- [basecamp/solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
+- [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [David-Desmaisons/Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) - Vue component to display tree based on D3.js layout.
 - [github-tijlxyz/nostr.cooking](https://github.com/github-tijlxyz/nostr.cooking) - A recipe-sharing client for nostr
@@ -11043,7 +11055,7 @@
 - [Power-Playground/app](https://github.com/Power-Playground/app) - Code. Share. Empower.
 - [miracleonyenma/content-v2-blog](https://github.com/miracleonyenma/content-v2-blog) - Blog powered by Nuxt Content v2
 - [yuyinws/stargazers](https://github.com/yuyinws/stargazers) - ⭐️ Analyze and explore the stars of any GitHub user.
-- [plmercereau/nix-config](https://github.com/plmercereau/nix-config) - 
+- [plmercereau/nicos](https://github.com/plmercereau/nicos) - Nix Integrated Configuration and Operational Systems
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [piraces/rsslay](https://github.com/piraces/rsslay) - A Nostr relay that creates profiles from RSS or Atom feeds and emits items as Nostr events
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) - A Nostr relay server framework.
@@ -11824,7 +11836,7 @@
 - [antfu/starter-ts](https://github.com/antfu/starter-ts) - Starter template for TypeScript library
 - [vessel-js/vessel](https://github.com/vessel-js/vessel) - (WIP) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.
 - [nuxt-modules/harlem](https://github.com/nuxt-modules/harlem) - Harlem integration for Nuxt. A state management solution for Vue 3.
-- [funkenstudio/sitemap-module-nuxt-3](https://github.com/funkenstudio/sitemap-module-nuxt-3) - Sitemap Module for Nuxt 3
+- [d3xter-dev/sitemap-module-nuxt-3](https://github.com/d3xter-dev/sitemap-module-nuxt-3) - Sitemap Module for Nuxt 3
 - [kt3k/browser-streaming-examples](https://github.com/kt3k/browser-streaming-examples) - examples to perform streaming in browsers
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [NozomuIkuta/h3-cors](https://github.com/NozomuIkuta/h3-cors) - h3-native CORS event handler
@@ -13906,7 +13918,6 @@
 - [api-evangelist/salesforce-api-collection-builder](https://github.com/api-evangelist/salesforce-api-collection-builder) - This is a Postman collection for dynamically building a Postman collection.
 - [yousan/damp](https://github.com/yousan/damp) - Docker Apache MySQL PHP
 - [auth0-blog/nodejs-jwt-authentication-sample](https://github.com/auth0-blog/nodejs-jwt-authentication-sample) - A NodeJS API that supports username and password authentication with JWTs
-- [christiannwamba/vscode-tips-node](https://github.com/christiannwamba/vscode-tips-node) - 
 - [Jinjiang/vue-mark-display](https://github.com/Jinjiang/vue-mark-display) - A Vue Component for Markdown-based Slides.
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [wwebdev/convert2svg](https://github.com/wwebdev/convert2svg) - A website to convert multi-colored images to svg files
@@ -17767,7 +17778,7 @@
 - [ghoshnirmalya/nextjs-hasura-trello-clone](https://github.com/ghoshnirmalya/nextjs-hasura-trello-clone) - A clone of Trello built using Hasura and Next.js
 - [FujitsuLaboratories/cattaz](https://github.com/FujitsuLaboratories/cattaz) - Realtime collaborative tool which can run custom applications in a Wiki page
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
@@ -19403,7 +19414,7 @@
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte.
 - [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing vibes! (for Svelte)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [junglejs/junglejs](https://github.com/junglejs/junglejs) - The Jamstack static site framework for Svelte
 - [Freshman-tech/svelte-todo-app](https://github.com/Freshman-tech/svelte-todo-app) - A Todo List Application built with Svelte 3
@@ -19604,6 +19615,7 @@
 - [screenshotbot/screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss) - A Screenshot Testing service to tie with your existing Android, iOS and Web screenshot tests
 - [testing-library/vue-testing-library](https://github.com/testing-library/vue-testing-library) - 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
 - [gundb/panic-server](https://github.com/gundb/panic-server) - Testing for collaborative apps and tools
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -19945,7 +19957,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue 3 library for building Dapps on Ethereum.
+- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue library for building DApps
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [jetbridge/axios-jwt](https://github.com/jetbridge/axios-jwt) - Store, transmit, refresh JWT authentication tokens for axios
 - [Saul-Mirone/vite-plugin-book](https://github.com/Saul-Mirone/vite-plugin-book) - A magical vite plugin that helps you to generate and manage documentation website.
@@ -20708,7 +20720,7 @@
 - [cssninjaStudio/nuxt-toaster](https://github.com/cssninjaStudio/nuxt-toaster) - 🔔 A simple toaster handler for Nuxt.js
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 - [wobsoriano/vue-lite-youtube-embed](https://github.com/wobsoriano/vue-lite-youtube-embed) - A private by default, faster and cleaner YouTube embed component for Vue applications.
-- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue 3 library for building Dapps on Ethereum.
+- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue library for building DApps
 - [SmallRuralDog/vue3-music](https://github.com/SmallRuralDog/vue3-music) - VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端，支持黑夜模式
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [mycurelabs/vue-jitsi-meet](https://github.com/mycurelabs/vue-jitsi-meet) - Vue component for Jitsi Meet Web Integration via IFrame
@@ -21525,7 +21537,7 @@
 - [vue-gl/vue-gl](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D WebGL graphics reactively with three.js
 - [srav001/cross-vue](https://github.com/srav001/cross-vue) - A Vue 💚 production ready 🤩 template for building bleeding edge 😎 web apps for all platforms 🔥
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue 3 library for building Dapps on Ethereum.
+- [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Vue library for building DApps
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [shershen08/vue-masonry](https://github.com/shershen08/vue-masonry) - 💠 Vue.js directive for masonry blocks layouting ✅
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
