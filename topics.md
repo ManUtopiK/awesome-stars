@@ -203,6 +203,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
@@ -5506,7 +5507,7 @@
 - [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 us
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
-- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting React + GraphQL + Next.js web app on the theme of mindfulness
+- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting web app with React + GraphQL + Next.js
 - [giapnguyen74/nextql](https://github.com/giapnguyen74/nextql) - Yet Another Data Query Language. Equivalent GraphQL but much more simple.
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
 - [Brbb/graphql-rover](https://github.com/Brbb/graphql-rover) - :rocket: GraphQL + Vue.js + D3.js schema viewer, powered by introspection.
@@ -5592,6 +5593,7 @@
 
 ## hacktoberfest 
 
+- [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
@@ -6202,7 +6204,6 @@
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) - Consul Democracy - Open Government and E-Participation Web Software
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -6788,6 +6789,7 @@
 
 ## javascript 
 
+- [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [Polight/lego](https://github.com/Polight/lego) - 🚀 Low-Tech Web-Components Made Lightweight & Future-Proof.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -9881,7 +9883,7 @@
 - [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
-- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting React + GraphQL + Next.js web app on the theme of mindfulness
+- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting web app with React + GraphQL + Next.js
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [elmasse/nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
 - [usehenri/henri](https://github.com/usehenri/henri) - The versatile Javascript framework
@@ -10090,7 +10092,7 @@
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
-- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting React + GraphQL + Next.js web app on the theme of mindfulness
+- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting web app with React + GraphQL + Next.js
 - [spikenail/spikenail](https://github.com/spikenail/spikenail) - A GraphQL Framework for Node.js
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [LewdEwe/Automated-Email-Server](https://github.com/LewdEwe/Automated-Email-Server) - This is a server which services TCP requests to generate transactional emails using Handlebars templates and to send them using the SendGrid service.
@@ -10917,6 +10919,7 @@
 
 ## npm 
 
+- [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 - [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
 - [productdevbookcom/nuxt-bundle-template](https://github.com/productdevbookcom/nuxt-bundle-template) - nuxt-bundle-template is a template or boilerplate project for building Nuxt.js applications.
@@ -11194,6 +11197,7 @@
 
 ## others 
 
+- [pika-backup/pika-backup](https://github.com/pika-backup/pika-backup) - Pika Backup – 🪞 Mirror only 🪞 – See https://gitlab.gnome.org/World/pika-backup for development
 - [latitude-dev/stargazers-analysis](https://github.com/latitude-dev/stargazers-analysis) - 
 - [adobe/coriolis](https://github.com/adobe/coriolis) - A library for cross iframe communication with high level API and features.
 - [manniL/talk-vue-nuxt-enterjs-2024](https://github.com/manniL/talk-vue-nuxt-enterjs-2024) - 
@@ -13602,7 +13606,7 @@
 - [trev-dev/webpack-plugin-log-version](https://github.com/trev-dev/webpack-plugin-log-version) - A webpack plugin that injects a console log statement at the top of a production bundle that includes the project version & git info
 - [ceramicnetwork/.github](https://github.com/ceramicnetwork/.github) - Home of the Ceramic Protocol
 - [WebReflection/uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
-- [hal9ai/hal9](https://github.com/hal9ai/hal9) - Hal9 — Create and Deploy GenAI Chatbots
+- [hal9ai/hal9](https://github.com/hal9ai/hal9) - Hal9 — Create and Share Generative Apps
 - [scottrogowski/mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
@@ -18055,6 +18059,10 @@
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 
+## quantitative-finance 
+
+- [Lumiwealth/lumibot](https://github.com/Lumiwealth/lumibot) - Backtesting and Trading Bots Made Easy for Crypto, Stocks, Options, Futures, FOREX and more
+
 ## r 
 
 - [vue-r/vueR](https://github.com/vue-r/vueR) - vue.js for R
@@ -18553,7 +18561,7 @@
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting React + GraphQL + Next.js web app on the theme of mindfulness
+- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting web app with React + GraphQL + Next.js
 - [RoyalIcing/react-organism](https://github.com/RoyalIcing/react-organism) - Dead simple React state management to bring pure components alive
 - [diegohaz/arc](https://github.com/diegohaz/arc) - React starter kit based on Atomic Design
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
