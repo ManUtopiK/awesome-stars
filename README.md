@@ -1142,7 +1142,6 @@
 
 ## Groovy 
 
-- [craftercms/craftercms](https://github.com/craftercms/craftercms) - Parent project for Crafter CMS. Issue tracking across all repositories and global builds.
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [vishesh04/Filesutra](https://github.com/vishesh04/Filesutra) - Filesutra is an easy way to implement imports and uploads from all popular cloud storage. Supports google drive, onedrive, box, dropbox.
 
@@ -4904,7 +4903,7 @@
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
-- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting React + GraphQL + Next.js web app on the theme of mindfulness
+- [sedubois/relate](https://github.com/sedubois/relate) - [ARCHIVED] experimenting web app with React + GraphQL + Next.js
 - [RoyalIcing/react-organism](https://github.com/RoyalIcing/react-organism) - Dead simple React state management to bring pure components alive
 - [BurntCaramel/lofi-js](https://github.com/BurntCaramel/lofi-js) - Format rich content using #hashtags and @mentions
 - [BurntCaramel/lokum](https://github.com/BurntCaramel/lokum) - Manage a website’s content using Trello
@@ -6304,6 +6303,7 @@
 
 ## Nix 
 
+- [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [ingbarrozo/espanso](https://github.com/ingbarrozo/espanso) - espanso-wayland for nixos (tested on nixos + hyprland), based on package https://github.com/NixOS/nixpkgs/tree/nixos-unstable/pkgs/applications/office/espanso
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
@@ -7942,7 +7942,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [hal9ai/hal9](https://github.com/hal9ai/hal9) - Hal9 — Create and Deploy GenAI Chatbots
+- [hal9ai/hal9](https://github.com/hal9ai/hal9) - Hal9 — Create and Share Generative Apps
 - [scottrogowski/mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
 - [sinisaos/headless-forum-fastapi](https://github.com/sinisaos/headless-forum-fastapi) - Backend for simple forum made with FastAPI and Piccolo ORM ecosystem.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -8180,6 +8180,7 @@
 
 ## Rust 
 
+- [pika-backup/pika-backup](https://github.com/pika-backup/pika-backup) - Pika Backup – 🪞 Mirror only 🪞 – See https://gitlab.gnome.org/World/pika-backup for development
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [pleisto/flappy](https://github.com/pleisto/flappy) - Production-Ready LLM Agent SDK for Every Developer
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
@@ -8595,6 +8596,7 @@
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [namshi/docker-smtp](https://github.com/namshi/docker-smtp) - SMTP docker container
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
+- [craftercms/craftercms](https://github.com/craftercms/craftercms) - Parent project for Crafter CMS. Issue tracking across all repositories and global builds.
 - [hasura/graphql-backend-benchmarks](https://github.com/hasura/graphql-backend-benchmarks) - GraphQL performance benchmarks across Hasura, Postgraphile and Prisma
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
