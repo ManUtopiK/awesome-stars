@@ -363,7 +363,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [i9shubham/GlimpseAI](https://github.com/i9shubham/GlimpseAI) - An Dall-E2 integrated system.
@@ -571,7 +571,7 @@
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [connectrpc/examples-es](https://github.com/connectrpc/examples-es) - Examples for using Connect with various TypeScript web frameworks and tooling.
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -794,7 +794,7 @@
 - [airesvsg/wp-rest-api-cache](https://github.com/airesvsg/wp-rest-api-cache) - Enable caching for WordPress REST API and increase speed of your application
 - [n1k0/tooty](https://github.com/n1k0/tooty) - An alternative multi-accounts Web client for Mastodon.
 - [laBecasse/shaarli-client](https://github.com/laBecasse/shaarli-client) - a client in node.js for a Shaarli api.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [drewjbartlett/routegen](https://github.com/drewjbartlett/routegen) - Define your API and SPA routes in one place. Use them anywhere. Only 1.3kb.
 - [mono-js/mono](https://github.com/mono-js/mono) - Minimalist Framework on top of Express.js
 - [onury/docma](https://github.com/onury/docma) - A powerful tool to easily generate beautiful HTML documentation from JavaScript (JSDoc), Markdown and HTML files.
@@ -4372,7 +4372,7 @@
 - [francisrstokes/hexnut](https://github.com/francisrstokes/hexnut) - 🔩  Hexnut is a middleware based, express/koa like framework for web sockets
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mono-js/mono](https://github.com/mono-js/mono) - Minimalist Framework on top of Express.js
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
@@ -4465,7 +4465,7 @@
 - [webqit/webqit](https://github.com/webqit/webqit) - An ecosystem of technologies that explore new ways to go web-native on the modern application story!
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud Infinite Scale
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️
@@ -5202,7 +5202,7 @@
 
 - [gtm-support/vue-gtm](https://github.com/gtm-support/vue-gtm) - Simple implementation of Google Tag Manager for Vue
 - [Baroshem/map](https://github.com/Baroshem/map) - 🗺  Map Module for Nuxt 3
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -5554,7 +5554,7 @@
 - [notrab/commerceql](https://github.com/notrab/commerceql) - UNMAINTAINED
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -7032,7 +7032,7 @@
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [Baroshem/nuxt-medusa](https://github.com/Baroshem/nuxt-medusa) - 🛍️ Medusa module for Nuxt
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [itsalimanuel/pigeon](https://github.com/itsalimanuel/pigeon) - Pigeon is a   @vuejs  component library designed to help website owners easily add chat/live support and contact information to their websites.
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
 - [SimonShiki/Typability](https://github.com/SimonShiki/Typability) - a WYSIWYG markdown editor based on Milkdown.
@@ -7084,7 +7084,7 @@
 - [hiroki0525/idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [mikestead/lighthouse-batch](https://github.com/mikestead/lighthouse-batch) - Run Lighthouse analysis over multiple sites in a single command
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -8734,7 +8734,7 @@
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [ehmicky/wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 🤠 Object property paths with wildcards and regexps 🌵
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [gitsindonesia/ui-component](https://github.com/gitsindonesia/ui-component) - Morpheme UI - Free and Open-source Vue 3 Component Library based on Morpheme Design System
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
@@ -8952,7 +8952,7 @@
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [promptable/Promptable-web-sdk](https://github.com/promptable/Promptable-web-sdk) - Web SDK for Promptable Website.
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
@@ -10348,7 +10348,7 @@
 - [bvincent1/serverless-gitlab-ci](https://github.com/bvincent1/serverless-gitlab-ci) - Simple serverless gitlab ci template
 - [fastify/create-fastify](https://github.com/fastify/create-fastify) - Rapidly generate a Fastify project
 - [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
 - [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive) - Validate GraphQL fields
@@ -10806,7 +10806,7 @@
 - [mitar/web-mongo](https://github.com/mitar/web-mongo) - An experiment connecting to MongoDB server from web browser and using Change Streams for reactive updates.
 - [dbelyaeff/cogear.js](https://github.com/dbelyaeff/cogear.js) - Modern static websites generator (Node.JS/Webpack)
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 - [nexmo-community/nexmo-verify-nuxt](https://github.com/nexmo-community/nexmo-verify-nuxt) - A basic Nuxt/SSR application that allows users to login using SMS and phone verification
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
@@ -11363,6 +11363,10 @@
 
 ## others 
 
+- [pothuraju-dev/building-web-applications-with-nuxt](https://github.com/pothuraju-dev/building-web-applications-with-nuxt) - 
+- [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
+- [nix-community/trustix](https://github.com/nix-community/trustix) - Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
+- [akinazuki/mindmap-gpt](https://github.com/akinazuki/mindmap-gpt) - 
 - [prosekit/examples](https://github.com/prosekit/examples) - 
 - [flapili/slidev-rewrite-in-nuxt-poc](https://github.com/flapili/slidev-rewrite-in-nuxt-poc) - This is a poc of rewriting slidev with a nuxt module (https://github.com/slidevjs/slidev/issues/1392)
 - [justin-schroeder/unplugin-file-url](https://github.com/justin-schroeder/unplugin-file-url) - An vite/esbuild/rollup/rspack  unplugin that allows loading files like file://Me/projects/myproject.mjs.
@@ -18464,7 +18468,7 @@
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [Be-UI/Be-CLI](https://github.com/Be-UI/Be-CLI) - 🥝 A cli for quickly generating project template
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [jaydenseric/apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client) - A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, or Blob instances), or else fetches a regular Gr
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
@@ -20281,6 +20285,7 @@
 
 ## svelte 
 
+- [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
 - [tinijs/tinijs](https://github.com/tinijs/tinijs) - The TiniJS Framework 🥚
@@ -20311,7 +20316,7 @@
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
 - [swyxio/swyxkit](https://github.com/swyxio/swyxkit) - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for SvelteKit 1.0!
 - [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
@@ -20877,7 +20882,7 @@
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [L422Y/nuxt-pageviews](https://github.com/L422Y/nuxt-pageviews) - Nuxt module that provides page view counts using Google Analytics Data API (GA4)
 - [Baroshem/nuxt-medusa](https://github.com/Baroshem/nuxt-medusa) - 🛍️ Medusa module for Nuxt
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [itsalimanuel/pigeon](https://github.com/itsalimanuel/pigeon) - Pigeon is a   @vuejs  component library designed to help website owners easily add chat/live support and contact information to their websites.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
@@ -20931,7 +20936,7 @@
 - [ehmicky/wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 🤠 Object property paths with wildcards and regexps 🌵
 - [hiroki0525/idle-task](https://github.com/hiroki0525/idle-task) - Improve your website performance by executing JavaScript during a browser's idle periods.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [trobonox/kanri](https://github.com/trobonox/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux. Built with simplicity and user experience in mind.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
@@ -21403,7 +21408,7 @@
 - [egoist/bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.
 - [chanlito/simple-todos](https://github.com/chanlito/simple-todos) - A simple web application powered by Nuxt.js 💚 & Nest Framework 😻
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [curveball/core](https://github.com/curveball/core) - The Curveball framework is a TypeScript framework for node.js with support for modern HTTP features.
@@ -21761,7 +21766,7 @@
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Bullheaded and lightweight UnoCSS ui library.
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
-- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
 - [gitsindonesia/ui-component](https://github.com/gitsindonesia/ui-component) - Morpheme UI - Free and Open-source Vue 3 Component Library based on Morpheme Design System
