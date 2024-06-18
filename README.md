@@ -234,6 +234,7 @@
 
 ## C++ 
 
+- [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [varchar-io/nebula](https://github.com/varchar-io/nebula) - A distributed block-based data storage and compute engine
@@ -346,6 +347,7 @@
 
 ## CSS 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [NigelOToole/share-url](https://github.com/NigelOToole/share-url) - Share a URL with Web Share, copy to clipboard or to social media
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -749,7 +751,7 @@
 
 ## Gherkin 
 
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers.
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers.
 - [opencypher/openCypher](https://github.com/opencypher/openCypher) - Specification of the Cypher property graph query language
 - [scality/Zenko](https://github.com/scality/Zenko) - Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 
@@ -804,7 +806,7 @@
 - [zeabur/zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1080,6 +1082,7 @@
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+- [sylvek/domotik](https://github.com/sylvek/domotik) - Home Monitoring Project
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -3740,7 +3743,7 @@
 - [Experience-Monks/nice-color-palettes](https://github.com/Experience-Monks/nice-color-palettes) - nice colour palettes as JSON
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [automerge/trellis](https://github.com/automerge/trellis) - Trello clone / sample app for Automerge persistence library
 - [dwyl/learn-nightwatch](https://github.com/dwyl/learn-nightwatch) - :last_quarter_moon_with_face: Learn how to use Nightwatch.js to easily & automatically test your web apps in *real* web browsers.
 - [mikeal/daily](https://github.com/mikeal/daily) - What’s happening in Open Source. Everyday 🤓
@@ -3784,7 +3787,6 @@
 - [nuxt-community/google-analytics-module](https://github.com/nuxt-community/google-analytics-module) - Google Analytics Module for Nuxt 2
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [hasura/preview-kits](https://github.com/hasura/preview-kits) - 
-- [sylvek/domotik](https://github.com/sylvek/domotik) - Home Monitoring Project
 - [chialuka/chat_app_server](https://github.com/chialuka/chat_app_server) - GraphQL server for realtime chat application
 - [AnatidaeProject/feathers-tedb](https://github.com/AnatidaeProject/feathers-tedb) - A service using teDB, an embedded datastore for Node.js
 - [arso-project/sonar](https://github.com/arso-project/sonar) - A p2p content database and search engine
@@ -6411,6 +6413,7 @@
 
 ## Others 
 
+- [Tontonjo/docker](https://github.com/Tontonjo/docker) - General docker informations and commands
 - [flapili/slidev-rewrite-in-nuxt-poc](https://github.com/flapili/slidev-rewrite-in-nuxt-poc) - This is a poc of rewriting slidev with a nuxt module (https://github.com/slidevjs/slidev/issues/1392)
 - [AntonyCanut/LunchStartup](https://github.com/AntonyCanut/LunchStartup) - Documents found on LinkedIn usefull to launch a startup
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -7784,7 +7787,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [lnbits/lnbits](https://github.com/lnbits/lnbits) - LNbits, free and open-source Lightning wallet and accounts system.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
@@ -7990,7 +7993,7 @@
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
 - [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 - [openfoodfacts/openfoodfacts-events](https://github.com/openfoodfacts/openfoodfacts-events) - Events repository and API for product scans, photo uploads, robotoff annotations etc.
@@ -9682,7 +9685,7 @@
 - [fleetingnotes/fleeting-notes-obsidian](https://github.com/fleetingnotes/fleeting-notes-obsidian) - An Obsidian plugin to sync Obsidian with Fleeting Notes
 - [sheremet-va/vi-fetch](https://github.com/sheremet-va/vi-fetch) - 
 - [razorness/vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG, inspired by julienr114's vue-calendar-heatmap and github's contribution calendar graph
-- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [wobsoriano/vue-zorm](https://github.com/wobsoriano/vue-zorm) - Type-safe &lt;form&gt; for Vue using Zod
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
@@ -10057,7 +10060,7 @@
 - [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
 - [Atinux/content-starter-2](https://github.com/Atinux/content-starter-2) - 
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [Julien-R44/vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - ✅ Vite plugin for validating your environment variables
@@ -11868,6 +11871,7 @@
 
 ## Vue 
 
+- [nuxt-hub/hello-edge](https://github.com/nuxt-hub/hello-edge) - A minimal Nuxt starter running on the edge.
 - [pothuraju-dev/building-web-applications-with-nuxt](https://github.com/pothuraju-dev/building-web-applications-with-nuxt) - 
 - [andrew781026/vue-vite-mjml](https://github.com/andrew781026/vue-vite-mjml) - vue3 component with mjml
 - [etiennemarais/vue-markdown-to-mjml-editor](https://github.com/etiennemarais/vue-markdown-to-mjml-editor) - Vue Editor to convert markdown into MJML and render the result
