@@ -1390,6 +1390,7 @@
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [c0bra/svelma](https://github.com/c0bra/svelma) - Bulma components for Svelte
 - [alidcast/vuency](https://github.com/alidcast/vuency) - Concurrency management for Vuejs.
+- [selfrefactor/services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [leebyron/spec-md](https://github.com/leebyron/spec-md) - 📖 Additions to Markdown for writing specification documents
 - [arulrajnet/attila](https://github.com/arulrajnet/attila) - Pelican version of ghost theme https://github.com/zutrinken/attila
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
@@ -2816,7 +2817,7 @@
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
 - [AgenceBio/rpg-cli](https://github.com/AgenceBio/rpg-cli) - Transforme le RPG Bio — en version anonymisée, et en un dump PostgreSQL/PostGIS.
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
-- [okTurtles/group-income](https://github.com/okTurtles/group-income) - Voluntary Basic Income system that's decentralized and end-to-end encrypted.
+- [okTurtles/group-income](https://github.com/okTurtles/group-income) - A decentralized and private (end-to-end encrypted) financial safety net for you and your friends.
 - [team-innovation/vue-sfc-rollup](https://github.com/team-innovation/vue-sfc-rollup) - Quickly generate redistributable Vue components with Rollup
 - [nuxt-community/date-fns-module](https://github.com/nuxt-community/date-fns-module) - Modern JavaScript date utility library - date-fns for Nuxt.js
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
@@ -3969,7 +3970,6 @@
 - [lisongx/wikidata-graphql](https://github.com/lisongx/wikidata-graphql) - Wikidata + GraphQL (Dream API for everything)
 - [quasarframework/icongenie](https://github.com/quasarframework/icongenie) - CLI tool to generate all the icons and splashscreens for your Quasar Apps
 - [FThompson/FormPersistence.js](https://github.com/FThompson/FormPersistence.js) - A simple JavaScript library for preserving HTML form data across multiple sessions.
-- [selfrefactor/services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [scality/cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js) - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:
@@ -7768,6 +7768,7 @@
 
 ## Python 
 
+- [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [LoicPandul/Dictionnaire-de-Bitcoin](https://github.com/LoicPandul/Dictionnaire-de-Bitcoin) - Tout le vocabulaire technique de Bitcoin
@@ -8270,6 +8271,7 @@
 
 ## Rust 
 
+- [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -10272,7 +10274,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
 - [andreasbm/lit-translate](https://github.com/andreasbm/lit-translate) - A blazing-fast and lightweight internationalization (i18n) library for your next web-based project
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [wd-David/fastify-esbuild](https://github.com/wd-David/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
