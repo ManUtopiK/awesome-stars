@@ -651,7 +651,7 @@
 
 ## Dart 
 
-- [Myzel394/locus](https://github.com/Myzel394/locus) - Share your location end-to-end encrypted on decentralized servers using Nostr.
+- [Myzel394/locus](https://github.com/Myzel394/locus) - [DISCONTINUED / NO LONGER MAINTAINED] Share your location end-to-end encrypted on decentralized servers using Nostr.
 - [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol!
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1438,6 +1438,7 @@
 - [bennettfeely/image-effects](https://github.com/bennettfeely/image-effects) - Complex image effects with CSS
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [vladocar/Minimal-Notes](https://github.com/vladocar/Minimal-Notes) - Minimal Notes web app build with Vue.js
 - [kristofferandreasen/wickedCSS](https://github.com/kristofferandreasen/wickedCSS) - A library for CSS3 animations. The animations are more vibrant than most simple animations.
 - [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
@@ -1667,7 +1668,12 @@
 
 ## JavaScript 
 
-- [phil294/git-log--graph](https://github.com/phil294/git-log--graph) - An interactive git log --graph frontend for VSCode
+- [microlinkhq/youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) - A simple Node.js wrapper for youtube-dl/yt-dlp.
+- [cfjedimaster/pdf-embed](https://github.com/cfjedimaster/pdf-embed) - A web component wrapper for Adobe's PDF Embed library.
+- [oslabs-beta/moleQLar](https://github.com/oslabs-beta/moleQLar) - 
+- [limodou/vue-remote-import](https://github.com/limodou/vue-remote-import) - Import remote VUE component via url
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [phil294/GitLG](https://github.com/phil294/GitLG) - An free, interactive Git UI for VSCode
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [qgustavor/mega](https://github.com/qgustavor/mega) - Unofficial JavaScript SDK for MEGA
 - [vicariousdrama/cornychat](https://github.com/vicariousdrama/cornychat) - 🌽 Corny Chat is an open source audio space built on Jam that integrates Nostr and Lightning
@@ -1910,7 +1916,7 @@
 - [folder/readdir](https://github.com/folder/readdir) - Recursively read a directory, blazing fast. Use with picomatch or micromatch to match globs.
 - [jonschlinkert/get-value](https://github.com/jonschlinkert/get-value) - Use property paths (`a.b.c`) get a nested value from an object.
 - [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [microlinkhq/keyvhq](https://github.com/microlinkhq/keyvhq) - Simple key-value storage with support for multiple backends.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -1952,7 +1958,7 @@
 - [simonplend/example-nodejs-api-proxy-server](https://github.com/simonplend/example-nodejs-api-proxy-server) - Example Node.js API proxy server built with @fastify/fastify-http-proxy
 - [AntonLukichev/node-imgoptimize](https://github.com/AntonLukichev/node-imgoptimize) - Proxy server for image optimization on Node.JS use (fastify, axios, sharp)
 - [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - Open-source Javascript mobile document scanner.
 - [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
 - [owncloud/owncloud-sdk](https://github.com/owncloud/owncloud-sdk) - :cloud: ownCloud client library for JavaScript
@@ -2952,7 +2958,7 @@
 - [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
 - [danielkellyio/opti-image](https://github.com/danielkellyio/opti-image) - A Vue.js component for handling performant images without the headache. (lazy loading, webp, etc)
 - [galvez/fastify-apply](https://github.com/galvez/fastify-apply) - Shorthand object syntax for Fastify plugins.
-- [fastify/fastify-api](https://github.com/fastify/fastify-api) - A radically simple API routing and method injection plugin for Fastify.
+- [mcollina/fastify-api](https://github.com/mcollina/fastify-api) - A radically simple API routing and method injection plugin for Fastify.
 - [eingress/fastify-es-boilerplate](https://github.com/eingress/fastify-es-boilerplate) - A minimalist Fastify ES2018 boilerplate with babel, eslint, jest, nodemon, prettier, and supertest.
 - [mayashavin/tours-nuxt-full-static](https://github.com/mayashavin/tours-nuxt-full-static) - A demo travel blog app for full static in Nuxt with @nuxt/content and @nuxtjs/colour-mode
 - [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
@@ -3549,7 +3555,7 @@
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [alanshaw/ipfs-browser-sandbox](https://github.com/alanshaw/ipfs-browser-sandbox) - 🪐 An EXPERIMENTAL p2p browser built on IPFS
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [djnicholson/blockslack](https://github.com/djnicholson/blockslack) - Chat for small teams — encrypted and decentralized
 - [paoyong/chat-room](https://github.com/paoyong/chat-room) - Chat room built with Reactjs, backend with nodejs, socket.io, and postgresql.
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
@@ -4324,7 +4330,6 @@
 - [WorldBrain/remove-stopwords](https://github.com/WorldBrain/remove-stopwords) - A simple repository to remove 'irrelevant for search' words, support for 51 languages
 - [ewliang/Brevis-URL-Shortener](https://github.com/ewliang/Brevis-URL-Shortener) - Brevis is a URL Shortening webapp created using Node.js Express.js, and Vue.js (Nuxt.js). The name "brevis" is the Latin term for "short", which represents the functionality of a URL "short"ening weba
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
-- [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [GraphQL-Designer/graphqldesigner.com](https://github.com/GraphQL-Designer/graphqldesigner.com) - A developer web-app tool to rapidly prototype a full stack implementation of GraphQL with React.
 - [egoist/svg-to-vue-component](https://github.com/egoist/svg-to-vue-component) - Transform SVG files into Vue SFC (with hot reloading and SVGO support)
 - [nuxt-community/sitemap-module](https://github.com/nuxt-community/sitemap-module) - Sitemap Module for Nuxt 2
@@ -4549,7 +4554,6 @@
 - [michalsnik/vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [ungoldman/sitedown](https://github.com/ungoldman/sitedown) - 📄 Turn some markdown files into a website.
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files via comment blocks using source code, external data & custom transforms.
 - [QingWei-Li/laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
@@ -6271,7 +6275,7 @@
 
 ## Jinja 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free & Better RDS Alternative —— Pigsty
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
@@ -6281,6 +6285,7 @@
 
 ## Jupyter Notebook 
 
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [ericmjl/llamabot](https://github.com/ericmjl/llamabot) - Pythonic class-based interface to LLMs
 - [iciamyplant/amyplant-security](https://github.com/iciamyplant/amyplant-security) - 
@@ -6320,7 +6325,7 @@
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is an open source orchestration framework for application teams to build durable and flexible backend processes.
 - [dsd-sztaki-hu/hasuraconf](https://github.com/dsd-sztaki-hu/hasuraconf) - Hasura Configuration JSON Generation Based on JPA and Hasura Specific Annotations
-- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - **DEVELOPMENT STOPPED**.📱 An Android app that change what the buttons do on your devices!
+- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 
@@ -6432,6 +6437,7 @@
 
 ## Nix 
 
+- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer=?]
@@ -6664,6 +6670,7 @@
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [postmanlabs/postman-flows](https://github.com/postmanlabs/postman-flows) - We're maintaining this repo to share the progress of Flows publicly and get feedback at the same time.
 - [bonfire-networks/governance](https://github.com/bonfire-networks/governance) - our wip governance document
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [betagouv/awesome-betagouv](https://github.com/betagouv/awesome-betagouv) - Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à la contribution :sparkles:
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 - [Nuxt-Paris/talks](https://github.com/Nuxt-Paris/talks) - Call for papers for the meetup Nuxt Paris. Feel free to submit talks or workshops. Beginners welcome !
@@ -6676,7 +6683,7 @@
 - [vuejs/tsconfig](https://github.com/vuejs/tsconfig) - Base tsconfig for Vue 3 projects.
 - [fastify/help](https://github.com/fastify/help) - Need help with Fastify? File an Issue here.
 - [marko-js/examples](https://github.com/marko-js/examples) - 
-- [storacha-network/add-to-web3](https://github.com/storacha-network/add-to-web3) - ⁂ Github Action to upload files to web3.storage
+- [storacha/add-to-web3](https://github.com/storacha/add-to-web3) - ⁂ Github Action to upload files to web3.storage
 - [M3-org/awesome-metaverse](https://github.com/M3-org/awesome-metaverse) - Awesome metaverse projects
 - [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning) - resources about federated learning and privacy in machine learning
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -6783,7 +6790,7 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [leerob/nextjs-aws-s3](https://github.com/leerob/nextjs-aws-s3) - Example Next.js app to upload photos to an S3 bucket.
 - [wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
 - [stripe/openapi](https://github.com/stripe/openapi) - An OpenAPI specification for the Stripe API.
 - [api-specification-toolbox/newsletter](https://github.com/api-specification-toolbox/newsletter) - A newsletter for the API specification community.
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -7844,7 +7851,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTu
 - [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) - A customizable Android and iOS/iPadOS WhatsApp database parser that will give you the history of your WhatsApp conversations in HTML and JSON. Android Backup Crypt12, Crypt14, Crypt15, and new schema 
-- [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 🔀 Deployement of LLM at a large scale using VLL server for inference
+- [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 🔀 Deployement of LLM at a large scale using VLLM server for inference
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [TransformerOptimus/AutoNode](https://github.com/TransformerOptimus/AutoNode) - AutoNode: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -8333,6 +8340,7 @@
 
 ## Rust 
 
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [servuscms/servus](https://github.com/servuscms/servus) - Self-contained CMS, Personal Nostr Relay & Blossom server
 - [MutinyWallet/blastr](https://github.com/MutinyWallet/blastr) - A nostr cloudflare workers proxy relay that publishes to all known relays
 - [MostroP2P/mostro](https://github.com/MostroP2P/mostro) - Lightning Network peer-to-peer exchange platform on Nostr
@@ -8357,7 +8365,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [pika-backup/pika-backup](https://github.com/pika-backup/pika-backup) - Pika Backup – 🪞 Mirror only 🪞 – See https://gitlab.gnome.org/World/pika-backup for development
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -8812,7 +8820,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [temporalio/docker-compose](https://github.com/temporalio/docker-compose) - Temporal docker-compose files
 - [unboundedsystems/k3s-dind](https://github.com/unboundedsystems/k3s-dind) - k3s - Lightweight Kubernetes inside a Docker-in-Docker container
@@ -8991,7 +8999,6 @@
 - [planetary-social/nos](https://github.com/planetary-social/nos) - nos.social social media for all of us, using nostr
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [aaronksaunders/ionic-capacitor-nuxt-video-app](https://github.com/aaronksaunders/ionic-capacitor-nuxt-video-app) - Ionic Capacitor VueJS Nuxt3 Starter Template
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - KeyboardKit is a Swift SDK that lets you create fully customizable keyboards with a few lines of code, using SwiftUI.
 - [sobri909/LocoKit](https://github.com/sobri909/LocoKit) - Location, motion, and activity recording framework for iOS
 - [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
@@ -9040,6 +9047,14 @@
 
 ## TypeScript 
 
+- [123ishaTest/content-parser](https://github.com/123ishaTest/content-parser) - A Zod & YAML based content parser
+- [ChronicStone/typed-xlsx](https://github.com/ChronicStone/typed-xlsx) - A simple yet powerful library to effortlessly export any data into XLSX sheets, with the full power of type-safety and awesome DX
+- [inp-net/helloasso-js](https://github.com/inp-net/helloasso-js) - TypeScript wrapper for the HelloAsso API. Available on NPM (https://npmjs.com/package/helloasso) and JSR (https://jsr.io/@net7/helloasso) · Mirror of https://git.inpt.fr/inp-net/helloasso-js.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Effortless backends ✨
+- [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
+- [Dawntraoz/wave-image-downloader](https://github.com/Dawntraoz/wave-image-downloader) - Web Extension built using `vitesse-webext` template by @antfu. WavE Image Downloader is a browser extension that showcase the images in the active site and allows you to download them.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [jinglescode/nostr-url-shortener](https://github.com/jinglescode/nostr-url-shortener) - A free URL shortener service enabled by the NOSTR protocol, that is fast and fuss-free, stripped of all bells and whistles, no gimmicks—it just works!
 - [pseudozach/nostr.directory](https://github.com/pseudozach/nostr.directory) - Find people you know from other social media sites on nostr
 - [OpenAgentsInc/arcade](https://github.com/OpenAgentsInc/arcade) - Nostr & AI chat app
@@ -9051,7 +9066,7 @@
 - [adrienZ/slip](https://github.com/adrienZ/slip) - Plug and play authentication module for Nuxt
 - [radix-vue/vaul-vue](https://github.com/radix-vue/vaul-vue) - An unstyled drawer component for Vue.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI.
 - [ekzhang/rushlight](https://github.com/ekzhang/rushlight) - Real-time collaborative code editing on your own infrastructure
@@ -9112,11 +9127,10 @@
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits
-- [Ubugeeei/chibivue](https://github.com/Ubugeeei/chibivue) - chibivue is minimal Vue.js v3 core implementations (Reactivity System, Virtual DOM, Component, Compiler (Template, SFC)). An online book for building your own Vue.js.
+- [ubugeeei/chibivue](https://github.com/ubugeeei/chibivue) - chibivue is minimal Vue.js v3 core implementations (Reactivity System, Virtual DOM, Component, Compiler (Template, SFC)). An online book for building your own Vue.js.
 - [kitbagjs/lorem](https://github.com/kitbagjs/lorem) - 
 - [kitbagjs/events](https://github.com/kitbagjs/events) - A lightweight event bus written in Typescript
 - [sxzz/vue-simple-props](https://github.com/sxzz/vue-simple-props) - Remove emits, slots, and attrs concepts in Vue.
-- [storyblok/storyblok-vue](https://github.com/storyblok/storyblok-vue) - Vue.js SDK for Storyblok CMS
 - [unjs/pkg-types](https://github.com/unjs/pkg-types) - Node.js utilities and TypeScript definitions for package.json and tsconfig.json
 - [divyenduz/plv8ify](https://github.com/divyenduz/plv8ify) - Turn JS/TS files into PLV8 functions
 - [token-js/token.js](https://github.com/token-js/token.js) - Integrate 200+ LLMs with one TypeScript SDK using OpenAI's format.
@@ -9199,7 +9213,7 @@
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [antfu/nuxt-better-optimize-deps](https://github.com/antfu/nuxt-better-optimize-deps) - 
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
-- [dbos-inc/dbos-transact](https://github.com/dbos-inc/dbos-transact) - The TypeScript framework for backends that scale
+- [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - The TypeScript framework for backends that scale
 - [renatomoor/unocss-preset-fluid](https://github.com/renatomoor/unocss-preset-fluid) - Elegantly scale type and space without breakpoints using unocss
 - [Simon-He95/transform-to-unocss-core](https://github.com/Simon-He95/transform-to-unocss-core) - core for transform-to-unocss
 - [Simon-He95/transformToUnoCSS](https://github.com/Simon-He95/transformToUnoCSS) - transform css to UnoCSS | 将 css 转换成 UnoCss 的语法
@@ -9373,7 +9387,7 @@
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers & their clients. Works nicely with Gatsby, Next.js & Nuxt. You can even self-host it.
 - [johnsoncodehk/tsconfig-helper](https://github.com/johnsoncodehk/tsconfig-helper) - 
 - [coracle-social/welshman](https://github.com/coracle-social/welshman) - Tools by the guy who built Coracle
-- [lumehq/lume](https://github.com/lumehq/lume) - A multi-purpose nostr client for desktop.
+- [lumehq/lume](https://github.com/lumehq/lume) - A multi-purpose nostr client for Windows and macOS.
 - [fiatjaf/nostr-wasm](https://github.com/fiatjaf/nostr-wasm) - a nostr wrapper on top of libsecp256k1 sha256 and bip340 methods compiled with emscripten
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [yuyinws/gitmand](https://github.com/yuyinws/gitmand) - display your most used command on Github/Gist
@@ -9396,6 +9410,7 @@
 - [cungminh2710/graphql-depth-limiter](https://github.com/cungminh2710/graphql-depth-limiter) - Limit the complexity of your GraphQL queries based on depth
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
+- [modbender/nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor) - Essentials to Quickly Integrate TipTap Editor into your Nuxt App
 - [OP-Engineering/link-preview-js](https://github.com/OP-Engineering/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
 - [phojie/nuxt-content-snippet](https://github.com/phojie/nuxt-content-snippet) - Easily import code snippets to your Nuxt Content documents
@@ -9545,6 +9560,7 @@
 - [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer) - A web tool to explore the ASTs generated by front-end parsers.
 - [TomPenguin/notion-md-crawler](https://github.com/TomPenguin/notion-md-crawler) - 
 - [altschuler/reshared](https://github.com/altschuler/reshared) - Share things within local communities
+- [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [harlan-zw/nuxt-site-config](https://github.com/harlan-zw/nuxt-site-config) - Unifying site config with powerful and flexible APIs, for module authors and users.
 - [Hebilicious/form-actions-nuxt](https://github.com/Hebilicious/form-actions-nuxt) - Nuxt Module that implements Form Actions
 - [so1ve/starter-unplugin](https://github.com/so1ve/starter-unplugin) - Starter template for Unplugin library
@@ -9805,7 +9821,7 @@
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - The web builder for advanced sites. An open-source visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
@@ -9903,7 +9919,7 @@
 - [fleetingnotes/fleeting-notes-obsidian](https://github.com/fleetingnotes/fleeting-notes-obsidian) - An Obsidian plugin to sync Obsidian with Fleeting Notes
 - [sheremet-va/vi-fetch](https://github.com/sheremet-va/vi-fetch) - 
 - [razorness/vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG, inspired by julienr114's vue-calendar-heatmap and github's contribution calendar graph
-- [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
+- [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [wobsoriano/vue-zorm](https://github.com/wobsoriano/vue-zorm) - Type-safe &lt;form&gt; for Vue using Zod
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
@@ -10133,7 +10149,7 @@
 - [L422Y/nuxt-mapple](https://github.com/L422Y/nuxt-mapple) - Nuxt module to build `/sitemap.xml` using a combination of static and generated routes.
 - [wobsoriano/numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.
 - [Shopify/quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
@@ -10175,7 +10191,7 @@
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
-- [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
+- [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 - [brojor/dev.to-clone](https://github.com/brojor/dev.to-clone) - An DEV.to clone created with Adonis.js, SQLite and Vue.js 3
 - [LinusBorg/vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple wrapper function
@@ -10300,7 +10316,7 @@
 - [wobsoriano/vue-lite-youtube-embed](https://github.com/wobsoriano/vue-lite-youtube-embed) - A private by default, faster and cleaner YouTube embed component for Vue applications.
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [vu3th/vue-dapp](https://github.com/vu3th/vue-dapp) - Empower dapp developers with Vue integration for crypto wallets
-- [pinpon-dev/nuxt-graphql-playground](https://github.com/pinpon-dev/nuxt-graphql-playground) - A Nuxt.js module that injects a server route to serve the GraphQL Playground
+- [tuarrep/nuxt-graphql-playground](https://github.com/tuarrep/nuxt-graphql-playground) - A Nuxt.js module that injects a server route to serve the GraphQL Playground
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [jetbridge/axios-jwt](https://github.com/jetbridge/axios-jwt) - Store, transmit, refresh JWT authentication tokens for axios
@@ -10356,7 +10372,7 @@
 - [lusift/lusift](https://github.com/lusift/lusift) - Javascript library to create product walkthroughs for your web app. Drive users through the different features of your product.
 - [nareshbhusal/roadmap](https://github.com/nareshbhusal/roadmap) - A kanban board, project, and idea management app built with React and IndexedDB.
 - [nuxt-modules/critters](https://github.com/nuxt-modules/critters) - CSS optimization using critters for Nuxt
-- [sxzz/vue-functional-ref](https://github.com/sxzz/vue-functional-ref) - Functional-style refs for Vue.
+- [sxzz/vue-functional-ref](https://github.com/sxzz/vue-functional-ref) - Functional-style refs for Vue reactivity.
 - [module-federation/utilities](https://github.com/module-federation/utilities) - Various Utilities for Module Federation
 - [planet-graphql/planet-graphql](https://github.com/planet-graphql/planet-graphql) - PlanetGraphQL is a GraphQL Schema builder designed to work well with Prisma.
 - [fyapy/vue3-vite-custom-ssr-example](https://github.com/fyapy/vue3-vite-custom-ssr-example) - 
@@ -10666,7 +10682,7 @@
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
 - [GavinRay97/hasura-openapi-to-actions-converter](https://github.com/GavinRay97/hasura-openapi-to-actions-converter) - 
 - [Koleok/sveltekit-wundergraph-postgresql-realtime-chat](https://github.com/Koleok/sveltekit-wundergraph-postgresql-realtime-chat) - WunderGraph Realtime Chat Example using SvelteKit, TypeScript, PostgreSQL, GraphQL
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [buzz/mediainfo.js](https://github.com/buzz/mediainfo.js) - Extract media file metadata in the browser using WebAssembly.
 - [jmaister/excellentexport](https://github.com/jmaister/excellentexport) - Javascript export to Excel
@@ -10788,7 +10804,7 @@
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
-- [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) - The Bitcoin Lightning Browser extension that connects to different wallet interfaces and brings deep lightning integration to the web
+- [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) - The Bitcoin Lightning Browser Extension that brings deep Lightning & Nostr integration to the web. Wallet interface to multiple lightning nodes and key signer for Nostr, Liquid and onchain use.
 - [AstrumU/graphql-authz](https://github.com/AstrumU/graphql-authz) - GraphQL authorization layer
 - [dimaMachina/graphql-eslint](https://github.com/dimaMachina/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [atulmy/gql-query-builder](https://github.com/atulmy/gql-query-builder) - 🔧 Simple GraphQL Query Builder
@@ -11661,7 +11677,7 @@
 - [maticzav/graphql-middleware-apollo-upload-server](https://github.com/maticzav/graphql-middleware-apollo-upload-server) - Upload is hard, that's why we do it for you. :tada:
 - [nuxt-modules/device](https://github.com/nuxt-modules/device) - Nuxt module for detecting device type.
 - [safrazik/vue-file-agent](https://github.com/safrazik/vue-file-agent) - The most beautiful and full featured file upload component for Vue JS
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [github/webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [maxmilton/new-tab](https://github.com/maxmilton/new-tab) - ⚡ A high-performance browser new tab page that gets you where you need to go faster.
@@ -11778,6 +11794,7 @@
 - [apache/incubator-annotator](https://github.com/apache/incubator-annotator) - Apache Annotator provides annotation enabling code for browsers, servers, and humans.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [tvvignesh/node-skeleton](https://github.com/tvvignesh/node-skeleton) - An nodejs boilerplate packaged with Typescript, Docker, Kubernetes, PM2, Eslint, Prettier, VSCode config, Winston, Typedoc, Nodemon, AVA, PromClient, JWT, Editorconfig, OpenAPI/Swagger, Jaeger/Open Tr
 - [anton-g/quizify](https://github.com/anton-g/quizify) - 🎶 Local multiplayer music quiz where any browser is a buzzer 🙋
 - [nuxt-modules/robots](https://github.com/nuxt-modules/robots) - Tame the robots crawling and indexing your Nuxt site.
@@ -11833,7 +11850,7 @@
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [euvl/v-clipboard](https://github.com/euvl/v-clipboard) - Simple and powerful clipboard plugin for Vue.js 2 and 3
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
@@ -12091,6 +12108,8 @@
 
 ## Vue 
 
+- [on-org/nuxt-openapi-docs-module](https://github.com/on-org/nuxt-openapi-docs-module) - This module provides a simple way to display OpenAPI documentation in a Nuxt.js 2 & 3 application.
+- [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 3 + Shadcn + UnoCSS
 - [nostrver-se/nuxstr](https://github.com/nostrver-se/nuxstr) - Starter template for building a Nostr client with the Nuxt Vue framework and Nostr Dev Kit
 - [Teygeta/nuxt-doc](https://github.com/Teygeta/nuxt-doc) - 🚀 An open source project for create the most effective documentation for your projects
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
@@ -12103,13 +12122,14 @@
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie) - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster.
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
-- [shepherd-pro/vue-shepherd](https://github.com/shepherd-pro/vue-shepherd) - A Vue wrapper for the site tour library Shepherd
+- [shipshapecode/vue-shepherd](https://github.com/shipshapecode/vue-shepherd) - A Vue wrapper for the site tour library Shepherd
 - [zackha/nuxtcommerce](https://github.com/zackha/nuxtcommerce) - An open-source, dynamic e-commerce solution powered by Nuxt 3 and GraphQL, headless storefront replacement for Woocommerce. Featuring a user interface in the style of Pinterest and fully customizable 
 - [emsitkowski/dashrise](https://github.com/emsitkowski/dashrise) - dashrise is a budget planner app built with Nuxt3, Supabase, and Tailwind CSS. It was created for my personal use to keep track of my finances, transactions, and more.
 - [devstack-be/nuxt-saas-stripe-starter](https://github.com/devstack-be/nuxt-saas-stripe-starter) - Open-source SaaS Starter. Built using Nuxt 3, Prisma, Neon, Sidebase Nuxt Auth, Resend, Stripe, Nuxt UI, Nuxt Content
 - [scrumlens/scrumlens](https://github.com/scrumlens/scrumlens) - Agile Retrospective Tool. Open-source, real-time, and designed to make your team's voice heard loud and clear
 - [djaxho/pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Simple and lightweight vue chart component without using chart library dependencies
 - [nuxt-ui-pro/landing](https://github.com/nuxt-ui-pro/landing) - A landing page template made with Vue & Nuxt UI Pro.
+- [storyblok/storyblok-vue](https://github.com/storyblok/storyblok-vue) - Vue.js SDK for Storyblok CMS
 - [DevHumbleChris/nuxt-nitro-chat](https://github.com/DevHumbleChris/nuxt-nitro-chat) - Welcome to Nuxt Nitro Chat! 🚀 This Nuxt app uses experimental web sockets for real-time group chat in Nuxt.js. 💬✨
 - [golangtw/gopherday2024](https://github.com/golangtw/gopherday2024) - GopherDay 2024 Website
 - [Yaprof/yaprof-app](https://github.com/Yaprof/yaprof-app) - Yaprof est une application mobile type PWA utilisant Pronote dans le but de servir d'outil aux élèves et leur indiquer si un professeur est présent ou non de façon collaborative.
@@ -12190,7 +12210,6 @@
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [story2Dev/playwright-nuxt3-e2e](https://github.com/story2Dev/playwright-nuxt3-e2e) - playwright-nuxt3-e2e is a GitHub repository that contains end-to-end (E2E) tests for Nuxt 3 applications using Playwright. Playwright is a powerful automation library that allows you to control web br
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
-- [modbender/nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor) - Essentials to Quickly Integrate TipTap Editor into your Nuxt App
 - [mayashavin/storefrontui-nuxt-demo](https://github.com/mayashavin/storefrontui-nuxt-demo) - 
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue-ish way for interacting with map(box|libre)-gl-js 🧭
 - [selemondev/prime-store](https://github.com/selemondev/prime-store) - A Nuxt 3 shopping cart built with PrimeVue and Pinia
@@ -12254,7 +12273,6 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [John-Weeks-Dev/spotify-clone](https://github.com/John-Weeks-Dev/spotify-clone) - This is a Spotify Clone made with Vite, Vue 3, Tailwind CSS, and Pinia
 - [Boluwatife2904/kanban](https://github.com/Boluwatife2904/kanban) - Kanban task management web app
-- [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [meistrari/prompts-royale](https://github.com/meistrari/prompts-royale) - Automatically create prompts and make them fight each other to know which is the best
 - [FRSOURCE/fast-angle](https://github.com/FRSOURCE/fast-angle) - Online protractor - measure any angle directly on your image!
 - [ietf-tools/rpc](https://github.com/ietf-tools/rpc) - Web tool for the RFC Production Center
@@ -12710,7 +12728,7 @@
 - [neelansh15/vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate fully-customizable plugin for skeleton cards in Vue. It's a no-brainer. (Vue 2)
 - [Namchee/tetikus](https://github.com/Namchee/tetikus) - A small custom cursor component for Vue 3 ✌️
 - [vuejs/ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
-- [davidmyersdev/octo](https://github.com/davidmyersdev/octo) - A local-first, progressive web app for knowledge management
+- [davidmyersdev/octo](https://github.com/davidmyersdev/octo) - A local-first knowledge management app
 - [Delivator/SkyGallery](https://github.com/Delivator/SkyGallery) - Create galleries by uploading images and videos. Powered by Sia Skynet.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [codebender828/nuxt-mdx-poc](https://github.com/codebender828/nuxt-mdx-poc) - Proof of concept for Nuxt.js Documentation with MDX + Vue live editor
