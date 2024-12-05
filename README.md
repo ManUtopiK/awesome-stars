@@ -715,7 +715,6 @@
 ## EJS 
 
 - [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON) - DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a ba
-- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government's design system (Système de Design de l'État)
 - [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report) - 📈 CLI tool to generate performance reports of websites using the self-hosted analytics tool Ackee.
 - [essay-org/essay](https://github.com/essay-org/essay) - personalise blog system
 - [mazipan/bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - 🐝 Free admin dashboard template with bulma css
@@ -1747,6 +1746,7 @@
 - [ConsolesAI/consoles-ai](https://github.com/ConsolesAI/consoles-ai) - 
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+- [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [henrikvilhelmberglund/unocss-tutorial](https://github.com/henrikvilhelmberglund/unocss-tutorial) - (WIP!) Interactive tutorial for learning UnoCSS. Made with TutorialKit.
 - [tomayac/prompt-api-playground](https://github.com/tomayac/prompt-api-playground) - This is a demo of Chrome's built-in Prompt API powered by Gemini Nano.
@@ -2891,6 +2891,7 @@
 - [cloudera/hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 - [anonrig/awacs](https://github.com/anonrig/awacs) - Next-gen mobile first analytics server (think Mixpanel, Google Analytics) with built-in encryption supporting HTTP2 and gRPC. Node.js, headless, API-only, horizontally scaleable.
 - [soapdog/ssb-client-for-browser](https://github.com/soapdog/ssb-client-for-browser) - client library to scuttlebot
+- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government's design system (Système de Design de l'État)
 - [0xHexE/keycloak-hasura-connector](https://github.com/0xHexE/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
 - [MdSazzadIslam/node-mongo-graphql-api](https://github.com/MdSazzadIslam/node-mongo-graphql-api) - A GraphQL API with Node and MongoDB
 - [Proof-Of-Humanity/proof-of-humanity-web](https://github.com/Proof-Of-Humanity/proof-of-humanity-web) - The Proof Of Humanity web application.
@@ -7882,7 +7883,7 @@
 
 ## Python 
 
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) system with a RESTful API
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Containerized, Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [NVIDIA-AI-IOT/jetson-copilot](https://github.com/NVIDIA-AI-IOT/jetson-copilot) - A reference application for a local AI assistant with LLM and RAG
 - [jetsonhacks/system-monitor](https://github.com/jetsonhacks/system-monitor) - A web enabled system monitor for NVIDIA Jetson Development Kits
 - [HYP3R00T/Omnishare](https://github.com/HYP3R00T/Omnishare) - 
@@ -7925,7 +7926,7 @@
 - [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 🔀 Deployement of LLM at a large scale using VLLM server for inference
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [TransformerOptimus/AutoNode](https://github.com/TransformerOptimus/AutoNode) - AutoNode: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
@@ -8622,6 +8623,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [idena-network/idena-wasm](https://github.com/idena-network/idena-wasm) - 
+- [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
@@ -9305,7 +9307,6 @@
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
-- [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
@@ -12273,6 +12274,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
