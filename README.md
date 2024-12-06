@@ -6325,6 +6325,7 @@
 
 ## Jupyter Notebook 
 
+- [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [timescale/private-rag-example](https://github.com/timescale/private-rag-example) - Private RAG app sample using Llama3, Ollama and PostgreSQL
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [GabrieleSgroi/wiki_llama](https://github.com/GabrieleSgroi/wiki_llama) - 
@@ -6536,6 +6537,7 @@
 
 ## Others 
 
+- [WICG/view-transitions](https://github.com/WICG/view-transitions) - 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
@@ -7700,7 +7702,7 @@
 - [Srokap/transfer_plugins](https://github.com/Srokap/transfer_plugins) - Transfer Elgg plugins between installations
 - [Pleio/tasks](https://github.com/Pleio/tasks) - This plugin will allow you to create and manage tasks in the Elgg Way
 - [hypeJunction/elgg_upgrade_key](https://github.com/hypeJunction/elgg_upgrade_key) - Protect upgrade.php with a key
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+- [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 - [juho-jaakkola/elgg-pdf_export](https://github.com/juho-jaakkola/elgg-pdf_export) - 
 - [StanScates/Tweet.js-Mod](https://github.com/StanScates/Tweet.js-Mod) - Basic wrapper for Seaofclouds / Tweet.js that incorporates functionality with Twitter's v1.1 API
 - [beck24/polls](https://github.com/beck24/polls) - Polls for Elgg 1.8
@@ -9142,6 +9144,9 @@
 
 ## TypeScript 
 
+- [wxt-dev/examples](https://github.com/wxt-dev/examples) - Collection of examples showing you how to use WXT to implement things in web extensions.
+- [welives/wxt-vue-starter](https://github.com/welives/wxt-vue-starter) - A simple wxt starter using vue, unocss and shadcn
+- [hichemfantar/react-bluesky-embed](https://github.com/hichemfantar/react-bluesky-embed) - Embed Bluesky UI into your application like posts, comments, and profiles
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
@@ -9181,7 +9186,6 @@
 - [realvjy/coolshapes-react](https://github.com/realvjy/coolshapes-react) - 100+ abstract shapes with gradient for design & dev project
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [frontcodelover/picsell](https://github.com/frontcodelover/picsell) - Photographer MarketPlace
-- [timb-103/colormagic](https://github.com/timb-103/colormagic) - AI Color Palette Generator
 - [adrianhajdin/banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [stephane-klein/poc-svelte-prosemirror-markdown](https://github.com/stephane-klein/poc-svelte-prosemirror-markdown) - 
@@ -9276,7 +9280,7 @@
 - [hasura/ndc-open-api-lambda](https://github.com/hasura/ndc-open-api-lambda) - 
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 - [TeemuKoivisto/prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
 - [stepci/garph-gqty](https://github.com/stepci/garph-gqty) - A tRPC-style client for Garph
@@ -9510,6 +9514,7 @@
 - [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [nuxt/eslint](https://github.com/nuxt/eslint) - Collection of ESLint-related packages for Nuxt
 - [toimc/vue-markdown-shiki](https://github.com/toimc/vue-markdown-shiki) - A Vue 3 component library that provides integration with Shiki and Markdown-it.
 - [pi0/nuxt-shiki](https://github.com/pi0/nuxt-shiki) - 🎨 Nuxt + Shiki syntax highlighter
@@ -9956,7 +9961,7 @@
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [meteorlxy/vue-showdown](https://github.com/meteorlxy/vue-showdown) - :page_with_curl: Use showdown as a vue component
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Ark UI is a headless UI library with over 45+ components designed to build scalable Design Systems that works for a wide range of JS frameworks.
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 - [credred/vue-drag-select](https://github.com/credred/vue-drag-select) - Drag select component for Vue3
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [BitairLabs/concurrent.js](https://github.com/BitairLabs/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
@@ -12319,6 +12324,7 @@
 - [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling
 - [story2Dev/nuxt3-admin-dashboard](https://github.com/story2Dev/nuxt3-admin-dashboard) - Building a Stunning Nuxt 3 Admin Dashboard: Naive UI,Echarts,Tailwind CSS,ESLint,Prettier
 - [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use
+- [timb-103/colormagic](https://github.com/timb-103/colormagic) - AI Color Palette Generator
 - [maktezi/APP](https://github.com/maktezi/APP) - NuxtJS, Laravel APP
 - [manniL/quickpic-nuxt](https://github.com/manniL/quickpic-nuxt) - Theo's QuickPic app - but with Vue and Nuxt.js
 - [taunoha/nuxt3-boilerplate](https://github.com/taunoha/nuxt3-boilerplate) - A Nuxt 3 starter template with a lot of useful features.
@@ -12414,7 +12420,6 @@
 - [NvdB31/nuxt-editable](https://github.com/NvdB31/nuxt-editable) - Nuxt Editable is a free content editor UI to embed in your Nuxt site.
 - [Matb85/PhotoEditor](https://github.com/Matb85/PhotoEditor) - a Photo Editor created with Vue, Element Plus and Cropperjs
 - [arashsheyda/arch](https://github.com/arashsheyda/arch) - Build your personal website less than a minute with Markdown, powered by Nuxt 3
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [NataliaTepluhina/test-example](https://github.com/NataliaTepluhina/test-example) - 
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application running on Cloudflare Pages, with zero configuration. Support D1, R2 and KV storages.
 - [tesla3327/custom-prose-components](https://github.com/tesla3327/custom-prose-components) - 
