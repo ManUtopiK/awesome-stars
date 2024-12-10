@@ -816,7 +816,7 @@
 - [BatteredBunny/browser_terminal](https://github.com/BatteredBunny/browser_terminal) - Terminal emulator extension for browser
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [HalCanary/mastodoner](https://github.com/HalCanary/mastodoner) - programs for talking to a mastodon server.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
@@ -7246,6 +7246,7 @@
 
 ## PHP 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [nostrver-se/nostr-php](https://github.com/nostrver-se/nostr-php) - PHP helper library for Nostr https://nostr-php.dev
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -8429,6 +8430,7 @@
 
 ## Rust 
 
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -9164,6 +9166,7 @@
 
 ## TypeScript 
 
+- [cartesapp/cartes](https://github.com/cartesapp/cartes) - L'appli Web de cartes grand public
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
@@ -10273,7 +10276,7 @@
 - [lokalise/node-service-template](https://github.com/lokalise/node-service-template) - Batteries-included starter template for Node.js backend services
 - [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix & React Router
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
-- [gchumillas/schema-fixer](https://github.com/gchumillas/schema-fixer) - A node library to "repair" data from external sources
+- [gchumillas/schema-fixer](https://github.com/gchumillas/schema-fixer) - A node library to "fix" data
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [estruyf/vscode-sparkup](https://github.com/estruyf/vscode-sparkup) - Unlock Your Content's Potential with Sparkup
 - [alloc/vite-postgres](https://github.com/alloc/vite-postgres) - 
@@ -10718,7 +10721,6 @@
 - [uimix-editor/uimix](https://github.com/uimix-editor/uimix) - A WYSIWYG React component builder 🚧 Very work-in-progress
 - [Jannchie/anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 - [jessmartin/mumblr](https://github.com/jessmartin/mumblr) - Micro-blogging application, powered by WebNative.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [danielroe/windicss-nuxt-windicss](https://github.com/danielroe/windicss-nuxt-windicss) - 🍃 Windi CSS for Nuxt.js ⚡
 - [danielroe/template](https://github.com/danielroe/template) - 
 - [danielroe/stream-vue](https://github.com/danielroe/stream-vue) - Vue component for Cloudflare Stream.
@@ -12261,7 +12263,7 @@
 - [wKovacs64/hibp](https://github.com/wKovacs64/hibp) - An unofficial TypeScript SDK for the 'Have I been pwned?' service.
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.
-- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly
 - [broofa/mime](https://github.com/broofa/mime) - Mime types for JavaScript
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
@@ -12547,7 +12549,7 @@
 - [Boluwatife2904/kanban](https://github.com/Boluwatife2904/kanban) - Kanban task management web app
 - [meistrari/prompts-royale](https://github.com/meistrari/prompts-royale) - Automatically create prompts and make them fight each other to know which is the best
 - [FRSOURCE/fast-angle](https://github.com/FRSOURCE/fast-angle) - Online protractor - measure any angle directly on your image!
-- [ietf-tools/rpc](https://github.com/ietf-tools/rpc) - Web tool for the RFC Production Center
+- [ietf-tools/purple](https://github.com/ietf-tools/purple) - Web tool for the RFC Production Center
 - [ulivz/vt](https://github.com/ulivz/vt) - 🖼️ A "Post-VuePress Era" Documentation Theme (Deprecation Warning: For a next-gen SSG, please check out Rspress.)
 - [timbenniks/timbenniks2020-nuxt](https://github.com/timbenniks/timbenniks2020-nuxt) - 
 - [miracleonyenma/content-v2-blog](https://github.com/miracleonyenma/content-v2-blog) - Blog powered by Nuxt Content v2
@@ -12810,6 +12812,7 @@
 - [bookshelves-project/bookshelves-front](https://github.com/bookshelves-project/bookshelves-front) - Bookshelves projects to display epubs
 - [gitFoxCode/nuxt-icons](https://github.com/gitFoxCode/nuxt-icons) - Module for Nuxt allowing pleasant use of svg icons
 - [BootGen/VueStart](https://github.com/BootGen/VueStart) - Turn any JSON into Vue 3 tables!
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [danielroe/n3dium](https://github.com/danielroe/n3dium) - This is a tiny, incomplete example for a paywalled content site built in Nuxt 3 for a live-coding session at Vue.js Global Summit 2022.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [antfu/what-time](https://github.com/antfu/what-time) - What time works for you?
