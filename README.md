@@ -1271,7 +1271,6 @@
 
 ## HTML 
 
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Tresjs/leches](https://github.com/Tresjs/leches) - 🍰 Tasty GUI for Vue controls
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
 - [0wczar/saasui-illustrations](https://github.com/0wczar/saasui-illustrations) - Free illustrations for your documentation or design system.
@@ -1702,7 +1701,7 @@
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [aamargajbhiye/big-data-projects](https://github.com/aamargajbhiye/big-data-projects) - This project has customization likes custom data sources, plugins written for the distributed systems like Apache Spark, Apache Ignite etc
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
@@ -2109,7 +2108,7 @@
 - [WilliamDASILVA/nuxt-facebook-pixel-module](https://github.com/WilliamDASILVA/nuxt-facebook-pixel-module) - Inject Facebook pixel code
 - [laurentpayot/verticalize](https://github.com/laurentpayot/verticalize) - A pipe-like function to verticalize your JavaScript code
 - [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history) - Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
-- [instant-dev/instant.dev](https://github.com/instant-dev/instant.dev) - JavaScript API framework with ORM, migrations and vectors
+- [instant-dev/instant.dev](https://github.com/instant-dev/instant.dev) - Command line tools for Instant API and ORM, including migrations and vectors
 - [Igor-Vladyka/leaflet.browser.print](https://github.com/Igor-Vladyka/leaflet.browser.print) - A leaflet plugin which allows users to print the map directly from the browser
 - [Eomm/telegram-bot-give-away](https://github.com/Eomm/telegram-bot-give-away) - A giveaway bot for Telegram, build with Fastify and Platformatic
 - [nuxt-community/google-gtag-module](https://github.com/nuxt-community/google-gtag-module) - Enable google gtagjs for NuxtJs
@@ -6675,6 +6674,7 @@
 
 ## Nix 
 
+- [akirak/nix-playwright-mcp](https://github.com/akirak/nix-playwright-mcp) - An easy-to-use Nix flake for Playwright MCP
 - [voidus/nix-playwright-browsers](https://github.com/voidus/nix-playwright-browsers) - Nix derivations for Playwright browsers in various versions
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
@@ -8103,7 +8103,7 @@
 ## Python 
 
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
@@ -8218,6 +8218,7 @@
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Loki: Open-source solution designed to automate the process of verifying factuality
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
@@ -8714,7 +8715,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying user input, unifying access and observabi
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying input, unifying access and observability 
 - [cpollet/shaarlot](https://github.com/cpollet/shaarlot) - A Shaarli-inspired bookmark manager written in rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [francesca64/hotwatch](https://github.com/francesca64/hotwatch) - A Rust library for conveniently watching and handling file changes.
@@ -8729,7 +8730,7 @@
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
-- [hsa00000/Urocissa](https://github.com/hsa00000/Urocissa) - Urocissa is a self-hosted gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
+- [hsa00000/Urocissa](https://github.com/hsa00000/Urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [urin/moove](https://github.com/urin/moove) - 🚚 Manipulate file names and locations using any text editor
 - [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage or http(s) stores from within PostgreSQL
@@ -8774,7 +8775,6 @@
 - [pleisto/flappy](https://github.com/pleisto/flappy) - Production-Ready LLM Agent SDK for Every Developer
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -9457,6 +9457,8 @@
 
 ## TypeScript 
 
+- [addyosmani/recorder](https://github.com/addyosmani/recorder) - 📹 Record is an open-source web app to record screen and camera directly in your browser | No installation required | No tracking | Fully local
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) - A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.
 - [HMarzban/notion-avatar-generator](https://github.com/HMarzban/notion-avatar-generator) - Create customizable Notion-style avatars with this simple web app. Features easy personalization options, modern UI, and fast rendering. Perfect for personal branding, team profiles, and digital perso
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
@@ -9822,6 +9824,7 @@
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [lencx/GPTHub](https://github.com/lencx/GPTHub) - 🔍 Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!
 - [jacob-ebey/localllama](https://github.com/jacob-ebey/localllama) - A local frontend for Ollama build on Remix. Use it as is or as a starting point for your own project.
+- [imrofayel/fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue & Tauri (Rust).
 - [Maeevick/your-pirate-friend](https://github.com/Maeevick/your-pirate-friend) - A proof of concept project about an easy, simple, straightforward agent to monitor AARRR metrics.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
 - [sergetymo/kaksik](https://github.com/sergetymo/kaksik) - Middleware library for creating apps for Gemini protocol on top of Deno runtime using TypeScript
@@ -10087,7 +10090,7 @@
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-- [sxzz/tsdown](https://github.com/sxzz/tsdown) - An even faster bundler powered by Rolldown.
+- [rolldown/tsdown](https://github.com/rolldown/tsdown) - An even faster bundler powered by Rolldown.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [JoshuaKGoldberg/emojipedia](https://github.com/JoshuaKGoldberg/emojipedia) - Unofficial static export of technical information from Emojipedia. 📙
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
@@ -10298,7 +10301,7 @@
 - [Jaaneek/useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
 - [endigma/unocss-preset-radix](https://github.com/endigma/unocss-preset-radix) - A preset for UnoCSS to let you use Radix color palette
 - [koca/vue-use-gesture](https://github.com/koca/vue-use-gesture) - 👇  Bread n butter utility for component-tied mouse/touch gestures in Vue
-- [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
+- [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
 - [explore-frontend/reborn](https://github.com/explore-frontend/reborn) - A State Management with Apollo for Vue.js
 - [wobsoriano/vue-clerk](https://github.com/wobsoriano/vue-clerk) - Community Clerk Vue SDK.
 - [joshmarinacci/node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of the HTML Canvas 2D drawing API
@@ -13011,7 +13014,6 @@
 - [aksharahegde/nuxt-glow](https://github.com/aksharahegde/nuxt-glow) - Add a mouse-tracing glow effect to Nuxt components
 - [Kong/kongponents](https://github.com/Kong/kongponents) - 🦍 Kong Vue Component Library
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-- [imrofayel/fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue & Tauri (Rust).
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
 - [HugoRCD/inkly](https://github.com/HugoRCD/inkly) - The most simple open-source email signature generator
 - [LearnVueCo/demo-dashboard](https://github.com/LearnVueCo/demo-dashboard) - A Vue 3 Example of Deferred Teleport
@@ -13108,7 +13110,7 @@
 - [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
 - [fayazara/v-extension](https://github.com/fayazara/v-extension) - A modern Vue 3, Tailwind and Vite Chrome extension starter
 - [fayazara/hawa](https://github.com/fayazara/hawa) - A simple white noise app which sits in the menubar
-- [colinlienard/portfolio-2022](https://github.com/colinlienard/portfolio-2022) - ✨ My portfolio built with Nuxt and Nuxt Content
+- [colinlienard/colin-lienard.fr](https://github.com/colinlienard/colin-lienard.fr) - ✨ My portfolio built with Nuxt and Nuxt Content
 - [paidge/nuxt3-tailwind-preline](https://github.com/paidge/nuxt3-tailwind-preline) - Starter Kit for Nuxt3 and Preline-UI, prettier and ESlint
 - [johnsoncodehk/volar-starter](https://github.com/johnsoncodehk/volar-starter) - Full TypeScript support template for Vue 3 + Vite
 - [atinux/nuxt-deno-kv](https://github.com/atinux/nuxt-deno-kv) - A collaborative todo-list app built with Deno KV and Nuxt.
