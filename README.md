@@ -3581,7 +3581,6 @@
 - [ciberch/node-express-boilerplate](https://github.com/ciberch/node-express-boilerplate) - On Cloud Foundry
 - [revolunet/trackscan](https://github.com/revolunet/trackscan) - Analyse des trackers présents sur la page d'accueil des sites des organismes publics 🇫🇷
 - [biesiad/deelay](https://github.com/biesiad/deelay) - Delay proxy for http resources
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [SkeLLLa/fastify-oas](https://github.com/SkeLLLa/fastify-oas) - Fastify OpenAPI plugin.
 - [stephengfriend/hasura-mesh](https://github.com/stephengfriend/hasura-mesh) - Hasura + GraphQL Mesh = &lt;3
 - [coopflow/fastify-stripe](https://github.com/coopflow/fastify-stripe) - Stripe Node.js Library instance initialization and encapsulation in fastify framework.
@@ -8212,6 +8211,7 @@
 
 ## Python 
 
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [costales/folder-color](https://github.com/costales/folder-color) - Folder Color for Linux file browsers
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [gaheldev/Millisecond](https://github.com/gaheldev/Millisecond) - Optimize your Linux system for low latency audio
@@ -8264,7 +8264,7 @@
 - [daenarya/openbadges-bakery](https://github.com/daenarya/openbadges-bakery) - Python module for baking and unbaking Open Badges via command line or python interface.
 - [edubadges/edubadges-server](https://github.com/edubadges/edubadges-server) - Edubadges: A SURF project for Open Badge issuing and management with Django.
 - [1EdTech/openbadges-validator-core](https://github.com/1EdTech/openbadges-validator-core) - Open Badges validation in python
-- [jesuscopado/samantha-os1](https://github.com/jesuscopado/samantha-os1) - Samantha OS1 is a conversational AI assistant powered by the Realtime API from OpenAI
+- [jesuscopado/samantha-os1-openai-realtime](https://github.com/jesuscopado/samantha-os1-openai-realtime) - Samantha OS1 is a conversational AI assistant powered by the Realtime API from OpenAI
 - [ekatiyar/open-webui-tools](https://github.com/ekatiyar/open-webui-tools) - Tools for interacting with Large Language Models in Open WebUI
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [cloudmercato/ollama-benchmark](https://github.com/cloudmercato/ollama-benchmark) - Handy tool to measure the performance and efficiency of LLMs workloads.
@@ -8620,6 +8620,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [vivithemage/mrisa](https://github.com/vivithemage/mrisa) - MRISA - Meta reverse image search api
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -9638,6 +9639,7 @@
 
 ## TypeScript 
 
+- [pothuraju-dev/nuxt-shadcn-supabase-starter](https://github.com/pothuraju-dev/nuxt-shadcn-supabase-starter) - A Nuxt 3 starter template powered by Shadcn-vue, TailwindCSS, and Supabase — built for modern fullstack Vue developers.
 - [neilck/aka-extension](https://github.com/neilck/aka-extension) - Nostr Signing Extension for Chrome supporting multiple key pairs.
 - [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for scalable, typesafe design systems. A modern approach to just-in-time atomic CSS using CSS variables—no bundler required.
 - [thefrontside/effection](https://github.com/thefrontside/effection) - Structured concurrency and effects for JavaScript
@@ -9687,7 +9689,7 @@
 - [astahmer/typed-openapi](https://github.com/astahmer/typed-openapi) - Generate a headless Typescript API client from an OpenAPI spec - optionally with a @tanstack/react-query client using queryOptions
 - [ryan0x44/typescript-validation-benchmarks](https://github.com/ryan0x44/typescript-validation-benchmarks) - Benchmarks of multiple TypeScript validation libraries such as Zod, Arktype v2, Typebox with Ajv, and Typebox TypeCompiler
 - [watershed-climate/zod-vs-arktype](https://github.com/watershed-climate/zod-vs-arktype) - Comparison of Zod and Arktype performance with GHG schema
-- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - Monorepo with 🤖 AI initialize | 🔥Hono + OpenAPI & RPC, Nuxt, SST Ion, Kinde Auth, Tanstack Query, Shadcn, Primevue, UnoCSS, Spreadsheet I18n
+- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - Monorepo with 🤖 AI initialize and i18n | 🔥Hono + OpenAPI & RPC, Nuxt, SST Ion, Kinde Auth, Tanstack Query, Shadcn, Primevue, UnoCSS, Spreadsheet I18n, Lingo.dev
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 Server-oriented customizable templating for JavaScript. Alternative to HTMX and Alpine.js.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
@@ -10818,7 +10820,7 @@
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [nuxt/cli](https://github.com/nuxt/cli) - Nuxt CLI
-- [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
+- [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
 - [castaneai/apubhook](https://github.com/castaneai/apubhook) - Incoming Webhook-like server for ActivityPub.
 - [giacomorebonato/collab-editor](https://github.com/giacomorebonato/collab-editor) - Collaborative editor
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
@@ -11749,7 +11751,7 @@
 - [privatenumber/link](https://github.com/privatenumber/link) - 🔗 A better `npm link`
 - [prasanaworld/puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) - A powerful plugin for recording with Puppeteer.
 - [SamuelScheit/puppeteer-stream](https://github.com/SamuelScheit/puppeteer-stream) - A Library for puppeteer to retrieve audio and video streams of webpages
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects
 - [jbaubree/vite-ssg-sitemap](https://github.com/jbaubree/vite-ssg-sitemap) - 
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
