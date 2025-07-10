@@ -6602,7 +6602,7 @@
 
 ## Jinja 
 
-- [cyclotruc/gitcontainer](https://github.com/cyclotruc/gitcontainer) - Replace "github" with "gitcontainer" in URLs to generate a dockerfile.
+- [coderamp-labs/gitcontainer](https://github.com/coderamp-labs/gitcontainer) - Replace "github" with "gitcontainer" in URLs to generate a dockerfile.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
@@ -8324,7 +8324,7 @@
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
@@ -10114,7 +10114,7 @@
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
 - [CorentinTh/friendly-ids](https://github.com/CorentinTh/friendly-ids) - Generate human readable unique identifiers.
 - [Melvynx/melvynx.dev](https://github.com/Melvynx/melvynx.dev) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 No Code Web Data Extraction Platform • Open-Source Alternative To Octoparse, ParseHub 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-Source No Code Web Data Extraction Platform 🔥
 - [brakmic/passport-keycloak-oauth2-oidc-portable](https://github.com/brakmic/passport-keycloak-oauth2-oidc-portable) - A Passport.js strategy for authenticating with Keycloak using the OAuth2/OIDC API (portable version)
 - [akash3444/shadcn-ui-blocks](https://github.com/akash3444/shadcn-ui-blocks) - Customized Shadcn UI component and blocks. Just copy & Paste!
 - [cfeenstra67/sqlauthz](https://github.com/cfeenstra67/sqlauthz) - Declarative permissions management for PostgreSQL
