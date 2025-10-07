@@ -1268,7 +1268,7 @@
 - [rendora/rendora](https://github.com/rendora/rendora) - Dynamic server-side rendering using headless Chrome
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [1backend/1backend](https://github.com/1backend/1backend) - Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models. Language agnostic.
+- [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -2404,6 +2404,7 @@
 - [pyncz/tailwind-mask-image](https://github.com/pyncz/tailwind-mask-image) - A `mask-image` plugin for TailwindCSS
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [chaosue/vue3-treeselect](https://github.com/chaosue/vue3-treeselect) - 
+- [captbaritone/grats](https://github.com/captbaritone/grats) - Implementation-First GraphQL for TypeScript
 - [stefanjudis/pwt-workshop](https://github.com/stefanjudis/pwt-workshop) - A Playwright Test workshop
 - [janhapke/hasura-keycloak](https://github.com/janhapke/hasura-keycloak) - How to use Hasura with Keycloak
 - [mainmatter/compare-fixture](https://github.com/mainmatter/compare-fixture) - 
@@ -6661,7 +6662,6 @@
 - [mklarqvist/ai-playground](https://github.com/mklarqvist/ai-playground) - Playground for various AI projects and demos
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [HelgeKrueger/bovine](https://github.com/HelgeKrueger/bovine) - Modular ActivityPub/Fediverse Server
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mito-ds/mito](https://github.com/mito-ds/mito) - Jupyter extensions that help you write code faster: Context aware AI Chat, Autocomplete, and Spreadsheet
 - [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -7479,7 +7479,6 @@
 - [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [swicg/general](https://github.com/swicg/general) - General issue tracker for the group
-- [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [ecoledesdonnees/Data-Fundamentals](https://github.com/ecoledesdonnees/Data-Fundamentals) - 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -8295,7 +8294,7 @@
 - [ZingyTomato/NetPeek](https://github.com/ZingyTomato/NetPeek) - A modern network scanner for GNOME.
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
 - [eval-sys/mcpmark](https://github.com/eval-sys/mcpmark) - MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use.
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text server.
 - [perone/vectorvfs](https://github.com/perone/vectorvfs) - Your filesystem as a vector database
 - [bkdevs/async-server](https://github.com/bkdevs/async-server) - It's like Claude Code + Linear + GitHub PR
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -8595,6 +8594,7 @@
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [dipdup-io/dipdup](https://github.com/dipdup-io/dipdup) - Modular framework for creating selective indexers and featureful backends for dapps
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [simonw/datasette-openai](https://github.com/simonw/datasette-openai) - SQL functions for calling OpenAI APIs
@@ -8973,7 +8973,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [kasugamirai/nostr-crdt](https://github.com/kasugamirai/nostr-crdt) - 
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
@@ -9019,7 +9019,7 @@
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [francesca64/hotwatch](https://github.com/francesca64/hotwatch) - A Rust library for conveniently watching and handling file changes.
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) - Simple, self-hostable filesharing application with builtin end-to-end encryption
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -9856,7 +9856,7 @@
 - [yukukotani/monoread](https://github.com/yukukotani/monoread) - An unified interface (CLI&MCP) to read any web page in AI-optimized format
 - [nksaraf/magiql-browser](https://github.com/nksaraf/magiql-browser) - Web-based Browser and IDE for GraphQL (based on monaco-editor), useful for playgrounds for GraphQL servers
 - [DoneDeal0/codefather](https://github.com/DoneDeal0/codefather) - Codefather protects your codebase by controlling who can change what. Set authorization levels, lock down files, and enforce your rules—offline via CLI or online with GitHub Actions.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots and apply suggested edits
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects your code editor with free chatbots and applies chat responses for fast and privacy-first AI coding. Works with VS Code, Cursor, and other forks.
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
@@ -10993,6 +10993,7 @@
 - [formkit/shorten](https://github.com/formkit/shorten) - A public url shortener ❤️ 🌎 🗜️.
 - [ascorbic/use-php](https://github.com/ascorbic/use-php) - Use PHP in React
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
+- [incubrain/product-validator](https://github.com/incubrain/product-validator) - Product Validator is an opinionated nuxt 4 standards driven template with the sole purpose of identifying 'should I invest time/resources/money to create this thing?'
 - [vuemodel/core](https://github.com/vuemodel/core) - 💍💚 Marrying the frontend and backend for Vue applications
 - [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
 - [Jervis2049/vite-plugin-crx-mv3](https://github.com/Jervis2049/vite-plugin-crx-mv3) - Build a Chrome Extension with Vite⚡
@@ -11373,7 +11374,6 @@
 - [Mhdi-kr/vscode-webvue](https://github.com/Mhdi-kr/vscode-webvue) - vscode webview extension template using vue 3 and vite ⚡
 - [Codeinwp/logo-maker](https://github.com/Codeinwp/logo-maker) - Another Logo Maker app made for fun and profit.
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
-- [captbaritone/grats](https://github.com/captbaritone/grats) - Implementation-First GraphQL for TypeScript
 - [tresko/nuxt-module-feed](https://github.com/tresko/nuxt-module-feed) - Feed module - Everyone deserves RSS, Atom and JSON
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [0no-co/graphql.web](https://github.com/0no-co/graphql.web) - The spec-compliant minimum of client-side GraphQL.
@@ -11823,7 +11823,7 @@
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
 - [cssninjaStudio/nuxt-toaster](https://github.com/cssninjaStudio/nuxt-toaster) - 🔔 A simple toaster handler for Nuxt.js
 - [tokencss/tokencss](https://github.com/tokencss/tokencss) - 
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [innocenzi/vite-plugin-mjml](https://github.com/innocenzi/vite-plugin-mjml) - Vite plugin to add MJML compilation to your build pipeline
 - [wobsoriano/vue-lite-youtube-embed](https://github.com/wobsoriano/vue-lite-youtube-embed) - A private by default, faster and cleaner YouTube embed component for Vue applications.
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -13514,6 +13514,7 @@
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
+- [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -13948,7 +13949,6 @@
 - [fayazara/pocketbase-nuxt-example](https://github.com/fayazara/pocketbase-nuxt-example) - A test project with pocketbase
 - [nuxt-ui-templates/starter](https://github.com/nuxt-ui-templates/starter) - Nuxt Starter Template for Nuxt UI.
 - [hafizjavaid/Nuxt3-AI-Sass](https://github.com/hafizjavaid/Nuxt3-AI-Sass) - 
-- [incubrain/product-validator](https://github.com/incubrain/product-validator) - Product Validator is an opinionated nuxt 4 standards driven template with the sole purpose of identifying 'should I invest time/resources/money to create this thing?'
 - [HugoRCD/nuxtjs-boilerplate](https://github.com/HugoRCD/nuxtjs-boilerplate) - Nuxt Boilerplate ready-to-use with working OAuth Google, GItHub, Supabase, I18n translation, fully responsive, etc...
 - [eddami/nuxt-material-admin](https://github.com/eddami/nuxt-material-admin) - Vue-CLI Boilerplate based on Nuxt and vue-material-admin template.
 - [koddr/vue-goodshare](https://github.com/koddr/vue-goodshare) - 🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.
