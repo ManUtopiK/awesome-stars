@@ -909,7 +909,7 @@
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [btouchard/ackify-ce](https://github.com/btouchard/ackify-ce) - 🔏 Proof of Read. Compliance made simple.
 - [pippellia-btc/nwt](https://github.com/pippellia-btc/nwt) - A golang library implementing Nostr Web Tokens
-- [dorcha-inc/orla](https://github.com/dorcha-inc/orla) - A dead-simple unix tool for lightweight open-source local agents
+- [dorcha-inc/orla](https://github.com/dorcha-inc/orla) - A high performance execution engine for open-source agents
 - [btouchard/shm](https://github.com/btouchard/shm) - 🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
 - [orgrim/pg_back](https://github.com/orgrim/pg_back) - Simple backup tool for PostgreSQL
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
@@ -1980,7 +1980,7 @@
 - [Fats403/simple-ffmpegjs](https://github.com/Fats403/simple-ffmpegjs) - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.
 - [MvdZon/Vue3-log-arsenal](https://github.com/MvdZon/Vue3-log-arsenal) - An arsenal of logging directives to improve the debugging experience of Vue3 applications
 - [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
-- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
+- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images/animations
 - [GrabarzUndPartner/nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Publish your components as a custom-element standalone build.
 - [nicobailon/pi-annotate](https://github.com/nicobailon/pi-annotate) - Visual feedback from browser to AI. Click elements, add comments, fix code.
 - [telerik/kendo-vue](https://github.com/telerik/kendo-vue) - Issue tracker - Kendo UI for Vue http://www.telerik.com/kendo-vue-ui/
@@ -2101,7 +2101,6 @@
 - [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
 - [vueform/builder](https://github.com/vueform/builder) - Drag and Drop Form Builder for Vueform
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) - 👓 Syntax Highlighting using the CSS Custom Highlight API
@@ -7422,7 +7421,7 @@
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [fsciuti/awesome-speaker](https://github.com/fsciuti/awesome-speaker) - A curated list of awesome resource for public speakers, trainers and so on!
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
+- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions.
 - [documentation-as-code/ci-cd-for-documentation](https://github.com/documentation-as-code/ci-cd-for-documentation) - All Day DevOps - Doc As Code
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [jonnycrunch/ipid](https://github.com/jonnycrunch/ipid) - Interplanetary Identifiers -  Implementation of the DID ( decentralized identifiers) specification over the IPFS (Interplanetary File System) network.
@@ -8591,7 +8590,7 @@
 - [DGouron/linux-port-killer](https://github.com/DGouron/linux-port-killer) - A lightweight system tray application for Linux to find and kill processes using specific network ports
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude-Code-like Agent 0 - 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -8599,7 +8598,7 @@
 - [davidfowl/tally](https://github.com/davidfowl/tally) - Let agents classify your bank transactions.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [tencent-ailab/SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
-- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from data.gouv.fr, the French national Open Data platform, directly through conversation.
+- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [atlas-research-io/atlas-research-notebooks](https://github.com/atlas-research-io/atlas-research-notebooks) - From Prompt to Notebook. Some examples of taking ideas to execution with atlas-research.io
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -8695,7 +8694,7 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
@@ -9778,7 +9777,7 @@
 - [benchpressjs/benchpressjs](https://github.com/benchpressjs/benchpressjs) - ultralight javascript templating framework
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
+- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
 
 ## SCSS 
 
@@ -10432,7 +10431,7 @@
 - [JessicaSachs/nuxt-vitest-browser-mode](https://github.com/JessicaSachs/nuxt-vitest-browser-mode) - 
 - [codepunkt/vitest-environment-prisma-postgres](https://github.com/codepunkt/vitest-environment-prisma-postgres) - Vitest environment for Prisma & PostgreSQL designed for fast integration tests: seed your database once with production-like data, then run each test in a transaction that is rolled back after executi
 - [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
-- [nicnocquee/dataqueue](https://github.com/nicnocquee/dataqueue) - A lightweight, PostgreSQL-backed job queue for Node.js/TypeScript projects.
+- [nicnocquee/dataqueue](https://github.com/nicnocquee/dataqueue) - A typesafe postgres/redis-backed job queue for Node.js/TypeScript projects in long running or serverless
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [thetronjohnson/layrr](https://github.com/thetronjohnson/layrr) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
@@ -10735,6 +10734,7 @@
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) - The simplest deployment platform made for self-hosters.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
@@ -10830,7 +10830,7 @@
 - [khromov/ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
 - [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [LeSuisse/vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - Safe replacement for the v-html directive
 - [NamesMT/unplugin-sheet-i18n](https://github.com/NamesMT/unplugin-sheet-i18n) - unplugin-sheet-i18n enables doing your i18n in a [spread]sheet for a better collaborative experience with non-coders and maintainability.
 - [IzumiSy/arktype-form-builder](https://github.com/IzumiSy/arktype-form-builder) - Building forms from Arktype schema
@@ -13942,6 +13942,7 @@
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [nestjs/cqrs](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework (node.js) :balloon:
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [ParadeTo/vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - 🌲A vue component for tree structure
 - [4lejandrito/creepyface](https://github.com/4lejandrito/creepyface) - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [komninoschatzipapas/stripe-nuxt](https://github.com/komninoschatzipapas/stripe-nuxt) - Stripe.js for Nuxt
@@ -15382,7 +15383,6 @@
 - [Hoogkamer/vue-org-chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), 100% free and no install required: just copy a folder to any location
 - [ivanlori/Vuemmerce](https://github.com/ivanlori/Vuemmerce) - Responsive ecommerce template built with Vue.js and Nuxt.js
 - [rash0/Vue-Ecom](https://github.com/rash0/Vue-Ecom) - ✨ Full StoreFront built with Nuxt 3 + Pinia 2✨
-- [ParadeTo/vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - 🌲A vue component for tree structure
 - [daliborgogic/guess-nuxt](https://github.com/daliborgogic/guess-nuxt) - Predict the next page (or pages) a user is likely to visit and prefetch these pages, improving perceived page load performance and user happiness. During the build process, the GuessPlugin will fetch 
 - [rubystarashe/nuxt-vuex-localstorage-example](https://github.com/rubystarashe/nuxt-vuex-localstorage-example) - 
 - [syropian/vue-tribute](https://github.com/syropian/vue-tribute) - A Vue.js wrapper for Zurb's Tribute library for native @mentions
