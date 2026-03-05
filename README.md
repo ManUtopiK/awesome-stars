@@ -832,6 +832,7 @@
 
 ## Elixir 
 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [leandrocp/mdex](https://github.com/leandrocp/mdex) - Markdown for Elixir. Fast, Extensible, Phoenix-native. AI-ready. Built on top of comrak, ammonia, and lumis.
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
@@ -887,6 +888,7 @@
 
 ## Go 
 
+- [james-see/swatchify](https://github.com/james-see/swatchify) - Extract dominant colors from images using k-means clustering
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [joknarf/fuse-sshautofs](https://github.com/joknarf/fuse-sshautofs) - fuse automount sshfs filesystems
 - [kOlapsis/gmx](https://github.com/kOlapsis/gmx) - ʕ◔ϖ◔ʔ Write single-file components. Ship a single Go binary. No Node. No JS bundler. No runtime. Just Go + HTMX.
@@ -968,7 +970,7 @@
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine with a built-in Web UI. Define workflows in a simple, declarative YAML format. Execute them anywhere, compose complex pipelines, and distribute tasks. Zer
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
@@ -1651,7 +1653,7 @@
 - [Freshman-tech/svelte-todo-app](https://github.com/Freshman-tech/svelte-todo-app) - A Todo List Application built with Svelte 3
 - [Freshman-tech/unsplash-search](https://github.com/Freshman-tech/unsplash-search) - A Unsplash Search Application built with Svelte 3
 - [snipcart/svelte-markdown-editor](https://github.com/snipcart/svelte-markdown-editor) - Build a Svelte JS App: Magic Framework (Svelte 3 Tutorial)
-- [w3c/graphql-rdf](https://github.com/w3c/graphql-rdf) - Bridging GraphQL and RDF Community Group
+- [w3c-cg/graphql-rdf](https://github.com/w3c-cg/graphql-rdf) - Bridging GraphQL and RDF Community Group
 - [vipero07/svelte-file-upload-component](https://github.com/vipero07/svelte-file-upload-component) - A standalone svelte component that merges &lt;input type='file' /&gt; with drag drop browser functionality.
 - [TheOpenCloudEngine/micro-service-architecture-vuejs](https://github.com/TheOpenCloudEngine/micro-service-architecture-vuejs) - msa application example with vuejs and spring boot
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -2032,7 +2034,7 @@
 - [remarkjs/remark-yaml-config](https://github.com/remarkjs/remark-yaml-config) - plugin to configure remark with YAML frontmatter
 - [mmaudet/ovh-cost-manager](https://github.com/mmaudet/ovh-cost-manager) - OVH Cost Manager - Interactive dashboard for OVHcloud billing analysis with cost tracking, monthly comparisons, service breakdowns, and trend analysis
 - [chris-visser/convex-nuxt](https://github.com/chris-visser/convex-nuxt) - Convex module for Nuxt 3
-- [skridlevsky/openchaos](https://github.com/skridlevsky/openchaos) - A self-evolving open source project. Every day, the community votes on PRs, and the winner gets merged.
+- [skridlevsky/openchaos](https://github.com/skridlevsky/openchaos) - A self-evolving open source project. Every week, the community votes on PRs, and the winner gets merged.
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM bot + browser control + smart home control + computer control + virtual reality, and everything else you can imagine!⭐全能型AI伴侣！桌面女友
 - [popovicu/ultimate-linux](https://github.com/popovicu/ultimate-linux) - The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!
@@ -6614,7 +6616,6 @@
 - [mattjmattj/simple-undo](https://github.com/mattjmattj/simple-undo) - very basic javascript undo/redo stack for managing histories
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [dwilhelm89/Ethermap](https://github.com/dwilhelm89/Ethermap) - Ethermap - A realtime collaborative, version controlled map editor.
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [datazenit/sensei-grid](https://github.com/datazenit/sensei-grid) - Simple and lightweight data grid in JS/HTML
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [iilab/openoil](https://github.com/iilab/openoil) - Open Oil Corporate Network Navigator
@@ -9387,7 +9388,7 @@
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store) - Persistent stores for Tauri
 - [huggingface/xet-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
 - [g-plane/markup_fmt](https://github.com/g-plane/markup_fmt) - Configurable HTML, Vue, Svelte, Astro, Angular, Jinja, Twig, Nunjucks, Vento, Mustache, Handlebars and XML formatter with dprint integration.
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
@@ -10285,6 +10286,10 @@
 
 ## TypeScript 
 
+- [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
+- [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow) - Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
+- [atinux/github-grep](https://github.com/atinux/github-grep) - GitHub issues with comments and reactions as local Markdown files for grep and AI agents.
+- [SeanHogg/coderClaw](https://github.com/SeanHogg/coderClaw) - 
 - [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code) - Comparison between open source PI agent and closed source Claude Code agent
 - [badlogic/mini-lit](https://github.com/badlogic/mini-lit) - 
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
@@ -10335,7 +10340,7 @@
 - [surrealdb/surqlize](https://github.com/surrealdb/surqlize) - A type-safe TypeScript ORM for SurrealDB with full type inference, a fluent query builder, and native support for graph relationships
 - [bundui/components](https://github.com/bundui/components) - A collection of components that you can copy and paste into your apps. Built with Tailwind CSS and Motion. Supports shadcn/ui.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, build from the ground up for the Astro community and by Astro community members
+- [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 - [directus/rstore](https://github.com/directus/rstore) - The Reactive Data Store for Vue and Nuxt developers.
 - [nE0sIghT/extensions-frontend](https://github.com/nE0sIghT/extensions-frontend) - GNOME Extensions frontend reimplementation with Vue.js.
 - [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
@@ -10532,7 +10537,7 @@
 - [nicnocquee/dataqueue](https://github.com/nicnocquee/dataqueue) - A typesafe postgres/redis-backed job queue for Node.js/TypeScript projects in long running or serverless
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [thetronjohnson/layrr](https://github.com/thetronjohnson/layrr) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [dabochen/viewerkit](https://github.com/dabochen/viewerkit) - 
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
 - [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
@@ -10770,7 +10775,7 @@
 - [Rareer/nuxt-ui-theme-builder](https://github.com/Rareer/nuxt-ui-theme-builder) - 
 - [HelloGGX/shadcn-vue-mcp](https://github.com/HelloGGX/shadcn-vue-mcp) - Shadcn-vue and Tailwind CSS are essential for component development, offering developers a fast and high-quality experience in Vue component development.
 - [powersync-ja/powersync-service](https://github.com/powersync-ja/powersync-service) - PowerSync Service is the server-side component of the PowerSync sync engine.
-- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, component registry, and blog.
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.
 - [livekit/agents-playground](https://github.com/livekit/agents-playground) - 
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [KonradKuznicki/fs-ftp-ts](https://github.com/KonradKuznicki/fs-ftp-ts) - FTP Client written in TypeScript
@@ -10957,7 +10962,7 @@
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [HarishChandran3304/TTG](https://github.com/HarishChandran3304/TTG) - Chat with any public GitHub repository within seconds!
-- [lazercaveman/nuxt-starter](https://github.com/lazercaveman/nuxt-starter) - Fully configured Nuxt 4 Starter-Kit featuring TypeScript, Vitest, ESLint, Pinia, Tailwind + SCSS and Husky and more - optimized and ready to power robust, real-world applications - to kickstart your n
+- [lazercaveman/nuxt-starter](https://github.com/lazercaveman/nuxt-starter) - Fully configured Nuxt 4 Starter-Kit (batteries included) featuring TypeScript, Vitest, ESLint, Pinia, Tailwind + SCSS and Husky and more - optimized and ready to power robust, real-world applications 
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
 - [BrianHung/editor](https://github.com/BrianHung/editor) - public mirror of a (WIP) rich text editor; demo: https://editor-brianhung.vercel.app/
@@ -12139,7 +12144,7 @@
 - [graphql/graphql-http](https://github.com/graphql/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite.
 - [open-source-labs/dbSpy](https://github.com/open-source-labs/dbSpy) - Visualize, modify, and build your database with dbSpy! An open-source data modeling tool to facilitate relational database development.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Independent financial accounting with intelligent reporting
+- [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.
 - [zzj3720/blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [wheatjs/webcontainer-reactive-fs](https://github.com/wheatjs/webcontainer-reactive-fs) - Reactive fs for WebContainers
@@ -14541,6 +14546,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [bsoule/expost](https://github.com/bsoule/expost) - Embed an etherpad into the wordpress backend to replace the default wordpress editor.
 - [bevry-archive/staticsitegenerators-website](https://github.com/bevry-archive/staticsitegenerators-website) - Deprecated: Inlined into a vanilla cloudflare worker (vercel, react, jsx is antithetical to indie developers)
@@ -14567,6 +14573,7 @@
 
 ## Vue 
 
+- [ja-plus/stk-table-vue](https://github.com/ja-plus/stk-table-vue) - High performance realtime virtual table for vue3&vue2.7
 - [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue component to setup scroll-driven interactions (aka scrollytelling)
 - [MFM-347/nuxpert](https://github.com/MFM-347/nuxpert) - Nuxpert is a sleek, high-performance Nuxt 4 template with TypeScript, Tailwind CSS, accessibility, and SEO optimization built in.
 - [nuxt-content/nuxt-studio-sso](https://github.com/nuxt-content/nuxt-studio-sso) - A centralized OAuth 2.0 Authorization Server that enables Single Sign-On (SSO) across multiple Nuxt Studio-powered websites.
