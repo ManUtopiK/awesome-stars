@@ -903,6 +903,9 @@
 
 ## Go 
 
+- [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
+- [pgEdge/pgedge-postgres-mcp](https://github.com/pgEdge/pgedge-postgres-mcp) - pgEdge MCP Server.  A PostgreSQL MCP server with a Natural Language Agent CLI and Web UI.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [nicmarti/Claudette](https://github.com/nicmarti/Claudette) - Persistent incremental knowledge graph for token-efficient code reviews with Claude Code
 - [liza-mas/liza](https://github.com/liza-mas/liza) - Disciplined Multi Coding Agent System
@@ -2210,7 +2213,7 @@
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime) - Email parser for browser and serverless environments
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 - [OrbisWeb3/orbisdb](https://github.com/OrbisWeb3/orbisdb) - The open-source relational database for onchain builders, providing authentication, crypto plugins, hosted service and dashboard.
 - [small-tech/web0](https://github.com/small-tech/web0) - web0 manifesto
 - [muaz-khan/Chrome-Extensions](https://github.com/muaz-khan/Chrome-Extensions) - WebRTC chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing, etc.
@@ -7231,7 +7234,6 @@
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [gmh5225/LLM-Attack-Prompt](https://github.com/gmh5225/LLM-Attack-Prompt) - Jailbreaks,Prompt Leaks,Prompt Injection,LLM Attack.Large language model attack prompt collection
 - [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - prompt attack-defense, prompt Injection, reverse engineering notes and examples | 提示词对抗、破解例子与笔记
-- [JackkySpice/antigravity-ide-reversing](https://github.com/JackkySpice/antigravity-ide-reversing) - Reverse engineering documentation for Google AntiGravity IDE - Complete system prompt extraction
 - [ManuelSLemos/awesome-llm-system-prompts](https://github.com/ManuelSLemos/awesome-llm-system-prompts) - A curated collection of system prompts from major LLMs (Claude, GPT, Gemini, Llama) - official releases, leaks, and reverse-engineered discoveries for AI research and transparency
 - [9okVR/Ethical-Hacking-AI-System-Prompts](https://github.com/9okVR/Ethical-Hacking-AI-System-Prompts) - 
 - [bdebon/bmad-poc](https://github.com/bdebon/bmad-poc) - A small demonstration of BMAD method for Benjamin Code's project. This project list all the .md generated document so that you can envision better what is not shown in the video.
@@ -8639,6 +8641,7 @@
 
 ## PowerShell 
 
+- [Cylae/GDrive](https://github.com/Cylae/GDrive) - A robust, enterprise-grade cloud storage mount manager leveraging rclone. It supports Windows 11 (x86/ARM), macOS (Intel/Apple Silicon), and Linux (x86/ARM64) natively.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [adamjen/Ollama_Shell_Commands](https://github.com/adamjen/Ollama_Shell_Commands) - A PowerShell script that leverages Ollama AI to generate and execute commands based on user questions.
 
@@ -8660,6 +8663,7 @@
 
 ## Python 
 
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [ping13/listmonk-rss](https://github.com/ping13/listmonk-rss) - Provide an RSS integration for listmonk, a self-hosted newsletter and mailing list manager
 - [sspaeti/listmonk-rss](https://github.com/sspaeti/listmonk-rss) - Provide an RSS integration for listmonk, a self-hosted newsletter and mailing list manager
 - [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - Visualizes GitHub contribution graphs as Space Shooter!
@@ -9453,6 +9457,8 @@
 
 ## Rust 
 
+- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
+- [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
@@ -9499,7 +9505,7 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [ManUtopiK/chhoto-url](https://github.com/ManUtopiK/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [erickochen/purple](https://github.com/erickochen/purple) - Terminal SSH client with Docker and Podman container management, instant search, cloud sync from 11 providers, visual file transfer and password management. Edits ~/.ssh/config with round-trip fidelit
+- [erickochen/purple](https://github.com/erickochen/purple) - Terminal SSH client with Docker and Podman container management, instant search, cloud sync from 12 providers, visual file transfer and password management. Edits ~/.ssh/config with round-trip fidelit
 - [0xsouravm/oxichrome](https://github.com/0xsouravm/oxichrome) - Framework to build browser extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter.
@@ -10021,7 +10027,7 @@
 - [benchpressjs/benchpressjs](https://github.com/benchpressjs/benchpressjs) - ultralight javascript templating framework
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
+- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown browser
 
 ## SCSS 
 
@@ -10489,6 +10495,14 @@
 
 ## TypeScript 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [hadimouter/mini-secrets-manager](https://github.com/hadimouter/mini-secrets-manager) - 
+- [ascorbic/bgproc](https://github.com/ascorbic/bgproc) - Simple process manager for agents
+- [selfagency/opilot](https://github.com/selfagency/opilot) - 🦙 Opilot: Ollama for GitHub Copilot VS Code Extension – Run Ollama models locally and in the cloud within GitHub Copilot Chat
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
+- [abhix4/stroke](https://github.com/abhix4/stroke) - Create Hand-drawn SVG animations for logos, signatures, and illustrations.
+- [reatom/reatom](https://github.com/reatom/reatom) - Reatom - the ultimate state manager
+- [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 - [Melvynx/api2cli](https://github.com/Melvynx/api2cli) - Turn any REST API into a standardized, agent-ready CLI
 - [ing-norante/unmarker.it](https://github.com/ing-norante/unmarker.it) - A 100% client-side AI watermark disruptor. Process images entirely in your browser with no uploads, no tracking, and no servers.
 - [JKHeadley/instar](https://github.com/JKHeadley/instar) - Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
@@ -10560,7 +10574,7 @@
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
 - [saurabhiam/markit](https://github.com/saurabhiam/markit) - High-Performance Text Highlighting
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
@@ -11152,7 +11166,7 @@
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) - The simplest deployment platform made for self-hosters.
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
-- [cloudflare/orange](https://github.com/cloudflare/orange) - 
+- [cloudflare/meet](https://github.com/cloudflare/meet) - 
 - [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [ManukMinasyan/stellar-ui](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3
 - [niklhut/libroo](https://github.com/niklhut/libroo) - Libroo is a personal library tracker built to help you manage your books, collections, and track who borrowed what.
@@ -12946,7 +12960,6 @@
 - [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [bitovi/stateful-mocks](https://github.com/bitovi/stateful-mocks) - 
-- [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 - [dwyl/aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock) - :rainbow: AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
 - [plmercereau/hasura-auth-graphql-cookies](https://github.com/plmercereau/hasura-auth-graphql-cookies) - 
@@ -14413,7 +14426,7 @@
 - [ealmansi/graphqlzero](https://github.com/ealmansi/graphqlzero) - GraphQLZero: A simple, zero-config fake GraphQL API.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [UniversalViewer/universalviewer](https://github.com/UniversalViewer/universalviewer) - A community-developed open source project on a mission to help you share your 📚📜📰📽️📻🗿 with the 🌎
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [getcampsite/campkit](https://github.com/getcampsite/campkit) - Build serverless Node.js microservices fast
 - [1166544/nuxt.js-nest.js-isomorphism](https://github.com/1166544/nuxt.js-nest.js-isomorphism) - Nuxt.js、 Nest.js 、SSR、MongoDB、TypeScript全栈工程项目
