@@ -1533,7 +1533,7 @@
 - [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [Waterloo/Graphlet](https://github.com/Waterloo/Graphlet) - 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [adesignl/Peek](https://github.com/adesignl/Peek) - Light Weight "Headroom Style" scroll intent library that hides the site header on scroll down and shows on scroll up
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [anisayari/leboncoin-chatgpt-data-extract](https://github.com/anisayari/leboncoin-chatgpt-data-extract) - 
@@ -2059,6 +2059,7 @@
 
 ## JavaScript 
 
+- [bennyzen/vueseq](https://github.com/bennyzen/vueseq) - Vue Sequencer: A minimal, deterministic video renderer for Vue 3 + GSAP, inspired by Pellicule and Remotion.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [the-banana-tool/king-louie](https://github.com/the-banana-tool/king-louie) - Easy to use GUI Personal AI Assistant. Win/Linux/Mac.
@@ -4067,7 +4068,6 @@
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
 - [sindresorhus/crypto-hash](https://github.com/sindresorhus/crypto-hash) - Tiny hashing module that uses the native crypto API in Node.js and the browser
-- [FujitsuLaboratories/cattaz](https://github.com/FujitsuLaboratories/cattaz) - Realtime collaborative tool which can run custom applications in a Wiki page
 - [galvez/nuxt-esbuild-module](https://github.com/galvez/nuxt-esbuild-module) - Nuxt module for enabling ESBuild compilation
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [jonathanjameswatson/numerically-solving-equations](https://github.com/jonathanjameswatson/numerically-solving-equations) - A website about numerically solving equations
@@ -7065,7 +7065,7 @@
 - [tursodatabase/turso-docs](https://github.com/tursodatabase/turso-docs) - Turso Documentation
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [worldcoin/world-id-docs](https://github.com/worldcoin/world-id-docs) - Legacy documentation. Please see https://github.com/worldcoin/developer-docs for updated documentation.
-- [webtui/webtui](https://github.com/webtui/webtui) - 
+- [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio) - the online GPX file editor
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
@@ -7142,6 +7142,7 @@
 
 ## Nix 
 
+- [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [fuguesoft/flake-test](https://github.com/fuguesoft/flake-test) - 
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
@@ -7253,6 +7254,8 @@
 
 ## Others 
 
+- [delphinereverse794/remotion-transitions](https://github.com/delphinereverse794/remotion-transitions) - Build custom scene transitions in Remotion using a plugin with animation math, timing patterns, and ready-to-use examples.
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [ayhammouda/mentor](https://github.com/ayhammouda/mentor) - A Claude skill that generates structured, official-first learning paths for technical topics
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -8714,6 +8717,7 @@
 
 ## Python 
 
+- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [karn-lang/karn](https://github.com/karn-lang/karn) - A programming language designed for AI agents. 76% fewer tokens than Python.
 - [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [XiaoYiWeio/deepsafe-scan](https://github.com/XiaoYiWeio/deepsafe-scan) - Universal preflight security scanner for AI coding agents — Detects hooks injection, credential exfiltration & backdoors in .cursorrules, CLAUDE.md, AGENTS.md and more.
@@ -9553,7 +9557,7 @@
 - [ManUtopiK/maski](https://github.com/ManUtopiK/maski) - Interactive TUI for mask — browse and run maskfile commands with fuzzy search
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [sayanarijit/qrscan](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -10377,7 +10381,7 @@
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access a
 - [pion/awesome-pion](https://github.com/pion/awesome-pion) - A curated list of awesome things related to Pion
 - [Overv/openstreetmap-tile-server](https://github.com/Overv/openstreetmap-tile-server) - Docker file for a minimal effort OpenStreetMap tile server
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [smplrspace/hasura-action](https://github.com/smplrspace/hasura-action) - GitHub Action wrapping the Hasura CLI
@@ -10550,7 +10554,7 @@
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [mpospirit-apps/Repomance-iOS](https://github.com/mpospirit-apps/Repomance-iOS) - A mobile app for discovering and starring GitHub repositories through a dating app like swipe interface, iOS version.
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [aaronksaunders/ionic-capacitor-nuxt-video-app](https://github.com/aaronksaunders/ionic-capacitor-nuxt-video-app) - Ionic Capacitor VueJS Nuxt3 Starter Template
 - [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
@@ -10602,6 +10606,9 @@
 
 ## TypeScript 
 
+- [ytrofr/claude-remotion-editor](https://github.com/ytrofr/claude-remotion-editor) - SceneDirector: Interactive hand-path editor for Remotion video compositions. Draw, preview, and save animation paths with Lottie gestures.
+- [maxtron777/remotion-business-templates](https://github.com/maxtron777/remotion-business-templates) - Production-ready Remotion video templates for agencies and businesses — testimonials, property listings, social ads, branded intros, and metric recaps
+- [jhartquist/claude-remotion-kickstart](https://github.com/jhartquist/claude-remotion-kickstart) - Create videos programmatically with Claude Code and Remotion
 - [ben-vargas/pi-packages](https://github.com/ben-vargas/pi-packages) - Packages for Pi - extensions, skills, prompt templates, and themes.
 - [millionco/cli-to-js](https://github.com/millionco/cli-to-js) - Turn any CLI into a JavaScript API
 - [genu/nuxt-better-auth-utils](https://github.com/genu/nuxt-better-auth-utils) - 
@@ -10612,7 +10619,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [jiordiviera/patchwise](https://github.com/jiordiviera/patchwise) - 
 - [ubie-oss/n8n-cli](https://github.com/ubie-oss/n8n-cli) - A standalone CLI tool for n8n
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -10716,7 +10723,7 @@
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [onmax/nuxt-skill-hub](https://github.com/onmax/nuxt-skill-hub) - Teach your AI agent the Nuxt way with best practices and module guidance. [Experimental]
 - [pi0/skillman](https://github.com/pi0/skillman) - 🤹 Manage project skills and lock them in skills.json
-- [victorlmneves/nuxt-devtools-observatory](https://github.com/victorlmneves/nuxt-devtools-observatory) - Nuxt DevTools extension providing five missing observability features.
+- [victorlmneves/nuxt-devtools-observatory](https://github.com/victorlmneves/nuxt-devtools-observatory) - Nuxt DevTools extension providing six missing observability features.
 - [ThomasTartrau/n8n-nodes-claude-code-cli](https://github.com/ThomasTartrau/n8n-nodes-claude-code-cli) - 
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB SDK for JavaScript
 - [betterwrite/ununuracss](https://github.com/betterwrite/ununuracss) - 🖌️ A Real CSS Engine.
@@ -10998,7 +11005,7 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything
 - [agentfront/frontmcp](https://github.com/agentfront/frontmcp) - TypeScript-first framework for the Model Context Protocol (MCP). You write clean, typed code; FrontMCP handles the protocol, transport, DI, session/auth, and execution flow.
-- [usemarble/marble](https://github.com/usemarble/marble) - A simple way to publish articles and changelogs to your site
+- [usemarble/marble](https://github.com/usemarble/marble) - Super simple headless CMS
 - [uplora/unstorage-s3-stream](https://github.com/uplora/unstorage-s3-stream) - Unstorage S3 Stream is a library for streaming data to and from S3.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
@@ -11168,7 +11175,7 @@
 - [warpdotdev/do-things](https://github.com/warpdotdev/do-things) - A collection of community-created Warp objects that let you do useful things in the terminal.
 - [warpdotdev/nano-banana-editor](https://github.com/warpdotdev/nano-banana-editor) - 🍌 AI-Powered Iterative Image Editor using Google's Gemini 2.5 Flash Image API (Nano Banana). Upload images, edit with natural language, and navigate through your editing history with click-to-revert f
 - [litingyes/pinia-plugin-unstorage](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin for pinia.
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test, Debug, and Evaluate MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 - [shadcn-examples/shadcn-ui-dashboard](https://github.com/shadcn-examples/shadcn-ui-dashboard) - Multipurpose and powerful admin dashboard template built with Shadcn components.
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - 🛸 The modern registry toolchain.
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
@@ -11462,7 +11469,6 @@
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [HarishChandran3304/TTG](https://github.com/HarishChandran3304/TTG) - Chat with any public GitHub repository within seconds!
-- [lazercaveman/nuxt-starter](https://github.com/lazercaveman/nuxt-starter) - Fully configured Nuxt 4 Starter-Kit (batteries included) featuring TypeScript, Vitest, ESLint, Pinia, Tailwind + SCSS and Husky and more - optimized and ready to power robust, real-world applications 
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
 - [BrianHung/editor](https://github.com/BrianHung/editor) - public mirror of a (WIP) rich text editor; demo: https://editor-brianhung.vercel.app/
@@ -12149,7 +12155,7 @@
 - [ProseMirror/prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [antfu/eslint-typegen](https://github.com/antfu/eslint-typegen) - Generate types from ESLint rule schemas, with auto-completion and type-checking for rule options.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [runk/node-chardet](https://github.com/runk/node-chardet) - Character encoding detection tool for NodeJS
 - [pulsecron/pulse](https://github.com/pulsecron/pulse) - The modern MongoDB-powered  job scheduler library for Node.js
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
@@ -13714,7 +13720,7 @@
 - [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
-- [supabase/stripe-sync-engine](https://github.com/supabase/stripe-sync-engine) - Sync your Stripe account to you Postgres database.
+- [stripe/sync-engine](https://github.com/stripe/sync-engine) - Sync your Stripe account to you Postgres database.
 - [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - The code of the graphql.org website
 - [toshusai/Vega](https://github.com/toshusai/Vega) - 
 - [unrevised6419/vue-render-everywhere](https://github.com/unrevised6419/vue-render-everywhere) - 
@@ -15213,6 +15219,7 @@
 - [HugoRCD/nuxt-better-auth](https://github.com/HugoRCD/nuxt-better-auth) - A demo of using BetterAuth with Nuxt and PostgreSQL
 - [leamsigc/must-know-resources-for-programmers](https://github.com/leamsigc/must-know-resources-for-programmers) - 
 - [Vincentdevreede/nuxt-ios-webkit-active-css-pseudo](https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo) - A simple, lightweight Nuxt module that resolves the :active CSS pseudo-class issue in iOS WebKit browsers.
+- [lazercaveman/nuxt-starter](https://github.com/lazercaveman/nuxt-starter) - Fully configured Nuxt 4 Starter-Kit (batteries included),AI ready, featuring TypeScript, Vitest, Oxlint, Oxfmt, Pinia, Tailwind + SCSS and Husky and more - optimized and ready to power robust, real-wo
 - [rylanharper/nitrogen](https://github.com/rylanharper/nitrogen) - ⚡️ A Nuxt 4 Shopify template based on Hydrogen
 - [qiuquanwu/vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) - Simple JSON viewer component, for Vue.js 3.x
 - [chenfengjw163/vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer) - Simple JSON viewer component, for Vue.js 2 and support ssr
