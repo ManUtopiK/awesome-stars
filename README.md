@@ -9693,7 +9693,7 @@
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [openworkers/openworkers-runtime-v8](https://github.com/openworkers/openworkers-runtime-v8) - 
-- [alexandretrotel/todo-tree](https://github.com/alexandretrotel/todo-tree) - A command-line tool to find and display TODO-style comments in your codebase.
+- [atrtde/todo-tree](https://github.com/atrtde/todo-tree) - A command-line tool to find and display TODO-style comments in your codebase.
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [fdciabdul/wa-rs](https://github.com/fdciabdul/wa-rs) - A multi-session REST API gateway for WhatsApp Web client built with Rust.
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
@@ -10620,6 +10620,7 @@
 
 ## TypeScript 
 
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [JohnEsleyer/clawmotion](https://github.com/JohnEsleyer/clawmotion) - ClawMotion is a high-precision, programmatic video motion engine designed for AI Agents. Create complex video sequences using declarative blueprints and render with 100% parity between browser preview
 - [Klickbee/klickbee-crm](https://github.com/Klickbee/klickbee-crm) - Monolithic open-source CRM — If life was simple as this CRM, we would all be happy
 - [ytrofr/claude-remotion-editor](https://github.com/ytrofr/claude-remotion-editor) - SceneDirector: Interactive hand-path editor for Remotion video compositions. Draw, preview, and save animation paths with Lottie gestures.
@@ -10678,7 +10679,6 @@
 - [db0-ai/db0](https://github.com/db0-ai/db0) - Agent-native data layer SDK
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [shrimbly/node-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows.
-- [zanghongtu2006/JennaPress](https://github.com/zanghongtu2006/JennaPress) - A lightweight, static-first Nuxt CMS starter. Features category-driven modular templates, AI-optimized logic, and seamless design switching.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [aliirz/phntm.sh](https://github.com/aliirz/phntm.sh) - 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -10749,7 +10749,7 @@
 - [oriondesign2015/n8n-nodes-evolution-api](https://github.com/oriondesign2015/n8n-nodes-evolution-api) - 
 - [platformatic/job-queue](https://github.com/platformatic/job-queue) - 
 - [juandastic/synapse-chat-ai](https://github.com/juandastic/synapse-chat-ai) - 
-- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,650+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [gutomec/pi-squad-loader](https://github.com/gutomec/pi-squad-loader) - GSD-PI extension that loads the Squads ecosystem as native Pi SDK subagents
 - [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
@@ -10993,7 +10993,6 @@
 - [K-dash/contrib-fyi](https://github.com/K-dash/contrib-fyi) - Find your next open source contribution on GitHub with ease.
 - [tymon3568/well-task](https://github.com/tymon3568/well-task) - 
 - [yoanbernabeu/openbento](https://github.com/yoanbernabeu/openbento) - The open-source visual builder for stunning link-in-bio pages. Drag-and-drop editor, export to React/Vite/Tailwind, deploy anywhere. Your data stays yours — forever.
-- [zap-studio/local.ts](https://github.com/zap-studio/local.ts) - A starter kit for building local-first applications for mobile and desktop.
 - [secondsky/claude-skills](https://github.com/secondsky/claude-skills) - Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)
 - [nuxt/a11y](https://github.com/nuxt/a11y) - Nuxt module to provide accessibility hinting and utilities.
@@ -11128,7 +11127,7 @@
 - [opencloud-eu/web](https://github.com/opencloud-eu/web) - 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 - [SocketDev/socket-cli](https://github.com/SocketDev/socket-cli) - The Socket CLI
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [anthonybudd/Express-ts-API-Template](https://github.com/anthonybudd/Express-ts-API-Template) - Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
 - [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) - Visual AI workflow automation platform
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
@@ -15112,6 +15111,7 @@
 - [hetari/shadcn-docs-template](https://github.com/hetari/shadcn-docs-template) - Build your docs like shadcn does
 - [cryptomator/hub](https://github.com/cryptomator/hub) - Cryptomator Hub: Zero-knowledge key management for teams and organizations, seamlessly into your existing identity management. Secure collaboration with your preferred cloud provider.
 - [florianjs/MintUI](https://github.com/florianjs/MintUI) - 
+- [zanghongtu2006/JennaPress](https://github.com/zanghongtu2006/JennaPress) - A lightweight, static-first Nuxt CMS starter. Features category-driven modular templates, AI-optimized logic, and seamless design switching.
 - [kronos-999/nuxt-saas-stripe-starter](https://github.com/kronos-999/nuxt-saas-stripe-starter) - Open-source SaaS Starter. Built using Nuxt 3, Prisma, Neon, Sidebase Nuxt Auth, Resend, Stripe, Nuxt UI, Nuxt Content
 - [patsma/nuxt-portfolio-gsap](https://github.com/patsma/nuxt-portfolio-gsap) - A high-performance portfolio template with GSAP animations, smooth scrolling, and WebGL backgrounds
 - [wattanx/nuxt-sc-example](https://github.com/wattanx/nuxt-sc-example) - nuxt server component example
