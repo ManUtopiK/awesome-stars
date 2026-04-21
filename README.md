@@ -918,6 +918,7 @@
 
 ## Go 
 
+- [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [docker-secret-operator/dso](https://github.com/docker-secret-operator/dso) - 
 - [ssp-data/neomd](https://github.com/ssp-data/neomd) - A minimal email TUI where you read with Markdown and write in Neovim.
 - [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
@@ -2071,7 +2072,6 @@
 
 - [Amit-Sheen/hic-showroom](https://github.com/Amit-Sheen/hic-showroom) - The HiC Showroom is a collection of interactive web components built with the revolutionary HTML-in-Canvas API.
 - [sandymac1000/wiki-forge](https://github.com/sandymac1000/wiki-forge) - A local-first personal knowledge base built on Obsidian, with AI-assisted document ingestion, classification, summarisation, and synthesis.
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [kavehtehrani/speech2text-extension](https://github.com/kavehtehrani/speech2text-extension) - GNOME Speech2Text - shell extension for speech to text (dictation) using OpenAI's automated speech recognition Whisper
 - [bennyzen/vueseq](https://github.com/bennyzen/vueseq) - Vue Sequencer: A minimal, deterministic video renderer for Vue 3 + GSAP, inspired by Pellicule and Remotion.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
@@ -7156,7 +7156,7 @@
 
 ## Nix 
 
-- [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
+- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [fuguesoft/flake-test](https://github.com/fuguesoft/flake-test) - 
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
@@ -7277,7 +7277,7 @@
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
-- [nirholas/fresh-start](https://github.com/nirholas/fresh-start) - 
+- [nirholas/fresh-start](https://github.com/nirholas/fresh-start) - The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [alexknowshtml/api2cli](https://github.com/alexknowshtml/api2cli) - Audience-aware CLI patterns for Node.js + Commander.js. Build CLIs for humans, AI agents, or both.
 - [badele/money-as-protest](https://github.com/badele/money-as-protest) - Using money as a form of protest
@@ -8735,8 +8735,10 @@
 
 ## Python 
 
+- [alexsalvatore/sigurd-search](https://github.com/alexsalvatore/sigurd-search) - Sigurd is a local-first deep research engine built on Ollama and GPT Researcher.
 - [vulnerability-lookup/VulnMCP](https://github.com/vulnerability-lookup/VulnMCP) - A modular MCP server providing AI-driven vulnerability management skills, including severity classification and automated insights.
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [karn-lang/karn](https://github.com/karn-lang/karn) - A programming language designed for AI agents. 76% fewer tokens than Python.
@@ -9085,7 +9087,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [hoxu/gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account
 - [Orange-OpenSource/floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox) - A toolbox to help developers and open source referents to not waste their time with manual and boring tasks. Provides simple and light tools to make investigations in source code to look for hot data.
@@ -9518,7 +9520,6 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform
 - [covoiturage-libre/covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - UNMAINTAINED
-- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -9561,6 +9562,9 @@
 
 ## Rust 
 
+- [endevco/aube](https://github.com/endevco/aube) - A fast Node.js package manager
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
@@ -9722,13 +9726,13 @@
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store) - Persistent stores for Tauri
 - [huggingface/xet-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
 - [g-plane/markup_fmt](https://github.com/g-plane/markup_fmt) - Configurable HTML, Vue, Svelte, Astro, Angular, Jinja, Twig, Nunjucks, Vento, Mustache, Handlebars and XML formatter with dprint integration.
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [graphql-hive/router](https://github.com/graphql-hive/router) - Open-source (MIT) GraphQL Federation Router. Built with Rust for maximum performance and robustness.
 - [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
-- [lonewolf-io/narwhal](https://github.com/lonewolf-io/narwhal) - An extensible pub/sub messaging server for edge applications
+- [lonewolf-io/narwhal](https://github.com/lonewolf-io/narwhal) - An extensible message broker for edge applications
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -9752,7 +9756,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [hudikhq/hoodik](https://github.com/hudikhq/hoodik) - Self hosted, easy to install end to end encrypted storage drive
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI daily notes that remembers everything and acts on your behalf
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
 - [tvallotton/rocket_auth](https://github.com/tvallotton/rocket_auth) - An implementation for an authentication API for Rocket applications.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -9768,7 +9772,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [kasugamirai/nostr-crdt](https://github.com/kasugamirai/nostr-crdt) - 
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
@@ -10247,6 +10251,8 @@
 
 ## Shell 
 
+- [AaronRoeF/claude-code-patterns](https://github.com/AaronRoeF/claude-code-patterns) - 153 field-tested techniques for Claude Code — patterns, architectures, and workflows for developers and AI-native teams
+- [kamranahmedse/claude-statusline](https://github.com/kamranahmedse/claude-statusline) - Minimal Claude Code statusline setup I personally use
 - [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [nikilster/clawflows](https://github.com/nikilster/clawflows) - ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows.
@@ -10435,6 +10441,7 @@
 - [requarks/wiki-packer](https://github.com/requarks/wiki-packer) - Marketplace Image Builder for Wiki.js
 - [hexaJer/docker-webserver](https://github.com/hexaJer/docker-webserver) - WebServer (MariaDB, PHP-FPM, Nginx) composed from several separate containers linked together
 - [useshortcut/exporter](https://github.com/useshortcut/exporter) - Shortcut data exporter
+- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [akarzim/zsh-docker-aliases](https://github.com/akarzim/zsh-docker-aliases) - ZSH Docker aliases and functions
 - [koalalorenzo/docker-aliases](https://github.com/koalalorenzo/docker-aliases) - 👾 Run commands inside docker containers to keep your OS untouched using bash alias
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -10634,6 +10641,10 @@
 
 ## TypeScript 
 
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows.
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [ghostwright/phantom](https://github.com/ghostwright/phantom) - An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.
 - [dmartindiaz/nuxt-openapi-hyperfetch](https://github.com/dmartindiaz/nuxt-openapi-hyperfetch) - Generate Nuxt 3 composables from OpenAPI/Swagger specifications with full TypeScript support and lifecycle callbacks
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
@@ -10875,6 +10886,7 @@
 - [skilld-dev/retriv](https://github.com/skilld-dev/retriv) - Tiny local-first hybrid search for docs and TypeScript. Up to 30% better recall plus optional cloud integrations.
 - [poppinss/youch](https://github.com/poppinss/youch) - Pretty print JavaScript errors on the Web and the Terminal
 - [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
 - [vercel-labs/visual-json](https://github.com/vercel-labs/visual-json) - The Visual JSON Editor. Schema-aware, embeddable, extensible.
 - [open-circle/schema-benchmarks](https://github.com/open-circle/schema-benchmarks) - Transparent comparisons between schema validation libraries
 - [HumanjavaEnterprises/nostr-nsec-seedphrase](https://github.com/HumanjavaEnterprises/nostr-nsec-seedphrase) - The nostr-nsec-seedphrase repository offers a TypeScript library that converts Nostr nsec keys into mnemonic seed phrases, enhancing the readability and management of keys within Nostr applications. T
@@ -11137,7 +11149,7 @@
 - [shuding/image-magnifier](https://github.com/shuding/image-magnifier) - Annotate images with magnifying glass effects - drag, resize, and adjust zoom levels. Free, client-side, no upload required.
 - [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
 - [alexanderop/nuxt-layer-example](https://github.com/alexanderop/nuxt-layer-example) - 
-- [swan-io/boxed](https://github.com/swan-io/boxed) - Essential building-blocks for functional & safe TypeScript code
+- [bloodyowl/boxed](https://github.com/bloodyowl/boxed) - Essential building-blocks for functional & safe TypeScript code
 - [MusKRI/pure-ui](https://github.com/MusKRI/pure-ui) - A design system built with Base UI
 - [mertbuilds/claudemarketplaces.com](https://github.com/mertbuilds/claudemarketplaces.com) - Discover Claude Code Marketplaces
 - [Logos-Flux/cloudflare-multiagent](https://github.com/Logos-Flux/cloudflare-multiagent) - The Model Configuration System enables flexible, admin-managed AI model configurations without requiring code changes.
@@ -11463,7 +11475,7 @@
 - [realworld-apps/angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) - Exemplary real world application built with Angular
 - [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, StatsD, and OpenTelemetry while providing a fluent API for specifying log me
 - [sourcegraph/openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 - [ceramicnetwork/js-ceramic](https://github.com/ceramicnetwork/js-ceramic) - Typescript implementation of the Ceramic protocol
 - [mmalmi/nostr-social-graph](https://github.com/mmalmi/nostr-social-graph) - 
 - [max21dev/moderations](https://github.com/max21dev/moderations) - Moderations – A NIP-29 Moderation Client
@@ -12075,6 +12087,7 @@
 - [ThimoDEV/nuxt-codemirror](https://github.com/ThimoDEV/nuxt-codemirror) - A nuxt codemirror module to enjoy all the runtime editor possibilities
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [ndragun92/file-sys-cache](https://github.com/ndragun92/file-sys-cache) - Efficient system files-based caching for Node.js applications.
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
 - [NyllRE/nuxt-file-storage](https://github.com/NyllRE/nuxt-file-storage) - Easy solution to store files in your nuxt apps. Be able to upload files from the frontend and recieve them from the backend to then save the files in your project.
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -15410,7 +15423,6 @@
 - [Mw3y/nuxt-monaco-editor-wrapper](https://github.com/Mw3y/nuxt-monaco-editor-wrapper) - Integrate monaco-editor-wrapper with Nuxt 3
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie) - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster.
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
 - [shipshapecode/vue-shepherd](https://github.com/shipshapecode/vue-shepherd) - A Vue wrapper for the site tour library Shepherd
 - [zackha/nuxtcommerce](https://github.com/zackha/nuxtcommerce) - An open-source, dynamic e-commerce solution powered by Nuxt 4 and GraphQL, headless storefront replacement for Woocommerce. Featuring a user interface in the style of Pinterest and fully customizable 
 - [emsitkowski/dashrise](https://github.com/emsitkowski/dashrise) - Dashrise is a budget planner app built with Nuxt3, Supabase, and Tailwind CSS. It was created for my personal use to keep track of my finances, transactions, and more.
@@ -15793,7 +15805,6 @@
 - [gravitano/nuxt3-tailwind-kit](https://github.com/gravitano/nuxt3-tailwind-kit) - Nuxt Tailwind Starter Kit
 - [xinnks/vue-kanban](https://github.com/xinnks/vue-kanban) - A kanban board made in Vue 3
 - [grey-software/toonin](https://github.com/grey-software/toonin) - Technology that allows you to tune in to your friends and family in realtime using peer-to-peer sharing.
-- [grey-software/website](https://github.com/grey-software/website) - Grey Software's public website
 - [justboil/admin-null-nuxt](https://github.com/justboil/admin-null-nuxt) - Admin Null — Free Nuxt Bulma Admin Dashboard (with dark mode)
 - [Dashibase/dashibase-insert](https://github.com/Dashibase/dashibase-insert) - Notion-like form builder powered by Vue, Tailwind and Supabase
 - [ElisePatrikainen/NuxtParis-demo-SSR-KV](https://github.com/ElisePatrikainen/NuxtParis-demo-SSR-KV) - 
