@@ -139,7 +139,7 @@
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
-- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 5+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 6+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [manasky/lorem.space](https://github.com/manasky/lorem.space) - ✨✨✨🪐✨✨✨  LOREM.SPACE ✨✨✨🪐✨✨✨
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
@@ -6090,6 +6090,7 @@
 - [grantcarthew/node-rethinkdb-job-queue](https://github.com/grantcarthew/node-rethinkdb-job-queue) - A persistent job or task queue backed by RethinkDB.
 - [battlesnake/gulp-google-webfonts](https://github.com/battlesnake/gulp-google-webfonts) - JS: Google-webfont Gulp-plugin
 - [bcoin-org/bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [bottlerockets/legacy-bottlerockets](https://github.com/bottlerockets/legacy-bottlerockets) - Node.js high availability queue and scheduler for background job processing
 - [auth0-blog/relay-auth](https://github.com/auth0-blog/relay-auth) - Code sample of the Auth0 Relay tutorial
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
@@ -7087,7 +7088,6 @@
 
 ## MDX 
 
-- [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [skilld-dev/vue-ecosystem-skills](https://github.com/skilld-dev/vue-ecosystem-skills) - AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases.
 - [rasengan-dev/nindo](https://github.com/rasengan-dev/nindo) - The flexible Markdown Editor for modern platforms
 - [vtbag/website](https://github.com/vtbag/website) - The @vtbag website. ⭐️ Please star to support this work! ⭐️
@@ -7244,7 +7244,6 @@
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [ffoodd/chaarts](https://github.com/ffoodd/chaarts) - Charts with HTML & CSS
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Nushell 
 
@@ -8902,7 +8901,7 @@
 - [mollierj-devel/byteou-netzwerkstatt](https://github.com/mollierj-devel/byteou-netzwerkstatt) - L'effet papillon de la connaissance, génère des concepts Zettlecasten à partir d'une simple vidéo Youtube
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
 - [letsdiscodev/disco-daemon](https://github.com/letsdiscodev/disco-daemon) - 
@@ -8927,7 +8926,7 @@
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [jlinoff/git2dot](https://github.com/jlinoff/git2dot) - Visualize a git repository using the graphviz dot tool optionally with pan and zoom.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [fraiseql/fraiseql-python](https://github.com/fraiseql/fraiseql-python) - The Explicit GraphQL Framework for the LLM Era  Simple patterns. High performance. PostgreSQL at the center..
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
@@ -10766,6 +10765,7 @@
 - [ubie-oss/n8n-cli](https://github.com/ubie-oss/n8n-cli) - A standalone CLI tool for n8n
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
+- [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [GoogleChromeLabs/view-transitions-toolkit](https://github.com/GoogleChromeLabs/view-transitions-toolkit) - 
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
@@ -10846,7 +10846,7 @@
 - [nghiahsgs/Sybil-Swarm](https://github.com/nghiahsgs/Sybil-Swarm) - 
 - [dannwaneri/chat-knowledge](https://github.com/dannwaneri/chat-knowledge) - Federated AI knowledge commons using ActivityPub
 - [brightdata/cli](https://github.com/brightdata/cli) - Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
@@ -10945,7 +10945,7 @@
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
 - [maloyan/manim-web](https://github.com/maloyan/manim-web) - Mathematical animations for the web — Manim in TypeScript
-- [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
+- [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
 - [rasengan-dev/rasengan-ui](https://github.com/rasengan-dev/rasengan-ui) - Collection of well crafted ui components to boost productivity
 - [clementbouly/interactive-resume-template](https://github.com/clementbouly/interactive-resume-template) - An interactive, config-driven resume template. Built with React, TypeScript, Tailwind CSS and Framer Motion. Multi-language, dark mode, color presets, GitHub Pages ready.
@@ -11045,7 +11045,7 @@
 - [ripulio/web-mcp](https://github.com/ripulio/web-mcp) - An implementation of the WebMCP browser proposal
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
-- [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Logging that makes sense. Wide events, structured errors, zero chaos.
+- [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope. — wide events, structured errors, TypeScript-first, every runtime.
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 - [Abbasmoe/nuxt-gql-pulse](https://github.com/Abbasmoe/nuxt-gql-pulse) - A Nuxt module for making GraphQL requests with ease, leveraging the power of Nuxt's composables and VueUse.
 - [planship/planship-nuxt](https://github.com/planship/planship-nuxt) - Planship Nuxt module
@@ -12668,7 +12668,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
 - [rap2hpoutre/pg-anonymizer](https://github.com/rap2hpoutre/pg-anonymizer) - Dump anonymized PostgreSQL database with a NodeJS CLI
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -13008,7 +13008,6 @@
 - [ManUtopiK/anu](https://github.com/ManUtopiK/anu) - Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥
 - [gbicou/nuxt-urql](https://github.com/gbicou/nuxt-urql) - Nuxt URQL module
 - [beerose/semantic-search](https://github.com/beerose/semantic-search) - 🕵️‍♀️ An OpenAI-powered CLI to build a semantic search index from your MDX files.
-- [Luferov/nuxt-nest-template](https://github.com/Luferov/nuxt-nest-template) - Nuxt + Nest + Graphql = ❤️
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [zyyv/untinyimg](https://github.com/zyyv/untinyimg) - A cli tools of tinypng.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
