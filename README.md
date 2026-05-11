@@ -48,6 +48,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
@@ -315,6 +316,7 @@
 
 ## C++ 
 
+- [stephaniewang526/duckdb-mongo](https://github.com/stephaniewang526/duckdb-mongo) - Integrates DuckDB with MongoDB, enabling direct SQL queries over MongoDB collections without exporting data or ETL.
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) - LadybugDB a graph database
@@ -519,7 +521,6 @@
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 - [pontus-dev/multi-sig](https://github.com/pontus-dev/multi-sig) - My own implementation of a multi-sig wallet, started by using scaffold-eth as a template.
-- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
 - [Yakumwamba/google_webrtc_svelte](https://github.com/Yakumwamba/google_webrtc_svelte) - 
 - [mmalmi/rod](https://github.com/mmalmi/rod) - non-wasm rust port of gun
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -964,7 +965,7 @@
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [dll-as/gitc](https://github.com/dll-as/gitc) - High-Performance AI for Lightning-Fast Conventional & Gitmoji commit messages 🚀
-- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
 - [pgEdge/pgedge-postgres-mcp](https://github.com/pgEdge/pgedge-postgres-mcp) - pgEdge MCP Server.  A PostgreSQL MCP server with a Natural Language Agent CLI and Web UI.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1849,6 +1850,7 @@
 - [vladocar/Minimal-Notes](https://github.com/vladocar/Minimal-Notes) - Minimal Notes web app build with Vue.js
 - [kristofferandreasen/wickedCSS](https://github.com/kristofferandreasen/wickedCSS) - A library for CSS3 animations. The animations are more vibrant than most simple animations.
 - [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
+- [HydraCG/Specifications](https://github.com/HydraCG/Specifications) - Specifications created by the Hydra W3C Community Group
 - [CitizensFoundation/your-priorities-app](https://github.com/CitizensFoundation/your-priorities-app) - Your Priorities is a citizen engagement platform, a progressive web app, and a participatory social network that empowers groups of any size to speak with one voice and organize around ideas.
 - [Aly-ve/Mastodon-share-button](https://github.com/Aly-ve/Mastodon-share-button) - Add automatically a button to share content with your Mastodon account
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) - A wiki focusing on aggregating and documenting various SQL injection methods
@@ -5346,7 +5348,6 @@
 - [smooth-code/fraql](https://github.com/smooth-code/fraql) - GraphQL fragments made simple ⚡️
 - [storybookjs/marksy](https://github.com/storybookjs/marksy) - 📑 A markdown to custom VDOM components library
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [HydraCG/Specifications](https://github.com/HydraCG/Specifications) - Specifications created by the Hydra W3C Community Group
 - [vadimdemedes/cancan](https://github.com/vadimdemedes/cancan) - 🔑 Pleasant authorization library for Node.js
 - [cars10/vue-print-object](https://github.com/cars10/vue-print-object) - A vuejs component to print javascript objects
 - [ChrisCindy/node-web-console](https://github.com/ChrisCindy/node-web-console) - A simple web-based SSH, remote shell in your browser built with Node.js
@@ -7040,6 +7041,10 @@
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
+## Just 
+
+- [disler/the-library](https://github.com/disler/the-library) - A Meta-Skill for Private-First Distribution of Agentics (Skills, Agents, and Prompts) across your Agents, Devices, and Teams.
+
 ## KiCad Layout 
 
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
@@ -8460,7 +8465,7 @@
 - [ColdTrick/webshim](https://github.com/ColdTrick/webshim) - Adds webshim capabilities to your Elgg website
 - [nlybe/Elgg-News](https://github.com/nlybe/Elgg-News) - Elgg plugin for posting news and announcements by administrators, group owners or news staff
 - [ColdTrick/content_subscriptions](https://github.com/ColdTrick/content_subscriptions) - Get notified when something happens on content
-- [hypeJunction/hypeFilestore](https://github.com/hypeJunction/hypeFilestore) - File and image handling utilities for Elgg
+- [hypeJunction/hypeFilestore](https://github.com/hypeJunction/hypeFilestore) - File and image handling utilities
 - [mapkyca/KnownGithubProjects](https://github.com/mapkyca/KnownGithubProjects) - A content type to post your github projects, contains a webhook endpoint for updates!
 - [TheBojda/Diaspora-in-Wordpress](https://github.com/TheBojda/Diaspora-in-Wordpress) - 
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
@@ -9674,7 +9679,7 @@
 - [licht1stein/talking-head](https://github.com/licht1stein/talking-head) - Loom-style webcam bubble overlay for Wayland Linux
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [ManUtopiK/maski](https://github.com/ManUtopiK/maski) - Interactive TUI for mask — browse and run maskfile commands with fuzzy search
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -9732,7 +9737,7 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [ManUtopiK/chhoto-url](https://github.com/ManUtopiK/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up. Destroy it, it dims. Plus live tunnel monitoring, fleet-wi
 - [0xsouravm/oxichrome](https://github.com/0xsouravm/oxichrome) - Framework to build browser extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
@@ -10259,7 +10264,7 @@
 
 ## SCSS 
 
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [ravgeetdhillon/ravgeet-web](https://github.com/ravgeetdhillon/ravgeet-web) - My portfolio and blog.
 - [chris-paganon/vue-ai-tools](https://github.com/chris-paganon/vue-ai-tools) - 
@@ -10746,6 +10751,7 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [coollabsio/jean](https://github.com/coollabsio/jean) - A dev environment for AI agents.
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
@@ -10841,7 +10847,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your home.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - 🦦The open-source image suite that makes paid tools nervous. Every image tool you need. Your images stay yours.
 - [jiordiviera/patchwise](https://github.com/jiordiviera/patchwise) - 
 - [ubie-oss/n8n-cli](https://github.com/ubie-oss/n8n-cli) - A standalone CLI tool for n8n
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -11254,13 +11260,13 @@
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [cjfff/realworld-remix](https://github.com/cjfff/realworld-remix) - 
 - [nuxt-content/mdclint](https://github.com/nuxt-content/mdclint) - Lint Markdown and MDC files
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [JessicaSachs/nuxt-vitest-browser-mode](https://github.com/JessicaSachs/nuxt-vitest-browser-mode) - 
 - [codepunkt/vitest-environment-prisma-postgres](https://github.com/codepunkt/vitest-environment-prisma-postgres) - Vitest environment for Prisma & PostgreSQL designed for fast integration tests: seed your database once with production-like data, then run each test in a transaction that is rolled back after executi
 - [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [nicnocquee/dataqueue](https://github.com/nicnocquee/dataqueue) - A typesafe postgres/redis-backed job queue for Node.js/TypeScript projects in long running or serverless
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
-- [thetronjohnson/layrr](https://github.com/thetronjohnson/layrr) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
+- [narnia-sh/layrr](https://github.com/narnia-sh/layrr) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - [dabochen/viewerkit](https://github.com/dabochen/viewerkit) - 
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
 - [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
@@ -13825,6 +13831,7 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [quant-daddy/graphql-eventbus](https://github.com/quant-daddy/graphql-eventbus) - GraphQL layer to publish and consume events from any message broker
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
+- [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
 - [morris/mongomq2](https://github.com/morris/mongomq2) - A general-purpose message and event queuing library for MongoDB
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
