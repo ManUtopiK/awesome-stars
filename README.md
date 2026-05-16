@@ -1570,6 +1570,7 @@
 - [Sabir-Ali-Mondal/Video-Like](https://github.com/Sabir-Ali-Mondal/Video-Like) - VIDEO-LIKE: An automatic video creator that uses frontend technologies and text-generating AI to produce 10+ minute detailed documentary-style videos in a single run.
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [jerryjliu/liteparse_samples](https://github.com/jerryjliu/liteparse_samples) - Interactive samples/demos for LiteParse: a fast, local, model-free document parser
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
@@ -1586,6 +1587,7 @@
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [sglenns/pure-html](https://github.com/sglenns/pure-html) - Pure HTML project that aims to use the latest baseline HTML, TypeScript and CSS
 - [parakeet-nest/parakeet](https://github.com/parakeet-nest/parakeet) - 🦜🪺 Parakeet is a GoLang library, made to simplify the development of small generative AI applications with Ollama 🦙.
+- [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) - Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises
 - [pascalranaora/sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol) - 
 - [shawnyeager/nostr-ux-patterns](https://github.com/shawnyeager/nostr-ux-patterns) - Evidence-informed UX patterns for building Nostr apps people actually use
@@ -1739,7 +1741,7 @@
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [nuxt/ui-templates](https://github.com/nuxt/ui-templates) - 🎨 Unified Assets and Templates for Nuxt
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
-- [BlockScience/cag-map](https://github.com/BlockScience/cag-map) - computer aided governance map and process
+- [Jeff-Emmett/cag-map](https://github.com/Jeff-Emmett/cag-map) - computer aided governance map and process
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -2103,6 +2105,7 @@
 
 ## JavaScript 
 
+- [khimaros/pi-webui](https://github.com/khimaros/pi-webui) - a simple, standalone webui for pi.dev
 - [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Passive API key and secret discovery browser extension for Chrome and Firefox. 80+ detection patterns, zero config.
@@ -7126,7 +7129,6 @@
 - [skilld-dev/vue-ecosystem-skills](https://github.com/skilld-dev/vue-ecosystem-skills) - AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases.
 - [rasengan-dev/nindo](https://github.com/rasengan-dev/nindo) - The flexible Markdown Editor for modern platforms
 - [vtbag/website](https://github.com/vtbag/website) - The @vtbag website. ⭐️ Please star to support this work! ⭐️
-- [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) - Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 - [tursodatabase/turso-docs](https://github.com/tursodatabase/turso-docs) - Turso Documentation
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [worldcoin/world-id-docs](https://github.com/worldcoin/world-id-docs) - Legacy documentation. Please see https://github.com/worldcoin/developer-docs for updated documentation.
@@ -7323,6 +7325,7 @@
 
 ## Others 
 
+- [meydeey/obsidian-god-mode-claude-code](https://github.com/meydeey/obsidian-god-mode-claude-code) - Transforme Claude Code en générateur autonome de knowledge vault Obsidian. Pattern Karpathy. Par LE LABO IA.
 - [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 - [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) - 🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -8863,7 +8866,6 @@
 - [growgraph/graflo](https://github.com/growgraph/graflo) - A framework for transforming tabular (CSV, SQL) and hierarchical data (JSON, XML) into property graphs and ingesting them into graph databases (ArangoDB, Neo4j)
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -8955,7 +8957,7 @@
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code
 - [DGouron/linux-port-killer](https://github.com/DGouron/linux-port-killer) - A lightweight system tray application for Linux to find and kill processes using specific network ports
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -9672,6 +9674,7 @@
 
 ## Rust 
 
+- [Paseru/sinew](https://github.com/Paseru/sinew) - Desktop IDE with built-in AI coding agents
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
 - [jonhoo/rust-imap](https://github.com/jonhoo/rust-imap) - IMAP client library for Rust
 - [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
@@ -9685,7 +9688,7 @@
 - [z8run/z8run](https://github.com/z8run/z8run) - Open-source visual flow engine for workflow automation, AI pipelines, and IoT — built with Rust + React. Self-hosted alternative to n8n and Node-RED.
 - [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - High-performance, code-first workflow automation engine. TypeScript-native with Rust core for enterprise-grade speed, efficiency, and developer experience.
 - [v9ai/deepseek-loop](https://github.com/v9ai/deepseek-loop) - Claude-Code-shaped agent loop over the DeepSeek API: built-in tools, permission modes, cron scheduler with /loop semantics, streaming SdkMessage events
-- [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) - Lakehouse-native graph engine with git-style workflows
+- [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) - Object-storage native graph engine with git-style workflows
 - [matthart1983/syswatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 - [ArthurDEV44/paneflow](https://github.com/ArthurDEV44/paneflow) - 
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets
@@ -9716,7 +9719,7 @@
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
 - [devwhodevs/engraph](https://github.com/devwhodevs/engraph) - Local knowledge graph for AI agents. Hybrid search + MCP server for Obsidian vaults.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [didley/camoverlay](https://github.com/didley/camoverlay) - GNOME app that displays a webcam preview as a borderless overlay, for use during screen recording.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [licht1stein/talking-head](https://github.com/licht1stein/talking-head) - Loom-style webcam bubble overlay for Wayland Linux
@@ -10794,6 +10797,10 @@
 
 ## TypeScript 
 
+- [ManUtopiK/unocss-preset-motion](https://github.com/ManUtopiK/unocss-preset-motion) - UnoCSS preset for View Transitions and Scroll-Driven Animations
+- [billymcdowell/shadcn-web-components](https://github.com/billymcdowell/shadcn-web-components) - 
+- [superserve-ai/superserve](https://github.com/superserve-ai/superserve) - Sandbox infrastructure for AI Agents
+- [ibedevesh/npad-ai](https://github.com/ibedevesh/npad-ai) - notepad for agents — a scratchpad your AI agents read and write to
 - [av/skills](https://github.com/av/skills) - A library of skills made by @av
 - [seeARMS/draftside](https://github.com/seeARMS/draftside) - An offline, local-only writing tool. Uses Chrome's local gemini models for intelligence.
 - [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code & Codex Session Analytics
@@ -11048,7 +11055,7 @@
 - [asharirfan/tikr](https://github.com/asharirfan/tikr) - A beautiful Pomodoro & countdown timer, right in your terminal.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
-- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - The batteries included agent harness.
 - [saurabhiam/markit](https://github.com/saurabhiam/markit) - High-Performance Text Highlighting
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -11653,7 +11660,7 @@
 - [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS) - Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching. Also works for mobile!
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [NicolasMontone/json-tree-viewer](https://github.com/NicolasMontone/json-tree-viewer) - Shadcn json-tree-viewer copy & paste, tailwindCSS
 - [theemo-tokens/theemo](https://github.com/theemo-tokens/theemo) - Design Token Automations
@@ -11844,7 +11851,7 @@
 - [atinux/nuxt-todo-passkeys](https://github.com/atinux/nuxt-todo-passkeys) - A todo app with passkeys (WebAuthn) authentication with Nuxt.
 - [mary-ext/pkg-exif-rm](https://github.com/mary-ext/pkg-exif-rm) - Remove EXIF information from PNG, JPEG, and WebP images
 - [AdirAmsalem/mcp-it](https://github.com/AdirAmsalem/mcp-it) - 🤖 Automatically generate MCP tools from your Fastify API routes.
-- [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
+- [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
 - [CarloBu/reveal-animation-handler](https://github.com/CarloBu/reveal-animation-handler) - A responsive text animation system for Astro that intelligently detects and respects natural line breaks. This utility provides dynamic, viewport-aware animations with multiple animation types and cus
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [CodyBontecou/nuxt-seo-and-nuxt-content](https://github.com/CodyBontecou/nuxt-seo-and-nuxt-content) - 
@@ -12448,7 +12455,7 @@
 - [ProseMirror/prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [antfu/eslint-typegen](https://github.com/antfu/eslint-typegen) - Generate types from ESLint rule schemas, with auto-completion and type-checking for rule options.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [runk/node-chardet](https://github.com/runk/node-chardet) - Character encoding detection tool for NodeJS
 - [pulsecron/pulse](https://github.com/pulsecron/pulse) - The modern MongoDB-powered  job scheduler library for Node.js
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -12848,7 +12855,7 @@
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 - [andurils/vue-code-view](https://github.com/andurils/vue-code-view) - 🖖A Vue 2 SFC REPL component  just like   `@vue/repl` .
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [vgulerianb/crucible](https://github.com/vgulerianb/crucible) - Crucible turns YouTube videos into blogs, Twitter threads, and even lets you chat with the video itself.
 - [skoshx/human-errors](https://github.com/skoshx/human-errors) - 🛠 A tiny error handling library to make your API's more human friendly. Inspired by Stripe's API.
