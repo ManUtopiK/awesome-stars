@@ -937,6 +937,7 @@
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs 
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents.
+- [GTG-Labs/sangria](https://github.com/GTG-Labs/sangria) - Payment Infrastructure for Agents
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [git-pkgs/brief](https://github.com/git-pkgs/brief) - A single-binary CLI tool that detects a software project's toolchain, configuration, and conventions, then outputs a structured report.
@@ -1138,7 +1139,6 @@
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [fiatjaf/eventstore](https://github.com/fiatjaf/eventstore) - a collection of databases specifically designed for storing nostr events
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
-- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [hasura/ndc-elasticsearch](https://github.com/hasura/ndc-elasticsearch) - Hasura v3 Data Connector for Elasticsearch
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
@@ -1477,7 +1477,7 @@
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) - ☠️ The Pathwar Project ☠️
 - [onosproject/onos-config](https://github.com/onosproject/onos-config) - Configuration subsystem for ONOS (µONOS Architecture)
 - [harleo/knockknock](https://github.com/harleo/knockknock) - A simple reverse whois lookup tool which returns a list of domains owned by people or companies
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [sylvek/domotik](https://github.com/sylvek/domotik) - Home Monitoring Project
@@ -1900,7 +1900,6 @@
 - [kaizhu256/node-swgg-facebook-all](https://github.com/kaizhu256/node-swgg-facebook-all) - this zero-dependency package will provide a javascript-client for facebook's web-apis, with a working web-demo
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
@@ -2379,7 +2378,7 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [jhkluiver/Vue3Leaflet](https://github.com/jhkluiver/Vue3Leaflet) - Demo how to use leaflet in vue 3 web application (with leaflet directly and use use vue-leaflet library)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [zhanggoodzhi/vue3-polkadot-vue-identicon](https://github.com/zhanggoodzhi/vue3-polkadot-vue-identicon) - @polkadot/vue-identicon compatible with vue3
 - [adejaimejr/chrome-mcp-server](https://github.com/adejaimejr/chrome-mcp-server) - Servidor MCP para integração entre extensão Chrome e Claude AI
@@ -4183,7 +4182,6 @@
 - [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [TiagoDanin/Nuxt-SEO](https://github.com/TiagoDanin/Nuxt-SEO) - SEO / HTML Meta Tags Module for Nuxt.js
 - [BrightID/BrightID-Node](https://github.com/BrightID/BrightID-Node) - A node hosting the BrightID social graph
-- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [words/stemmer](https://github.com/words/stemmer) - Fast Porter stemmer implementation
 - [akhilrex/elasticsearch-autocomplete](https://github.com/akhilrex/elasticsearch-autocomplete) - This is a standalone microservice to to provide autocomplete functionality over large datasets using node and elasticsearch.
 - [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing vibes! (for Svelte)
@@ -4456,7 +4454,6 @@
 - [blabut/VueJSTwitterFeed](https://github.com/blabut/VueJSTwitterFeed) - This repo contains a VueJS component for embedding a Twitter Feed on a Vue WebApp
 - [amineyarman/vue-kinesis](https://github.com/amineyarman/vue-kinesis) - Easily create complex interactive animations with Vue.js
 - [merefield/discourse-locations](https://github.com/merefield/discourse-locations) - Tools for handling locations in Discourse
-- [froala/vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Vue component for Froala WYSIWYG HTML Rich Text Editor.
 - [AlbertLanne/Theme-switcher-Nuxt-TailwindCSS](https://github.com/AlbertLanne/Theme-switcher-Nuxt-TailwindCSS) - 🏳🏴 Prototype of global theme changer make in single js file with vuex
 - [tabernerojerry/graphql-stripe-example](https://github.com/tabernerojerry/graphql-stripe-example) - Example project of how to use Stripe with GraphQL
 - [thorsten-stripe/graphql-marketplace-stripe](https://github.com/thorsten-stripe/graphql-marketplace-stripe) - [WIP] Modelling Marketplaces with GraphQL
@@ -7355,7 +7352,6 @@
 - [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources: list of community nodes and tutorials
 - [meydeey/obsidian-god-mode-claude-code](https://github.com/meydeey/obsidian-god-mode-claude-code) - Transforme Claude Code en générateur autonome de knowledge vault Obsidian. Pattern Karpathy. Par LE LABO IA.
 - [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
-- [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) - 🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
@@ -8860,6 +8856,7 @@
 - [honestsoul/rag_patterns](https://github.com/honestsoul/rag_patterns) - 
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
+- [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) - 🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream
 - [Th3Hypn0tist/AIGMos](https://github.com/Th3Hypn0tist/AIGMos) - HGI - Command Surface
 - [toddllm/antenna](https://github.com/toddllm/antenna) - Local-first feed reader with email and MCP outputs
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -8911,7 +8908,7 @@
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [siddsachar/Thoth](https://github.com/siddsachar/Thoth) - Thoth - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi
 - [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [growgraph/graflo](https://github.com/growgraph/graflo) - A framework for transforming tabular (CSV, SQL) and hierarchical data (JSON, XML) into property graphs and ingesting them into graph databases (ArangoDB, Neo4j)
@@ -8931,6 +8928,7 @@
 - [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [GrafeoDB/graph-bench](https://github.com/GrafeoDB/graph-bench) - Benchmark suite for graph databases. Built to compare Grafeo with Neo4j, Memgraph, ArangoDB, FalkorDB, Nebula Graph and LadybugDB.
+- [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT + CITE frameworks.
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [ping13/listmonk-rss](https://github.com/ping13/listmonk-rss) - Provide an RSS integration for listmonk, a self-hosted newsletter and mailing list manager
@@ -8942,6 +8940,7 @@
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [ananddtyagi/cc-marketplace](https://github.com/ananddtyagi/cc-marketplace) - Marketplace repo for Claude Code Plugins
 - [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [GuigsEvt/whisper-dictate](https://github.com/GuigsEvt/whisper-dictate) - Whisper Dictate — Local voice-to-text dictation for macOS using MLX Whisper on Apple Silicon
 - [carderne/signal-export](https://github.com/carderne/signal-export) - Export your Signal chats to markdown files with attachments
 - [mattduck/gh2md](https://github.com/mattduck/gh2md) - Export Github repository issues, pull requests and comments to markdown.
@@ -9781,7 +9780,7 @@
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - A lightweight local service that makes your locally installed fonts available on Figma.
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
-- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - Local-first SSH workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.
+- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.
 - [GrafeoDB/gwp](https://github.com/GrafeoDB/gwp) - GQL Wire Protocol: Standalone, pure Rust gRPC wire protocol for GQL (ISO/IEC 39075).
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
@@ -10062,6 +10061,7 @@
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [crocuda/jucenit](https://github.com/crocuda/jucenit) - A simple web server with automatic ssl.
 - [letmutex/htmd](https://github.com/letmutex/htmd) - A turndown.js inspired HTML to Markdown converter for Rust
+- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - High performance ergonomic ORM for Rust.
@@ -10485,7 +10485,6 @@
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [ahoward/xenv](https://github.com/ahoward/xenv) - blazing-fast, zero-dependency environment runner and secrets manager
 - [chenglou/claude-config-learnings](https://github.com/chenglou/claude-config-learnings) - 
-- [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT + CITE frameworks.
 - [debs-obrien/learn-agent-skills](https://github.com/debs-obrien/learn-agent-skills) - learn how to use and write agent skills
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [wsdjeg/mdctags.rs](https://github.com/wsdjeg/mdctags.rs) - 
@@ -10872,6 +10871,7 @@
 
 ## TypeScript 
 
+- [volverjs/zod-vue-i18n](https://github.com/volverjs/zod-vue-i18n) - Translating Zod error messages with Vue I18n.
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [nicobailon/agent-interview-cli](https://github.com/nicobailon/agent-interview-cli) - 
 - [pdcolandrea/mobbin-mcp](https://github.com/pdcolandrea/mobbin-mcp) - Unofficial MCP server for searching Mobbin's design library — apps, screens, flows & collections. No public API required.
@@ -10936,7 +10936,6 @@
 - [truefoundry/awesome-mcp-servers](https://github.com/truefoundry/awesome-mcp-servers) - 
 - [truefoundry/llm-locust](https://github.com/truefoundry/llm-locust) - LLM Locust combines the simplicity of Locust with deep support for LLM-specific benchmarking
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
-- [GTG-Labs/sangria](https://github.com/GTG-Labs/sangria) - Payment Infrastructure for Agents
 - [DopplerHQ/secret-agents](https://github.com/DopplerHQ/secret-agents) - 
 - [better-notify/better-notify](https://github.com/better-notify/better-notify) - All your notifications from one library. For Node.js and Bun.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -11125,7 +11124,6 @@
 - [dannwaneri/chat-knowledge](https://github.com/dannwaneri/chat-knowledge) - Federated AI knowledge commons using ActivityPub
 - [brightdata/cli](https://github.com/brightdata/cli) - Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
 - [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
@@ -12405,7 +12403,7 @@
 - [homer1137/dragAndDropFilePlaywright](https://github.com/homer1137/dragAndDropFilePlaywright) - 
 - [adrienZ/slip](https://github.com/adrienZ/slip) - Plug and play authentication module for Nuxt
 - [unovue/vaul-vue](https://github.com/unovue/vaul-vue) - An unstyled drawer component for Vue.
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI.
@@ -13262,7 +13260,7 @@
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [L422Y/nuxt-pageviews](https://github.com/L422Y/nuxt-pageviews) - Nuxt module that provides page view counts using Google Analytics Data API (GA4)
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
-- [perfsee/perfsee](https://github.com/perfsee/perfsee) - a set of tools for measuring and debugging performance of frontend applications
+- [bytedance/perfsee](https://github.com/bytedance/perfsee) - a set of tools for measuring and debugging performance of frontend applications
 - [productdevbookcom/awesome-nuxt-plugins](https://github.com/productdevbookcom/awesome-nuxt-plugins) - Access and use Nuxt plugins in the fastest way. There are no NPM packaged plugins here.
 - [nuxt-modules/medusa](https://github.com/nuxt-modules/medusa) - 🛍️ Medusa module for Nuxt
 - [sheremet-va/vi-fetch](https://github.com/sheremet-va/vi-fetch) - 
@@ -14770,6 +14768,7 @@
 - [nuxt-modules/storybook](https://github.com/nuxt-modules/storybook) - Storybook integration with Nuxt.
 - [figma-plugin-helper-functions/figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - A collection of useful helper functions to import to your Figma plugin project
 - [joway/sheetsql](https://github.com/joway/sheetsql) - Google Spreadsheet as a Database
+- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [swyxio/ssg](https://github.com/swyxio/ssg) - Svelte Site Generator. why try this? because sapper has a lot of setup, and isn't great at pipelining data:
 - [WonderPanda/nestjs-microservice-architecture](https://github.com/WonderPanda/nestjs-microservice-architecture) - A reference architecture for building microservices with Nest
 - [keroxp/servest](https://github.com/keroxp/servest) - 🌾A progressive http server for Deno🌾
