@@ -159,6 +159,7 @@
 
 ## C 
 
+- [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -2145,7 +2146,6 @@
 - [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.
 - [jancimajek/statements-downloader](https://github.com/jancimajek/statements-downloader) - Tool to securely automate regular downloads of various utility and bank statements
 - [piti/openclaw-security-dashboard](https://github.com/piti/openclaw-security-dashboard) - Open-source security dashboard for OpenClaw deployments. Scans gateway exposure, malicious skills, config hardening, identity integrity, and more.
-- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) - An AI agent that claws through your network
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [jingchang0623-crypto/openclaw-skills-analyzer](https://github.com/jingchang0623-crypto/openclaw-skills-analyzer) - 🔍 Analyze OpenClaw Skills ecosystem distribution — trending categories, coverage gaps, quality scores. By miaoquai.com
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -2172,6 +2172,7 @@
 - [kavehtehrani/speech2text-extension](https://github.com/kavehtehrani/speech2text-extension) - GNOME Speech2Text - shell extension for speech to text (dictation) using OpenAI's automated speech recognition Whisper
 - [bennyzen/vueseq](https://github.com/bennyzen/vueseq) - Vue Sequencer: A minimal, deterministic video renderer for Vue 3 + GSAP, inspired by Pellicule and Remotion.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
+- [ayhammouda/mentor](https://github.com/ayhammouda/mentor) - Claude skill for official-first, dependency-ordered learning paths for technical topics.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [the-banana-tool/king-louie](https://github.com/the-banana-tool/king-louie) - Easy to use GUI Personal AI Assistant. Win/Linux/Mac.
 - [willynikes2/knowledge-base-server](https://github.com/willynikes2/knowledge-base-server) - Make every AI agent you use smarter. Persistent memory with SQLite FTS5, MCP server, Obsidian sync, and self-learning intelligence pipeline.
@@ -7379,7 +7380,6 @@
 - [zeroclaw-labs/zeroclaw-skills](https://github.com/zeroclaw-labs/zeroclaw-skills) - Official skill registry for ZeroClaw — community-contributed AI agent skills, tools, and workflows
 - [BenBktech/Un-second-cerveau-Obsidian-Claude](https://github.com/BenBktech/Un-second-cerveau-Obsidian-Claude) - 
 - [delphinereverse794/remotion-transitions](https://github.com/delphinereverse794/remotion-transitions) - Build custom scene transitions in Remotion using a plugin with animation math, timing patterns, and ready-to-use examples.
-- [ayhammouda/mentor](https://github.com/ayhammouda/mentor) - Claude skill for official-first, dependency-ordered learning paths for technical topics.
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
@@ -8172,6 +8172,7 @@
 
 ## PHP 
 
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -8864,6 +8865,7 @@
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [pretix/pretix-banktool](https://github.com/pretix/pretix-banktool) - Automatic bank data upload tool for pretix (with FinTS client)
 - [stephenschoettler/hermes-lcm](https://github.com/stephenschoettler/hermes-lcm) - Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message
+- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) - An AI agent that claws through your network
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
@@ -9103,7 +9105,7 @@
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [qwersyk/Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source GenBI: let your AI agents generate, deploy, and govern dashboards from any database, grounded in a context layer they can trust.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
 - [nearai/nearai](https://github.com/nearai/nearai) - Deprecated – check out our newest work at https://near.ai
 - [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 - [cdepillabout/mkAIDerivation](https://github.com/cdepillabout/mkAIDerivation) - Generate a Nix derivation on the fly using an LLM
@@ -9750,6 +9752,7 @@
 
 ## Rust 
 
+- [tox-rs/tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
 - [nubjs/nub](https://github.com/nubjs/nub) - The all-in-one Node.js toolkit
 - [panamax-rs/panamax](https://github.com/panamax-rs/panamax) - Mirror rustup and crates.io repositories, for offline Rust and cargo usage.
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
@@ -10005,7 +10008,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [kasugamirai/nostr-crdt](https://github.com/kasugamirai/nostr-crdt) - 
 - [mmalmi/nostr-social-graph](https://github.com/mmalmi/nostr-social-graph) - 
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
@@ -10902,6 +10905,7 @@
 
 ## TypeScript 
 
+- [neutree-ai/openapi-to-skills](https://github.com/neutree-ai/openapi-to-skills) - OpenAPI to Agent Skill for context-efficient AI agents
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [vdaubry/bottega](https://github.com/vdaubry/bottega) - Coding agent orchestration for engineering teams — shipped as a spec plus a working reference implementation.
 - [itechmeat/open-second-brain](https://github.com/itechmeat/open-second-brain) - Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream passes turn repeat corrections into confirmed preferences with measurable confide
@@ -11140,7 +11144,7 @@
 - [shrimbly/node-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [aliirz/phntm.sh](https://github.com/aliirz/phntm.sh) - 
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
@@ -11331,7 +11335,7 @@
 - [webpro-nl/unbarrelify](https://github.com/webpro-nl/unbarrelify) - Barrel file removal tool for JavaScript & TypeScript projects (ESM-only)
 - [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon) - Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.
 - [GrafeoDB/grafeo-web](https://github.com/GrafeoDB/grafeo-web) - Grafeo graph database in the browser.  Zero backend. Your data stays on the client.
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [gbicou/countries-server](https://github.com/gbicou/countries-server) - GraphQL countries server playground
 - [gbicou/color-space-stack](https://github.com/gbicou/color-space-stack) - Visualize synchronized color spaces
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -11742,7 +11746,7 @@
 - [nksaraf/magiql-browser](https://github.com/nksaraf/magiql-browser) - Web-based Browser and IDE for GraphQL (based on monaco-editor), useful for playgrounds for GraphQL servers
 - [DoneDeal0/codefather](https://github.com/DoneDeal0/codefather) - Codefather protects your codebase by controlling who can change what. Set authorization levels, lock down files, and enforce your rules—offline via CLI or online with GitHub Actions.
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
 - [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
@@ -11798,7 +11802,7 @@
 - [opensource-together/opensource-together](https://github.com/opensource-together/opensource-together) - Platform that helps developers find the right open-source projects to learn, grow, and contribute
 - [garciamathias/mistral-cli](https://github.com/garciamathias/mistral-cli) - 
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration.
 - [FiloSottile/typage](https://github.com/FiloSottile/typage) - A TypeScript implementation of the age file encryption format, available as an npm package or as a bundled .js file.
 - [dahlia/upyo](https://github.com/dahlia/upyo) - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.
 - [taehnkim/1brc](https://github.com/taehnkim/1brc) - Parsing 1 billion rows under 10s in TS
@@ -12100,7 +12104,7 @@
 - [ztabs-official/markdown-to-slides](https://github.com/ztabs-official/markdown-to-slides) - 
 - [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd) - Command line tools for working with MyST Markdown.
 - [olegdon/nuxt3-pnpm-monorepo](https://github.com/olegdon/nuxt3-pnpm-monorepo) - Nuxt 3 PNPM Monorepo boilerplate including Tailwind, Storybook and Pinia
-- [Dembrane/echo](https://github.com/Dembrane/echo) - ECHO is a transcription, analysis and reporting platform specifically designed for in-person multilingual conversations. It's a complete solution for real-world stakeholder-engagement scenarios where 
+- [Dembrane/echo](https://github.com/Dembrane/echo) - dembrane is a transcription, analysis and reporting platform built for in-person, multilingual conversations — a complete solution for real-world stakeholder-engagement where reliability and ease of u
 - [dditlev/ollama-js-client](https://github.com/dditlev/ollama-js-client) - 🦙 JS fetch wrapper for consuming the Ollama API in node and the browser 🦙
 - [bansal/folder](https://github.com/bansal/folder) - Folder – An open-source Google Drive alternative
 - [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
@@ -15433,7 +15437,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
