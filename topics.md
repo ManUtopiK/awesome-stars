@@ -51,6 +51,7 @@
 - [clash](#clash)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -810,7 +811,7 @@
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. 66 models (8 free), &lt;1ms local routing, USDC payments on Base & Solana via x402.
 - [Saluana/streamdown-vue](https://github.com/Saluana/streamdown-vue) - Streamdown style streaming Markdown to Vue 3 & Nuxt 3
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 - [entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture](https://github.com/entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture) - Meta-Cognitive Workflow Architecture
@@ -1153,6 +1154,7 @@
 
 ## ai-agents 
 
+- [os-factory/har](https://github.com/os-factory/har) - Open-source, agent-agnostic framework for multi-agent coding workflows. Run a fleet of coding agents in parallel, with deterministic validation, verifiable proof, and full observability.
 - [solarch-dev/solarch](https://github.com/solarch-dev/solarch) - Diagram→code through a deterministic rules gate: the AI proposes, 50 rules verify, only valid architecture lands. Try it: app.solarch.dev
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workflows, and configuration sync.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
@@ -2127,7 +2129,7 @@
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [artemnistuley/awesome-prosemirror](https://github.com/artemnistuley/awesome-prosemirror) - A curated list of awesome things related to ProseMirror
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome infosec courses and training resources.
-- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🔧 A collection of essential design pattern examples in JavaScript 🧰
+- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🧰 A collection of essential design pattern examples in JavaScript
 - [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) - A curated list of awesome things related to Anthropic Claude
 - [valentin-vogel/awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A curated list of awesome nocode and lowcode ressources for building software without code.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -2353,7 +2355,7 @@
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [artemnistuley/awesome-prosemirror](https://github.com/artemnistuley/awesome-prosemirror) - A curated list of awesome things related to ProseMirror
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
-- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🔧 A collection of essential design pattern examples in JavaScript 🧰
+- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🧰 A collection of essential design pattern examples in JavaScript
 - [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) - A curated list of awesome things related to Anthropic Claude
 - [valentin-vogel/awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A curated list of awesome nocode and lowcode ressources for building software without code.
 - [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
@@ -3118,7 +3120,7 @@
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [the-banana-tool/king-louie](https://github.com/the-banana-tool/king-louie) - Easy to use GUI Personal AI Assistant. Win/Linux/Mac.
 - [vercel-labs/knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) - Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
@@ -3624,6 +3626,7 @@
 - [cogitave/clawtool](https://github.com/cogitave/clawtool) - Tools. Agents. Wired. | the canonical tool layer
 - [tinh2/skills-hub-registry](https://github.com/tinh2/skills-hub-registry) - Open registry of community-contributed AI coding skills (SKILL.md files) — daily-synced to skills-hub.ai. Install across Claude Code, Cursor, Codex CLI, Windsurf, Copilot, and any MCP-compatible tool 
 - [luna-prompts/skillnote](https://github.com/luna-prompts/skillnote) - The open-source skill registry for AI coding agents. Create, manage, and distribute SKILL.md files across Openclaw, Claude Code, Cursor, Codex, OpenHands, Antigravity, and more.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) - YC S26 | WUPHF by Nex.ai lets you spin up your personal office of AI teammates who collaborate over shared context. Supports Claude Code, Codex, OpenClaw, OpenCode, local LLMs.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [meydeey/obsidian-god-mode-claude-code](https://github.com/meydeey/obsidian-god-mode-claude-code) - Transforme Claude Code en générateur autonome de knowledge vault Obsidian. Pattern Karpathy. Par LE LABO IA.
@@ -3707,7 +3710,7 @@
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [yoanbernabeu/supabase-pentest-skills](https://github.com/yoanbernabeu/supabase-pentest-skills) - 24 AI Agent Skills for professional security auditing of Supabase applications. Detection, key extraction, RLS testing, storage audit, IDOR detection, and comprehensive reporting. Works with Claude Co
 - [mattlqx/claude-code-ollama-proxy](https://github.com/mattlqx/claude-code-ollama-proxy) - Run Claude Code on Ollama
 - [angristan/fast-resume](https://github.com/angristan/fast-resume) - Find that one coding agent session you want to get back to!
@@ -3759,6 +3762,28 @@
 - [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [incubrain/foundry](https://github.com/incubrain/foundry) - IncuBrain Foundry is a Nuxt 4 template optimised for creating AI-native businesses
+
+## claude-skills 
+
+- [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) - A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, instead of generic AI-slop defaults.
+- [naiersaidane/claude-mastery](https://github.com/naiersaidane/claude-mastery) - Skills Claude Code de la formation Claude Mastery — interroge, cadre, planifie, design, investigue, illustre
+- [tinh2/skills-hub-registry](https://github.com/tinh2/skills-hub-registry) - Open registry of community-contributed AI coding skills (SKILL.md files) — daily-synced to skills-hub.ai. Install across Claude Code, Cursor, Codex CLI, Windsurf, Copilot, and any MCP-compatible tool 
+- [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) - Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple as calling an API.
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
+- [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, an
+- [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.
+- [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines — SEO/GEO, influencer, paid ads, email, product launch, organic social & brand narrative — on one shared contract, wi
+- [YPares/rigup.nix](https://github.com/YPares/rigup.nix) - AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion
+- [Kyure-A/agent-skills-nix](https://github.com/Kyure-A/agent-skills-nix) - Declarative management of Agent Skills on Nix
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+- [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
 ## cli 
 
@@ -6160,7 +6185,6 @@
 - [jkarlosb/git-server-docker](https://github.com/jkarlosb/git-server-docker) - Git Server in Docker
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) - Deploy Stoat on your own infrastructure!
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - A highly customizable web hosting control panel built around containers ✌️
 - [domsen123/mrx-nuxt-template](https://github.com/domsen123/mrx-nuxt-template) - 🚀 Starter Project for Nuxt4 with better-auth and postgresql.
 - [coderamp-labs/gitcontainer](https://github.com/coderamp-labs/gitcontainer) - Replace "github" with "gitcontainer" in URLs to generate a dockerfile.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
@@ -10701,7 +10725,7 @@
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client
 - [MarketingPipeline/Emoji-Fallback.js](https://github.com/MarketingPipeline/Emoji-Fallback.js) - Provide support for emojis on ALL web browsers!
-- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🔧 A collection of essential design pattern examples in JavaScript 🧰
+- [AllThingsSmitty/basic-design-patterns](https://github.com/AllThingsSmitty/basic-design-patterns) - 🧰 A collection of essential design pattern examples in JavaScript
 - [zcf0508/vue-scan](https://github.com/zcf0508/vue-scan) - Flashing when components updating to troubleshoot performance issues.
 - [TryGhost/Koenig](https://github.com/TryGhost/Koenig) - Components of Ghost's Editor
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
@@ -12666,7 +12690,7 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [alfonsobries/laravel-nuxt-tailwind](https://github.com/alfonsobries/laravel-nuxt-tailwind) - Laravel Project with nuxt frontend styled with TailwindCSS
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access a
-- [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [anthonygore/vue-js-laravel-multi-ssr](https://github.com/anthonygore/vue-js-laravel-multi-ssr) - Source code for the article "Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App"
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
@@ -12789,7 +12813,7 @@
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [advanced-cropper/vue-advanced-cropper](https://github.com/advanced-cropper/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [c-z-chen/vue-lib](https://github.com/c-z-chen/vue-lib) - 💝 fun vue component library for my own use.
-- [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command.
 - [caffeinelabs/motoko-base](https://github.com/caffeinelabs/motoko-base) - The original Motoko base library (replaced by `core`)
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
@@ -13134,7 +13158,7 @@
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. 66 models (8 free), &lt;1ms local routing, USDC payments on Base & Solana via x402.
 - [Saluana/streamdown-vue](https://github.com/Saluana/streamdown-vue) - Streamdown style streaming Markdown to Vue 3 & Nuxt 3
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) - Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
 - [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
@@ -17042,6 +17066,8 @@
 
 ## others 
 
+- [pi0/rangi](https://github.com/pi0/rangi) - 🎨 Tiny Syntax Highlighter
+- [a2wio/rouse](https://github.com/a2wio/rouse) - Memory with a clock — a file-shaped memory system that can wake the agent, not just be recalled by it.
 - [earendil-works/pi-chat](https://github.com/earendil-works/pi-chat) - 
 - [annoyingmouse/wc-location-field](https://github.com/annoyingmouse/wc-location-field) - 
 - [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native micro Web UI for scripts and agents — super fast OS native webview with bidirectional JSON communication for agents
@@ -17061,7 +17087,6 @@
 - [cursor/minisqlite](https://github.com/cursor/minisqlite) - 
 - [mav-stripe/stripe-b2b-subscriptions-with-client-level-detail](https://github.com/mav-stripe/stripe-b2b-subscriptions-with-client-level-detail) - This demo features a single-page application that enables a business with B2B multi-org clients to manage subscriptions with  client-level detail. Uses Stripe for payment processing and subscriptions,
 - [theswerd/brainless](https://github.com/theswerd/brainless) - Claude Code, Codex, and Grok interfaces as shadcn components
-- [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) - A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, instead of generic AI-slop defaults.
 - [stuttlepress/pi-claude-cli](https://github.com/stuttlepress/pi-claude-cli) - Pi coding agent extension that routes LLM calls through the Claude Code CLI
 - [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do
 - [thinking-machines-lab/tinker](https://github.com/thinking-machines-lab/tinker) - Training API and CLI
@@ -17112,7 +17137,7 @@
 - [mcollina/snipgrapher](https://github.com/mcollina/snipgrapher) - 
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
-- [WICG/cross-origin-storage](https://github.com/WICG/cross-origin-storage) - Cross-Origin Storage (COS), a content-addressable browser storage mechanism that shares files across origins by hash, with k-anonymity-based availability gating to prevent cross-site tracking
+- [WICG/cross-origin-storage](https://github.com/WICG/cross-origin-storage) - Cross-Origin Storage (COS), a content-addressable browser cache that shares files across origins by hash, with k-anonymity-based availability gating to prevent cross-site tracking
 - [tnfssc/openwispr-gnome-extension](https://github.com/tnfssc/openwispr-gnome-extension) - DEPRECATED: moved to github.com/tnfssc/OpenWispr/tree/develop/apps/gnome
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
@@ -17155,7 +17180,7 @@
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices
 - [ThanosKa/prophet](https://github.com/ThanosKa/prophet) - 
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 - [YPares/nushellWith](https://github.com/YPares/nushellWith) - Isolated nushell envs with specific plugins and libraries (with Nix)
 - [Pls-1q43/n8n-nodes-FreshRSS](https://github.com/Pls-1q43/n8n-nodes-FreshRSS) - 
 - [that-one-tom/n8n-nodes-miniflux](https://github.com/that-one-tom/n8n-nodes-miniflux) - n8n community node for the Miniflux feed reader
@@ -18124,6 +18149,7 @@
 - [umanamente/n8n-nodes-globals](https://github.com/umanamente/n8n-nodes-globals) - N8N community node that allows users to create global constants and use them in all their workflows
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [Fabiopf02/ofx-data-extractor](https://github.com/Fabiopf02/ofx-data-extractor) - TypeScript library to parse, normalize, and validate OFX files in Node.js and browsers, with strict/lenient modes and developer-friendly transaction output.
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - A highly customizable web hosting control panel built around containers ✌️
 - [hzrd149/nostr-secretary](https://github.com/hzrd149/nostr-secretary) - Stupid simple nostr notifications
 - [harlan-zw/eslint-plugin-harlanzw](https://github.com/harlan-zw/eslint-plugin-harlanzw) - My opinionated ESLint rules for Vue apps
 - [yukukotani/monoread](https://github.com/yukukotani/monoread) - An unified interface (CLI&MCP) to read any web page in AI-optimized format
@@ -19473,7 +19499,7 @@
 - [greenit-community/greenit-community-api](https://github.com/greenit-community/greenit-community-api) - 
 - [Charca/astro-movies](https://github.com/Charca/astro-movies) - Movie DB App built with Astro
 - [nuxt-community/google-gtag-module](https://github.com/nuxt-community/google-gtag-module) - Enable google gtagjs for NuxtJs
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Google Ads integration made easy
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics, Google Ads and Consent Mode v2 for Nuxt
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [an3wers/nuxt3-blog](https://github.com/an3wers/nuxt3-blog) - Nuxt.js 3, Vue.js 3, SSR, firebase, jwt auth, rest api, pinia
@@ -20264,7 +20290,7 @@
 - [rickbergfalk/postgrator](https://github.com/rickbergfalk/postgrator) - A PostgreSQL, MySQL, and SQL Server migration tool using plain sql scripts.
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [flapili/MailToPDF](https://github.com/flapili/MailToPDF) - 
-- [johannschopplich/nuxt-api-party](https://github.com/johannschopplich/nuxt-api-party) - 🐬 Auto-generated composables for secure API access, with OpenAPI support
+- [johannschopplich/nuxt-api-party](https://github.com/johannschopplich/nuxt-api-party) - 🐬 Composables for any API, with credentials on the server and types from OpenAPI
 - [andreyvit/json-diff](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [dannydeezy/twitter-imposters](https://github.com/dannydeezy/twitter-imposters) - Find and report twitter imposter accounts
@@ -25064,7 +25090,7 @@
 - [taniarascia/wp-functions](https://github.com/taniarascia/wp-functions) - A compilation of function snippets for WordPress developers who create their own themes.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
-- [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
@@ -30194,7 +30220,7 @@
 - [productdevbook/etiket](https://github.com/productdevbook/etiket) - Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript.
 - [astraldev/nanime](https://github.com/astraldev/nanime) - Create SSR safe animations with animejs
 - [arpitnath/blink-query](https://github.com/arpitnath/blink-query) - A typed wiki for LLMs — markdown on disk, resolution in the library.
-- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside.
+- [templatical/sdk](https://github.com/templatical/sdk) - Drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside. Source-available under FSL-1.1-MIT — free commercially, MIT after 2 years.
 - [vercel-labs/nuxt-connect-starter](https://github.com/vercel-labs/nuxt-connect-starter) - Minimal Nuxt starter for Vercel Connect. OAuth integrations hub with GitHub and Linear, no provider secrets in your env.
 - [Olayiwola72/tablesmit](https://github.com/Olayiwola72/tablesmit) - A minimalist, open source table builder for analytical writing. Build clean structured tables with full header control, formatting, and export. Free. No signup.
 - [hariharjeevan/cheezypizza](https://github.com/hariharjeevan/cheezypizza) - 🍕CheezyPizza - WebRTC based p2p file transfers in your browser
@@ -32947,7 +32973,7 @@
 
 ## vuejs 
 
-- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside.
+- [templatical/sdk](https://github.com/templatical/sdk) - Drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside. Source-available under FSL-1.1-MIT — free commercially, MIT after 2 years.
 - [bennyzen/vueseq](https://github.com/bennyzen/vueseq) - Vue Sequencer: A minimal, deterministic video renderer for Vue 3 + GSAP, inspired by Pellicule and Remotion.
 - [vue-quilly/vue-quilly](https://github.com/vue-quilly/vue-quilly) - Tiny Vue component, that helps to create Quill v2 based WYSIWYG editors https://vue-quilly.vercel.app/
 - [ubaldop/vue-country-flag](https://github.com/ubaldop/vue-country-flag) - Vue component for country flags
