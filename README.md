@@ -983,7 +983,6 @@
 - [inference-gateway/inference-gateway](https://github.com/inference-gateway/inference-gateway) - An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare an
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [centralmind/gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
-- [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - The easiest way to build and deploy an agent
 - [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
@@ -2330,6 +2329,7 @@
 - [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
+- [ing-norante/unmarker.it](https://github.com/ing-norante/unmarker.it) - A 100% client-side AI watermark disruptor. Process images entirely in your browser with no uploads, no tracking, and no servers.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [markgx/govtrack-node](https://github.com/markgx/govtrack-node) - A Node.js wrapper for the GovTrack data API
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -10010,6 +10010,7 @@
 
 ## Rust 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [uzimaru0000/tv](https://github.com/uzimaru0000/tv) - Format json into table view
@@ -10161,7 +10162,6 @@
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
 - [devwhodevs/engraph](https://github.com/devwhodevs/engraph) - Local knowledge graph for AI agents. Hybrid search + MCP server for Obsidian vaults.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [didley/camoverlay](https://github.com/didley/camoverlay) - GNOME app that displays a webcam preview as a borderless overlay, for use during screen recording.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [licht1stein/talking-head](https://github.com/licht1stein/talking-head) - Loom-style webcam bubble overlay for Wayland Linux
@@ -11299,7 +11299,7 @@
 - [Devansh-365/freellm](https://github.com/Devansh-365/freellm) - OpenAI-compatible gateway aggregating 8 free LLM providers with automatic failover, circuit breakers, and smart routing. 32+ models, zero cost.
 - [maria-rcks/t3libre](https://github.com/maria-rcks/t3libre) - T3 Code, liberated 🤍 Open forever, profitable never 🕊️
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
-- [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A browser client for Herdr. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
+- [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) - Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent
 - [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [yapyak/yapyak](https://github.com/yapyak/yapyak) - i18n that keeps up.
@@ -11441,6 +11441,7 @@
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [Varshithvhegde/flowchat](https://github.com/Varshithvhegde/flowchat) - Multi-user AI chat that generates live HTML UI — games, dashboards, apps — powered by Cloudflare Workers + Durable Objects
 - [Barbapapazes/ai-agent](https://github.com/Barbapapazes/ai-agent) - 
+- [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - The easiest way to build and deploy an agent
 - [rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier.
 - [sudosubin/nix-skills](https://github.com/sudosubin/nix-skills) - Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
@@ -11491,7 +11492,7 @@
 - [thoughtfulllc/gridland](https://github.com/thoughtfulllc/gridland) - Terminal apps that run anywhere - even the browser!
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [jasy-pdf/jasy](https://github.com/jasy-pdf/jasy) - Monorepo including CLI, jasy-pdf and ZUGFeRD/XRechnung engine
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
 - [mcollina/snipgrapher](https://github.com/mcollina/snipgrapher) - 
 - [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
@@ -11744,6 +11745,7 @@
 - [antfu/skills-npm](https://github.com/antfu/skills-npm) - Install agent skills from npm
 - [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
 - [internetvin/internetvin-terminal](https://github.com/internetvin/internetvin-terminal) - Embedded terminal for Obsidian with multi-tab support
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [Spreizu/nuxt-jit-prerender](https://github.com/Spreizu/nuxt-jit-prerender) - REST API-based static site generation for Nuxt 4. Generate pages via HTTP endpoints. Lightweight alternative to traditional SSG.
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [treadiehq/private-connect](https://github.com/treadiehq/private-connect) - Secure access to private services for developers and AI agents.
@@ -11771,12 +11773,11 @@
 - [hadimouter/mini-secrets-manager](https://github.com/hadimouter/mini-secrets-manager) - 
 - [ascorbic/bgproc](https://github.com/ascorbic/bgproc) - Simple process manager for agents
 - [selfagency/opilot](https://github.com/selfagency/opilot) - 🦙 Opilot: Ollama for GitHub Copilot VS Code Extension – Run Ollama models locally and in the cloud within GitHub Copilot Chat
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Companion — self-hostable Skills Hub for organizations and coding agents.
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Persistent AI companions on Box, powered by Pi. Simple web, durable execution, reproducible local development.
 - [abhix4/stroke](https://github.com/abhix4/stroke) - Create Hand-drawn SVG animations for logos, signatures, and illustrations.
 - [reatom/reatom](https://github.com/reatom/reatom) - Reatom - the ultimate state manager
 - [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 - [Melvynx/api2cli](https://github.com/Melvynx/api2cli) - Turn any REST API into a standardized, agent-ready CLI
-- [ing-norante/unmarker.it](https://github.com/ing-norante/unmarker.it) - A 100% client-side AI watermark disruptor. Process images entirely in your browser with no uploads, no tracking, and no servers.
 - [JKHeadley/instar](https://github.com/JKHeadley/instar) - Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [yazinsai/auto-maintainer](https://github.com/yazinsai/auto-maintainer) - Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
@@ -11944,7 +11945,7 @@
 - [webpro-nl/unbarrelify](https://github.com/webpro-nl/unbarrelify) - Barrel file removal tool for JavaScript & TypeScript projects (ESM-only)
 - [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon) - Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.
 - [GrafeoDB/grafeo-web](https://github.com/GrafeoDB/grafeo-web) - Grafeo graph database in the browser.  Zero backend. Your data stays on the client.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [gbicou/countries-server](https://github.com/gbicou/countries-server) - GraphQL countries server playground
 - [gbicou/color-space-stack](https://github.com/gbicou/color-space-stack) - Visualize synchronized color spaces
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -13240,7 +13241,7 @@
 - [ProseMirror/prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [antfu/eslint-typegen](https://github.com/antfu/eslint-typegen) - Generate types from ESLint rule schemas, with auto-completion and type-checking for rule options.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [runk/node-chardet](https://github.com/runk/node-chardet) - Character encoding detection tool for NodeJS
 - [pulsecron/pulse](https://github.com/pulsecron/pulse) - The modern MongoDB-powered  job scheduler library for Node.js
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -16507,7 +16508,7 @@
 - [nostrver-se/nuxstr](https://github.com/nostrver-se/nuxstr) - Starter template for building a Nostr client with the Nuxt Vue framework and Nostr Dev Kit
 - [Teygeta/nuxt-doc](https://github.com/Teygeta/nuxt-doc) - 🚀 An open source template for create the most effective documentation for your projects
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
-- [IAMSDR/MyAuthenticator](https://github.com/IAMSDR/MyAuthenticator) - A serverless progressive web application that generates TOTP and HOTP codes, enabling robust two-factor authentication (2FA) directly within your browser. Powered by Nuxt 4, NuxtHub, NuxtUI 3, Cloudfl
+- [IAMSDR/MyAuthenticator](https://github.com/IAMSDR/MyAuthenticator) - A serverless progressive web application that generates TOTP and HOTP codes, enabling robust two-factor authentication (2FA) directly within your browser. Powered by Nuxt 4, NuxtUI 4, Cloudflare Pages
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 - [FeliciousX/vue-with-prosemirror-prototype](https://github.com/FeliciousX/vue-with-prosemirror-prototype) - testing ways to use prosemirror and vue together
 - [Rettend/tauri-nuxt-mobile](https://github.com/Rettend/tauri-nuxt-mobile) - Nuxt + Tauri template: Mobile 📱 and Desktop 🖥️
@@ -17096,7 +17097,7 @@
 - [sdras/ecommerce-netlify](https://github.com/sdras/ecommerce-netlify) - 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
 - [renestalder/nuxt-netlify-cms-starter-template](https://github.com/renestalder/nuxt-netlify-cms-starter-template) - ⚡ Build server-less, static websites with Vue.js and Netlify CMS.
 - [angheloko/donlalicon](https://github.com/angheloko/donlalicon) - My blog
-- [smhmd/teenyicons.com](https://github.com/smhmd/teenyicons.com) - Elegant 1px icons
+- [smhmd/teenyicons.com](https://github.com/smhmd/teenyicons.com) - Tiny minimal 1px icons designed to fit in the smallest places.
 - [robin1liu/vue-mermaid](https://github.com/robin1liu/vue-mermaid) - flowchart of mermaid with vue component
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
 - [danielkellyio/awake-template](https://github.com/danielkellyio/awake-template) - 
