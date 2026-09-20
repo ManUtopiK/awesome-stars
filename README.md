@@ -678,7 +678,6 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [reposium-dco/instant-wikipedia](https://github.com/reposium-dco/instant-wikipedia) - Instant Wikipedia Search for Content Summaries
 - [zachfitz/Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Material Design style and animations for Ionic
-- [lmgonzalves/segment](https://github.com/lmgonzalves/segment) - A JavaScript library to draw and animate SVG path strokes
 - [fightforthefuture/idl-members](https://github.com/fightforthefuture/idl-members) - Include code for member sites of the Internet Defense League
 - [derbyjs/racer-examples](https://github.com/derbyjs/racer-examples) - Example apps for Racer
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -1327,7 +1326,6 @@
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [protocolbuffers/protoscope](https://github.com/protocolbuffers/protoscope) - Protoscope is a simple, human-editable language for representing and emitting the Protobuf wire format.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -2127,7 +2125,7 @@
 - [openrocket/openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [Zoeille/picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard  Track bank accounts, brokerage, crypto, and net worth — all in one place.
+- [Cloeille/picsou-finance](https://github.com/Cloeille/picsou-finance) - Self-hosted personal finance dashboard  Track bank accounts, brokerage, crypto, and net worth — all in one place.
 - [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -2223,6 +2221,7 @@
 
 ## JavaScript 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Modern, self-hosted RSS reader with smart folders, powerful search, and a clean three-pane reading experience. Built with Vue and Express.
 - [theoephraim/awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted) - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account
 - [lukeed/flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
@@ -4138,7 +4137,6 @@
 - [simov/fastify-grant](https://github.com/simov/fastify-grant) - Fastify plugin for Grant OAuth Proxy
 - [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls.
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [vithalreddy/node-mailin](https://github.com/vithalreddy/node-mailin) - Artisanal inbound emails for every web app using nodejs
 - [denghongcai/mailin](https://github.com/denghongcai/mailin) - Artisanal inbound emails for every web app
 - [pbteja1998/nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + 
@@ -4614,7 +4612,7 @@
 - [Dletta/visualGraph](https://github.com/Dletta/visualGraph) - Gun Utility to Traverse Graph and use d3.js to visualize
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [hasura/preview-actions](https://github.com/hasura/preview-actions) - Starter kit to try out actions
-- [intelligo-mn/neuro](https://github.com/intelligo-mn/neuro) - 🔮 Neuro.js is machine learning library for building AI assistants and chat-bots.
+- [tortuvshin/neuro](https://github.com/tortuvshin/neuro) - 🔮 Neuro.js is machine learning library for building AI assistants and chat-bots.
 - [ChristianKienle/cdk](https://github.com/ChristianKienle/cdk) - 🎁 Vue Component Development Kit
 - [benawad/node-graphql-benchmarks](https://github.com/benawad/node-graphql-benchmarks) - Benchmarks for different Node.js GraphQL Servers
 - [getndazn/dazn-lambda-powertools](https://github.com/getndazn/dazn-lambda-powertools) - Powertools (logger, HTTP client, AWS clients, middlewares, patterns) for Lambda functions.
@@ -7432,7 +7430,6 @@
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [ejpcmac/config](https://github.com/ejpcmac/config) - Personal configuration framework.
 - [sigprof/nix-devenv-qmk](https://github.com/sigprof/nix-devenv-qmk) - Nix direnv for QMK development
 - [ssddq/fw-ectool](https://github.com/ssddq/fw-ectool) - 
@@ -7490,6 +7487,7 @@
 
 ## Others 
 
+- [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 - [atinux/docster](https://github.com/atinux/docster) - A skill that helps AI agents write better docs, with support of Comark components.
 - [EfficientStreet/hindsight](https://github.com/EfficientStreet/hindsight) - A self-improvement skill for AI coding assistants — reviews a session end-to-end and saves only the durable process lessons as persistent memory.
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
@@ -7704,6 +7702,7 @@
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) - 
 - [udecode/editor-protocol](https://github.com/udecode/editor-protocol) - The open editor protocol
+- [Kiansa/nuxt-ultra](https://github.com/Kiansa/nuxt-ultra) - Nuxt Ultra Skills
 - [davatron5000/htmlwithsuperpowers](https://github.com/davatron5000/htmlwithsuperpowers) - A guidebook to Web Components
 - [nuxt/renovate-config-nuxt](https://github.com/nuxt/renovate-config-nuxt) - Nuxt.js presets for Renovate tool.
 - [maximousblk/maximousblk](https://github.com/maximousblk/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
@@ -8407,6 +8406,7 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [alfonsobries/laravel-nuxt-tailwind](https://github.com/alfonsobries/laravel-nuxt-tailwind) - Laravel Project with nuxt frontend styled with TailwindCSS
 - [api-platform/activity-pub](https://github.com/api-platform/activity-pub) - API Platform ActivityPub Support
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [luchtech/LaravelHasuraJWTStack](https://github.com/luchtech/LaravelHasuraJWTStack) - A working stack for Hasura and Laravel for GraphQL enthusiasts.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
@@ -9130,7 +9130,7 @@
 - [stephenschoettler/hermes-lcm](https://github.com/stephenschoettler/hermes-lcm) - Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message
 - [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) - An AI agent that claws through your network
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
-- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
+- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - Event-sourced graph runtime for durable and stateful agents
 - [Trusera/ai-bom](https://github.com/Trusera/ai-bom) - AI Bill of Materials — discover every AI agent, model, and API in your infrastructure
 - [google/adk-recipes](https://github.com/google/adk-recipes) - A collection of sample agents built with Agent Development Kit (ADK)
@@ -9566,6 +9566,7 @@
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [Lumiwealth/lumibot](https://github.com/Lumiwealth/lumibot) - AI agents that actually place the trade. 12 brokers, real backtests, stocks options futures forex crypto and prediction markets.
@@ -9686,7 +9687,7 @@
 - [betagouv/CNR](https://github.com/betagouv/CNR) - 
 - [sortitionfoundation/global-select-app](https://github.com/sortitionfoundation/global-select-app) - 
 - [GlobalAssembly/global-select-app](https://github.com/GlobalAssembly/global-select-app) - Global population selection
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [nat/natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -9859,6 +9860,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [pirate/crypto-trader](https://github.com/pirate/crypto-trader) - :moneybag: Cryptocurrency trading bot library with a simple example strategy (trading via Gemini).
@@ -10781,7 +10783,6 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [benchpressjs/benchpressjs](https://github.com/benchpressjs/benchpressjs) - ultralight javascript templating framework
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -10836,6 +10837,7 @@
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [zitrusfrisch/HTML-StarterKit](https://github.com/zitrusfrisch/HTML-StarterKit) - HTML-StarterKit is a simple, modular HTML5 template to kick off your responsive websites.
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
+- [lmgonzalves/segment](https://github.com/lmgonzalves/segment) - A JavaScript library to draw and animate SVG path strokes
 - [zavoloklom/material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) - Material Design Iconic Font and CSS toolkit
 - [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation) - Simple animations using FontAwesome and some CSS3.
 - [chrishumboldt/Rocket-Form](https://github.com/chrishumboldt/Rocket-Form) - A universal form module.
@@ -11165,7 +11167,6 @@
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [TZGyn/shortener](https://github.com/TZGyn/shortener) - Link shortener/redirects with analytics
 - [TZGyn/gitingest-js](https://github.com/TZGyn/gitingest-js) - Chat with llm with the context of any git repo, turn any git repo into llm friendly format
-- [stophecom/scrt-link-v2](https://github.com/stophecom/scrt-link-v2) - Scrt.link lets you share sensitive information online: End-to-end encrypted. Ephemeral. Open source.
 - [papiche/coracle](https://github.com/papiche/coracle) - A special UPlanet Ğ1/ẐEN Nostr client. Browse, filter, send geo localized messages, like (send & receive ẐEN). Come with your friends.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [friendofsvelte/tipex](https://github.com/friendofsvelte/tipex) - A goto styled text editor for SvelteKit; based on TipTap; tipex
@@ -11314,7 +11315,7 @@
 - [averyfreeman/devtools-mcp-linkedin-post](https://github.com/averyfreeman/devtools-mcp-linkedin-post) - A CLI tool using TypeScript, Playwright, DevTools-MCP and markdown to automate Linkedin posts
 - [SergeyStepanenko/linkedin](https://github.com/SergeyStepanenko/linkedin) - CLI tool for publishing posts to LinkedIn from markdown files. Zero dependencies, powered by Bun
 - [jojo8356/md2linkedin](https://github.com/jojo8356/md2linkedin) - Chrome extension to convert Markdown to LinkedIn-formatted posts using Unicode
-- [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
+- [danielwh2/cuelume](https://github.com/danielwh2/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [atinux/comark-knap](https://github.com/atinux/comark-knap) - A Comark plugin that renders knap templates before parsing.
 - [michaelshimeles/eveclaw](https://github.com/michaelshimeles/eveclaw) - Personal AI agent built with the eve framework — Next.js web chat + Telegram, long-term memory, receipts, and chat-created skills
 - [obsidianmd/knap](https://github.com/obsidianmd/knap) - A simple template language that turns data into Markdown.
@@ -11323,7 +11324,7 @@
 - [badlogic/pi-telegram](https://github.com/badlogic/pi-telegram) - Telegram DM bridge extension for pi
 - [seoshmeo/agentboard](https://github.com/seoshmeo/agentboard) - Acceptance-driven development board for AI agents
 - [saltbo/agent-kanban](https://github.com/saltbo/agent-kanban) - An agent-first task board, Take human out of the loop.
-- [keshav-exe/markdown-graphs](https://github.com/keshav-exe/markdown-graphs) - 
+- [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
 - [atinux/comark-graphs-demo](https://github.com/atinux/comark-graphs-demo) - A demo of writing charts inside a plain .md file.
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
 - [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Save Vimeo videos instantly for offline viewing.
@@ -11345,7 +11346,7 @@
 - [k3nnethfrancis/exograph](https://github.com/k3nnethfrancis/exograph) - Open-source exocortex: edit markdown, build a knowledge graph with ontology.yaml, search locally with QMD, give agents access via CLI.
 - [critica-tech-lab/pasta-obsidian](https://github.com/critica-tech-lab/pasta-obsidian) - Ethersync-compatible plugin for Obsidian
 - [1612elphi/delphitools](https://github.com/1612elphi/delphitools) - digital indie toolkit for computer touchers
-- [Danilaa1/drawably](https://github.com/Danilaa1/drawably) - Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the stroke boils like an animated doodle. Zero dependencies, 4 KB of JS and one stylesheet.
+- [danielwh2/drawably](https://github.com/danielwh2/drawably) - Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the stroke boils like an animated doodle. Zero dependencies, 4 KB of JS and one stylesheet.
 - [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
@@ -11546,7 +11547,7 @@
 - [productdevbook/etiket](https://github.com/productdevbook/etiket) - Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript.
 - [Barbapapazes/infra.soubiran.dev](https://github.com/Barbapapazes/infra.soubiran.dev) - All my public and private infrastructure explained and documented.
 - [Barbapapazes/cloudflare-graph](https://github.com/Barbapapazes/cloudflare-graph) - 
-- [Danilaa1/slot-text](https://github.com/Danilaa1/slot-text) - Dependency-free text roll animation for vanilla JS, React, and Vue.
+- [danielwh2/slot-text](https://github.com/danielwh2/slot-text) - Dependency-free text roll animation for vanilla JS, React, and Vue.
 - [astraldev/nanime](https://github.com/astraldev/nanime) - Create SSR safe animations with animejs
 - [daanvangeloven/nuxt-realtime](https://github.com/daanvangeloven/nuxt-realtime) - Websocket integration for Nuxt
 - [karibsen-studio/krak-lite](https://github.com/karibsen-studio/krak-lite) - Lightweight, privacy-first analytics module for Nuxt. No cookies, no third-party, your own endpoint.
@@ -12705,6 +12706,7 @@
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
+- [stophecom/scrt-link-v2](https://github.com/stophecom/scrt-link-v2) - Scrt.link lets you share sensitive information online: End-to-end encrypted. Ephemeral. Open source.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [storacha/mcp-storage-server](https://github.com/storacha/mcp-storage-server) - Storacha MCP storage server - self-sovereign data for your AI applications.
 - [galtproject/geesome-node](https://github.com/galtproject/geesome-node) - 🦈 Your self-hosted decentralized Messenger, Social network, Media file storage on top of IPFS! Freely communicate in encrypted chat groups, share images, video, text or any data without a risk of cens
@@ -12874,7 +12876,7 @@
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
 - [CorentinTh/friendly-ids](https://github.com/CorentinTh/friendly-ids) - Generate human readable unique identifiers.
 - [Melvynx/melvynx.dev](https://github.com/Melvynx/melvynx.dev) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [brakmic/passport-keycloak-oauth2-oidc-portable](https://github.com/brakmic/passport-keycloak-oauth2-oidc-portable) - A Passport.js strategy for authenticating with Keycloak using the OAuth2/OIDC API (portable version)
 - [akash3444/shadcn-ui-blocks](https://github.com/akash3444/shadcn-ui-blocks) - Customized Shadcn UI component and blocks. Just copy & Paste!
 - [cfeenstra67/sqlauthz](https://github.com/cfeenstra67/sqlauthz) - Declarative permissions management for PostgreSQL
@@ -13122,6 +13124,7 @@
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
+- [IAMSDR/MyAuthenticator](https://github.com/IAMSDR/MyAuthenticator) - A serverless progressive web application that generates TOTP and HOTP codes, enabling robust two-factor authentication (2FA) directly within your browser. Powered by Nuxt 4, NuxtUI 4, Cloudflare Pages
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 - [TeemuKoivisto/prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
@@ -14137,7 +14140,7 @@
 - [poyoho/vue-obs-eventbus](https://github.com/poyoho/vue-obs-eventbus) - vue devtools listen on eventbus
 - [jurassicjs/nuxt-mailer](https://github.com/jurassicjs/nuxt-mailer) - A module for sending Emails from a nuxt app
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependenc
+- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, code, text and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero depe
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [worker-tools/router](https://github.com/worker-tools/router) - A router for Worker Runtimes such and Cloudflare Workers or Service Workers.
 - [Flag-Nor-Fail/nuxt-storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - 🛍 Nuxt Storefront is a batteries-included, production-ready, headless and open-source e-commerce template for Nuxt 3-powered storefronts.
@@ -14225,6 +14228,7 @@
 - [vladimirmyshkovski/typescript-frontend-microservices-example](https://github.com/vladimirmyshkovski/typescript-frontend-microservices-example) - 
 - [connectrpc/examples-es](https://github.com/connectrpc/examples-es) - Examples for using Connect with various TypeScript web frameworks and tooling.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [decileapp/decile](https://github.com/decileapp/decile) - Simple, open-source analytics tool for any Postgres database.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -15542,7 +15546,7 @@
 - [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
 - [halfnelson/svelte-native](https://github.com/halfnelson/svelte-native) - Svelte controlling native components via Nativescript
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [EugeneDae/vscode-refresh-browser](https://github.com/EugeneDae/vscode-refresh-browser) - (VS Code extension) Refresh your web-browser with ⌘R without switching from Code. Only works on macOS.
@@ -16538,7 +16542,6 @@
 - [nostrver-se/nuxstr](https://github.com/nostrver-se/nuxstr) - Starter template for building a Nostr client with the Nuxt Vue framework and Nostr Dev Kit
 - [Teygeta/nuxt-doc](https://github.com/Teygeta/nuxt-doc) - 🚀 An open source template for create the most effective documentation for your projects
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
-- [IAMSDR/MyAuthenticator](https://github.com/IAMSDR/MyAuthenticator) - A serverless progressive web application that generates TOTP and HOTP codes, enabling robust two-factor authentication (2FA) directly within your browser. Powered by Nuxt 4, NuxtUI 4, Cloudflare Pages
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 - [FeliciousX/vue-with-prosemirror-prototype](https://github.com/FeliciousX/vue-with-prosemirror-prototype) - testing ways to use prosemirror and vue together
 - [Rettend/tauri-nuxt-mobile](https://github.com/Rettend/tauri-nuxt-mobile) - Nuxt + Tauri template: Mobile 📱 and Desktop 🖥️
@@ -16716,7 +16719,6 @@
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [maliksvd/ip-location](https://github.com/maliksvd/ip-location) - A small application to view IP address details.
 - [replicate/outpainter](https://github.com/replicate/outpainter) - A web GUI built with Nuxt.js for outpainting with Stable Diffusion using the Replicate API.
-- [Kiansa/nuxt-ultra](https://github.com/Kiansa/nuxt-ultra) - Nuxt Ultra - Starter Template
 - [miracleonyenma/mark-III](https://github.com/miracleonyenma/mark-III) - The Mark III is the third iteration of my portfolio site and is built on Nuxt 3, Tailwind 3 and Content v2
 - [fumeapp/unoui](https://github.com/fumeapp/unoui) - UI powered by UnoCSS
 - [thuongtruong1009/short1url](https://github.com/thuongtruong1009/short1url) - 🔗 Ship your link in an easier way
