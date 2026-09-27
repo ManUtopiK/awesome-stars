@@ -1995,7 +1995,6 @@
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-- [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms) - A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained)
 - [jxnblk/grays](https://github.com/jxnblk/grays) - 
 - [nuxt/youch](https://github.com/nuxt/youch) - Pretty error reporting for Node.js :rocket: (Modified for Nuxt.js & SSR Bundles)
 - [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
@@ -2290,6 +2289,7 @@
 - [JavascriptDon/TLDR-Master](https://github.com/JavascriptDon/TLDR-Master) - A minimal Chrome extension that summarises the current web page instantly — no API keys or external services required
 - [jihchi/mermaid.ink](https://github.com/jihchi/mermaid.ink) - An open-source service that generates image URLs for diagrams based on the provided Mermaid code.
 - [educastellano/qr-code](https://github.com/educastellano/qr-code) - Web Component for generating QR codes
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [tnfssc/openwispr-gnome-extension](https://github.com/tnfssc/openwispr-gnome-extension) - DEPRECATED: moved to github.com/tnfssc/OpenWispr/tree/develop/apps/gnome
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [cobusgreyling/fleet-engineering](https://github.com/cobusgreyling/fleet-engineering) - Practical reference for fleet engineering, governing populations of AI agents with accountability
@@ -8339,7 +8339,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [paheko/paheko](https://github.com/paheko/paheko) - Miroir git officiel du gestionnaire d'association Paheko (compta, site web, membres, etc.)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox
-- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service
+- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [fairpm/fair-plugin](https://github.com/fairpm/fair-plugin) - FAIR plugin
@@ -10294,7 +10294,7 @@
 - [fastrepl/philo](https://github.com/fastrepl/philo) - IDE for your daily notes
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
-- [chl84/Browsey](https://github.com/chl84/Browsey) - Lightning-fast Rust-Tauri cross-platform file explorer
+- [chl84/Browsey](https://github.com/chl84/Browsey) - Lightning-fast Rust-Tauri file explorer
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
@@ -10326,7 +10326,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 18.5k+ tests.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 21k+ tests.
 - [ubugeeei-prod/ox-content](https://github.com/ubugeeei-prod/ox-content) - all-in-one markdown toolchain ― fastest, tiniest, framework agnostic, powerful, customizable
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Claude Code / Codex CLI / Antigravity CLI / Qwen Code / Cline / Zoo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / P
 - [earendil-works/clipboard](https://github.com/earendil-works/clipboard) - Clipboard API with text + image read/write/watch function for MacOS, Windows, Linux
@@ -11556,7 +11556,6 @@
 - [mcollina/snipgrapher](https://github.com/mcollina/snipgrapher) - 
 - [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [posva/template-lib-ts](https://github.com/posva/template-lib-ts) - Modern TypeScript library template with ultra-fast oxc toolchain
@@ -12095,7 +12094,6 @@
 - [kriptonian1/symphony](https://github.com/kriptonian1/symphony) - E2E testing that PMs, QA, and developers can all write
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
-- [ln-dev7/icons-animated](https://github.com/ln-dev7/icons-animated) - Meticulously crafted animated icons - based on lucide-animated.com
 - [vipero07/unocss-preset-scrollbar](https://github.com/vipero07/unocss-preset-scrollbar) - scrollbar preset variants for unocss
 - [itsmnthn/unocss-preset-advance-gradients](https://github.com/itsmnthn/unocss-preset-advance-gradients) - A UnoCSS preset for creating gradient borders with rounded corners and text. This preset aims to be a comprehensive solution for most of your gradient needs, from borders to text effects and pre-defin
 - [unocss-community/unocss-preset-magicss](https://github.com/unocss-community/unocss-preset-magicss) - Integrate magic animation into unocss preset
@@ -12211,7 +12209,7 @@
 - [adelzemzemi/CryptoBox](https://github.com/adelzemzemi/CryptoBox) - Zero-dependency encryption library for JavaScript & TypeScript. Secure localStorage, sessionStorage, or any data with AES-256-GCM encryption. Production-ready with 93% test coverage.
 - [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [andychukse/nuxt-auth](https://github.com/andychukse/nuxt-auth) - A Simple Nuxt authentication module with JWT and social login support for Nuxt Apps with separate backend
-- [freb97/discofetch](https://github.com/freb97/discofetch) - 🪩 The fetch client that types itself
+- [bussmann-io/discofetch](https://github.com/bussmann-io/discofetch) - 🪩 A fetch client that types itself.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [mateuszkulpa/nuxt-growthbook](https://github.com/mateuszkulpa/nuxt-growthbook) - Nuxt GrowthBook module
 - [Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer) - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components.
@@ -12415,7 +12413,7 @@
 - [yukukotani/monoread](https://github.com/yukukotani/monoread) - An unified interface (CLI&MCP) to read any web page in AI-optimized format
 - [nksaraf/magiql-browser](https://github.com/nksaraf/magiql-browser) - Web-based Browser and IDE for GraphQL (based on monaco-editor), useful for playgrounds for GraphQL servers
 - [DoneDeal0/codefather](https://github.com/DoneDeal0/codefather) - Codefather protects your codebase by controlling who can change what. Set authorization levels, lock down files, and enforce your rules—offline via CLI or online with GitHub Actions.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding for everyone
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding for VS Code
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
@@ -14698,7 +14696,7 @@
 - [Tahul/vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue Composable
 - [trutoo/event-bus](https://github.com/trutoo/event-bus) - Typesafe cross-platform pubsub event bus ensuring reliable communication between fragments and micro frontends.
 - [justintaddei/v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js
-- [master-co/css](https://github.com/master-co/css) - The markup-driven CSS language and framework — readable by humans, reliable for agents.
+- [master-co/css](https://github.com/master-co/css) - A markup-driven CSS orchestration language for developers and AI agents.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
@@ -16331,7 +16329,7 @@
 - [canstand/unocss-nuxt-ui](https://github.com/canstand/unocss-nuxt-ui) - 
 - [ISOR3X/nuxt-gantt](https://github.com/ISOR3X/nuxt-gantt) - Gantt charts for Nuxt UI
 - [orazchollaev/nuxt-feature-starter](https://github.com/orazchollaev/nuxt-feature-starter) - Simple and organized Nuxt starter template with feature-based architecture.
-- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.43.0) — download at https://pair.w3dev.fr
+- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.44.0) — download at https://pair.w3dev.fr
 - [vue-quilly/vue-quilly](https://github.com/vue-quilly/vue-quilly) - Tiny Vue component, that helps to create Quill v2 based WYSIWYG editors https://vue-quilly.vercel.app/
 - [ja-plus/stk-table-vue](https://github.com/ja-plus/stk-table-vue) - High performance realtime virtual table for vue3&vue2.7
 - [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue 3 component to setup scroll-driven interactions (aka scrollytelling)
@@ -16354,6 +16352,7 @@
 - [sjmc11/vue-wswg-editor](https://github.com/sjmc11/vue-wswg-editor) - A powerful vue3 library for visual page builders
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
 - [davehague/newsletter-site](https://github.com/davehague/newsletter-site) - 
+- [ln-dev7/icons-animated](https://github.com/ln-dev7/icons-animated) - Meticulously crafted animated icons - based on lucide-animated.com
 - [genu/nuxt-ui-elements](https://github.com/genu/nuxt-ui-elements) - An extended collection of UI elements for NuxtUi
 - [nizaamomer/nuxt-notify](https://github.com/nizaamomer/nuxt-notify) - Advanced toast notifications for Nuxt 3 / Nuxt 4 with Tailwind CSS and Nuxt Icon — clean UI, actions, avatars, progress, themes, and per-toast Tailwind overrides.
 - [feeeedox/likeme](https://github.com/feeeedox/likeme) - A Nuxt project that allows you to display a like counter in your Markdown files and gives others the opportunity to like you.
