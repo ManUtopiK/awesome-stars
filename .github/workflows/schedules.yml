@@ -16,7 +16,7 @@ jobs:
       uses: actions/setup-python@v7
       with:
         python-version: '3.x'
-    - name: generate README.md and topics.md
+    - name: generate README.md, topics.md and stars.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         STARS_USER: ${{ github.repository_owner }}
@@ -25,5 +25,5 @@ jobs:
       run: |
         git config user.name 'github-actions[bot]'
         git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git add README.md topics.md
+        git add README.md topics.md stars.json
         git diff --cached --quiet || { git commit -m 'awesome-stars update by github actions cron'; git push; }

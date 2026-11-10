@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from update_stars import FetchError, fetch_stars, render, update
+from update_stars import FetchError, fetch_lists, fetch_stars, render, to_json, update
 
 HEADER = (
     '<!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation '
@@ -29,7 +29,10 @@ FOOTER = (
 )
 
 
-def node(name, language=None, topics=(), description='Desc', private=False):
+STARRED_AT = '2026-11-01T00:00:00Z'
+
+
+def node(name, language=None, topics=(), description='Desc', private=False, **fields):
     return {
         'nameWithOwner': name,
         'url': f'https://github.com/{name}',
@@ -39,6 +42,16 @@ def node(name, language=None, topics=(), description='Desc', private=False):
         'repositoryTopics': {
             'nodes': [{'topic': {'name': t, 'stargazerCount': stars}} for t, stars in topics]
         },
+        'homepageUrl': None,
+        'stargazerCount': 0,
+        'forkCount': 0,
+        'isArchived': False,
+        'isFork': False,
+        'licenseInfo': None,
+        'createdAt': 'C',
+        'pushedAt': 'P',
+        'starredAt': STARRED_AT,
+        **fields,
     }
 
 
@@ -119,12 +132,57 @@ class RenderRules(unittest.TestCase):
         self.assertIn(f'- [a/r](https://github.com/a/r) - {expected}\n', output)
 
 
+class StarsJson(unittest.TestCase):
+    def test_lists_then_one_public_star_per_line_with_raw_values(self):
+        nodes = [
+            node(
+                'a/full',
+                'Rust',
+                topics=[('ai', 10), ('cli', 900)],
+                description='  <b>x\n',
+                homepageUrl='https://x.dev',
+                stargazerCount=42,
+                forkCount=3,
+                isArchived=True,
+                isFork=True,
+                licenseInfo={'spdxId': 'MIT'},
+                createdAt='2026-01-01T00:00:00Z',
+                pushedAt='2026-02-01T00:00:00Z',
+            ),
+            node('a/secret', private=True),
+            node('a/bare', description=None, homepageUrl=''),
+        ]
+        lists = [{'slug': 'ai', 'name': '🤖 ai', 'description': 'Agents'}]
+
+        output = to_json(nodes, lists, {'a/full': ['ai'], 'a/secret': ['ai']})
+
+        expected = (
+            '{\n'
+            '  "lists": [\n'
+            '    {"slug": "ai", "name": "🤖 ai", "description": "Agents"}\n'
+            '  ],\n'
+            '  "stars": [\n'
+            '    {"name": "a/full", "url": "https://github.com/a/full", "description": "  <b>x\\n", '
+            '"homepage": "https://x.dev", "language": "Rust", "topics": ["ai", "cli"], "lists": ["ai"], '
+            '"stars": 42, "forks": 3, "license": "MIT", "archived": true, "fork": true, '
+            '"createdAt": "2026-01-01T00:00:00Z", "pushedAt": "2026-02-01T00:00:00Z", '
+            '"starredAt": "2026-11-01T00:00:00Z"},\n'
+            '    {"name": "a/bare", "url": "https://github.com/a/bare", "description": null, '
+            '"homepage": null, "language": null, "topics": [], "lists": [], '
+            '"stars": 0, "forks": 0, "license": null, "archived": false, "fork": false, '
+            '"createdAt": "C", "pushedAt": "P", "starredAt": "2026-11-01T00:00:00Z"}\n'
+            '  ]\n'
+            '}\n'
+        )
+        self.assertEqual(output.decode(), expected)
+
+
 def page(nodes, next_cursor=None):
     body = {
         'data': {
             'user': {
                 'starredRepositories': {
-                    'nodes': nodes,
+                    'edges': [{'starredAt': STARRED_AT, 'node': n} for n in nodes],
                     'pageInfo': {'endCursor': next_cursor, 'hasNextPage': next_cursor is not None},
                 }
             }
@@ -140,7 +198,7 @@ class FakeGitHub:
         self.answers = list(answers)
         self.variables = []
 
-    def __call__(self, variables):
+    def __call__(self, query, variables):
         self.variables.append(variables)
         answer = self.answers.pop(0)
         if isinstance(answer, Exception):
@@ -158,7 +216,10 @@ class FetchStars(unittest.TestCase):
     def test_follows_cursors_until_the_last_page(self):
         github = FakeGitHub(page([{'id': 1}], 'c1'), page([{'id': 2}]))
 
-        self.assertEqual(self.fetch(github), [{'id': 1}, {'id': 2}])
+        self.assertEqual(
+            self.fetch(github),
+            [{'id': 1, 'starredAt': STARRED_AT}, {'id': 2, 'starredAt': STARRED_AT}],
+        )
         self.assertEqual([v['after'] for v in github.variables], [None, 'c1'])
         self.assertEqual(self.sleeps, [])
 
@@ -170,7 +231,7 @@ class FetchStars(unittest.TestCase):
             page([{'id': 2}]),
         )
 
-        self.assertEqual(self.fetch(github), [{'id': 1}, {'id': 2}])
+        self.assertEqual([n['id'] for n in self.fetch(github)], [1, 2])
         self.assertEqual([v['after'] for v in github.variables], [None, 'c1', 'c1', 'c1'])
         self.assertEqual(self.sleeps, [5, 10])
 
@@ -181,7 +242,7 @@ class FetchStars(unittest.TestCase):
             page([{'id': 1}]),
         )
 
-        self.assertEqual(self.fetch(github), [{'id': 1}])
+        self.assertEqual([n['id'] for n in self.fetch(github)], [1])
         self.assertEqual(self.sleeps, [5, 10])
 
     def test_rate_limit_honours_retry_after(self):
@@ -212,16 +273,91 @@ class FetchStars(unittest.TestCase):
         self.assertEqual(self.sleeps, [])
 
 
+def ok(data):
+    return 200, {}, json.dumps({'data': data}).encode()
+
+
+def lists_page(*lists):
+    return ok({'user': {'lists': {'nodes': list(lists)}}})
+
+
+def items_page(names, next_cursor=None):
+    nodes = [{'nameWithOwner': n} if n else {} for n in names]
+    page_info = {'endCursor': next_cursor, 'hasNextPage': next_cursor is not None}
+    return ok({'node': {'items': {'nodes': nodes, 'pageInfo': page_info}}})
+
+
+class FetchLists(unittest.TestCase):
+    def test_maps_each_repository_to_its_lists_across_item_pages(self):
+        github = FakeGitHub(
+            lists_page(
+                {'id': 'L1', 'slug': 'ai', 'name': '🤖 ai', 'description': 'Agents'},
+                {'id': 'L2', 'slug': 'md', 'name': '⬇️ md', 'description': None},
+            ),
+            items_page(['a/x'], 'c1'),
+            items_page(['a/y', None]),
+            items_page(['a/x']),
+        )
+
+        lists, memberships = fetch_lists('me', github, sleep=lambda _: None)
+
+        self.assertEqual(
+            lists,
+            [
+                {'slug': 'ai', 'name': '🤖 ai', 'description': 'Agents'},
+                {'slug': 'md', 'name': '⬇️ md', 'description': None},
+            ],
+        )
+        self.assertEqual(memberships, {'a/x': ['ai', 'md'], 'a/y': ['ai']})
+        self.assertEqual(
+            github.variables,
+            [
+                {'username': 'me'},
+                {'id': 'L1', 'after': None},
+                {'id': 'L1', 'after': 'c1'},
+                {'id': 'L2', 'after': None},
+            ],
+        )
+
+    def test_list_requests_are_retried_too(self):
+        github = FakeGitHub(
+            lists_page({'id': 'L1', 'slug': 'ai', 'name': 'ai', 'description': None}),
+            (502, {}, b''),
+            items_page(['a/x']),
+        )
+        sleeps = []
+
+        _, memberships = fetch_lists('me', github, sleep=sleeps.append)
+
+        self.assertEqual(memberships, {'a/x': ['ai']})
+        self.assertEqual(sleeps, [5])
+
+
 class Update(unittest.TestCase):
-    def test_writes_both_files(self):
-        github = FakeGitHub(page([node('a/r', 'Go', topics=[('cli', 900)])]))
+    def test_writes_markdown_lists_and_json(self):
+        github = FakeGitHub(
+            page([node('a/r', 'Go', topics=[('cli', 900)])]),
+            lists_page({'id': 'L1', 'slug': 'cli', 'name': '🖱️ cli', 'description': None}),
+            items_page(['a/r']),
+        )
         with tempfile.TemporaryDirectory() as directory:
             update('me', github, Path(directory), sleep=lambda _: None)
 
             readme = (Path(directory) / 'README.md').read_text()
             topics = (Path(directory) / 'topics.md').read_text()
+            stars = json.loads((Path(directory) / 'stars.json').read_text())
         self.assertIn('## Go \n', readme)
         self.assertIn('## cli \n', topics)
+        self.assertEqual(stars['lists'][0]['name'], '🖱️ cli')
+        self.assertEqual([(s['name'], s['lists']) for s in stars['stars']], [('a/r', ['cli'])])
+
+    def test_list_failure_writes_nothing(self):
+        github = FakeGitHub(page([node('a/r', 'Go')]), (401, {}, b''))
+        with tempfile.TemporaryDirectory() as directory:
+            with self.assertRaises(FetchError):
+                update('me', github, Path(directory), sleep=lambda _: None)
+
+            self.assertEqual(list(Path(directory).iterdir()), [])
 
     def test_failure_leaves_existing_files_untouched(self):
         github = FakeGitHub(page([], 'c1'), (401, {}, b''))

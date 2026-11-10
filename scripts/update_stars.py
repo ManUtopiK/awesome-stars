@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate README.md and topics.md from the GitHub stars of a user."""
+"""Generate README.md, topics.md and stars.json from the GitHub stars and star lists of a user."""
 
 import http.client
 import json
@@ -21,20 +21,31 @@ RATE_LIMIT_MIN_DELAY = 60
 TOPIC_MIN_STARS = 500
 DESCRIPTION_LIMIT = 200
 
-QUERY = '''
+STARS_QUERY = '''
 query ($username: String!, $first: Int!, $after: String) {
   user(login: $username) {
     starredRepositories(first: $first, after: $after, orderBy: {direction: DESC, field: STARRED_AT}) {
-      nodes {
-        nameWithOwner
-        description
-        url
-        isPrivate
-        languages(first: 1, orderBy: {field: SIZE, direction: DESC}) {
-          edges { node { name } }
-        }
-        repositoryTopics(first: 100) {
-          nodes { topic { name stargazerCount } }
+      edges {
+        starredAt
+        node {
+          nameWithOwner
+          description
+          url
+          homepageUrl
+          stargazerCount
+          forkCount
+          isArchived
+          isFork
+          isPrivate
+          createdAt
+          pushedAt
+          licenseInfo { spdxId }
+          languages(first: 1, orderBy: {field: SIZE, direction: DESC}) {
+            edges { node { name } }
+          }
+          repositoryTopics(first: 100) {
+            nodes { topic { name stargazerCount } }
+          }
         }
       }
       pageInfo { endCursor hasNextPage }
@@ -61,6 +72,28 @@ To the extent possible under law, [{username}](https://github.com/{username}) ha
 
 '''
 
+# GitHub caps star lists at 32 per user, so one page is enough.
+LISTS_QUERY = '''
+query ($username: String!) {
+  user(login: $username) {
+    lists(first: 100) { nodes { id slug name description } }
+  }
+}
+'''
+
+LIST_ITEMS_QUERY = '''
+query ($id: ID!, $after: String) {
+  node(id: $id) {
+    ... on UserList {
+      items(first: 100, after: $after) {
+        nodes { ... on Repository { nameWithOwner } }
+        pageInfo { endCursor hasNextPage }
+      }
+    }
+  }
+}
+'''
+
 
 class FetchError(Exception):
     """The stars could not be fetched; nothing must be published."""
@@ -73,9 +106,9 @@ class _Transient(Exception):
         self.min_delay = min_delay
 
 
-def _read_page(post, variables):
+def _read_page(post, query, variables):
     try:
-        status, headers, body = post(variables)
+        status, headers, body = post(query, variables)
     except (OSError, http.client.HTTPException) as error:
         raise _Transient(repr(error)) from error
 
@@ -97,13 +130,13 @@ def _read_page(post, variables):
         raise _Transient(f'invalid JSON: {body[:200]!r}') from error
     if payload.get('errors') or not payload.get('data'):
         raise _Transient(f"GraphQL errors: {payload.get('errors')}")
-    return payload['data']['user']['starredRepositories']
+    return payload['data']
 
 
-def _read_page_with_retries(post, variables, sleep):
+def _read_page_with_retries(post, query, variables, sleep):
     for attempt in range(MAX_ATTEMPTS):
         try:
-            return _read_page(post, variables)
+            return _read_page(post, query, variables)
         except _Transient as error:
             if attempt == MAX_ATTEMPTS - 1:
                 raise FetchError(f'giving up after {MAX_ATTEMPTS} attempts: {error}') from error
@@ -119,13 +152,35 @@ def fetch_stars(username, post, sleep=time.sleep):
     after = None
     while True:
         variables = {'username': username, 'first': PAGE_SIZE, 'after': after}
-        stars = _read_page_with_retries(post, variables, sleep)
-        nodes.extend(stars['nodes'])
+        data = _read_page_with_retries(post, STARS_QUERY, variables, sleep)
+        stars = data['user']['starredRepositories']
+        nodes.extend({**edge['node'], 'starredAt': edge['starredAt']} for edge in stars['edges'])
         if not stars['pageInfo']['hasNextPage']:
             return nodes
         after = stars['pageInfo']['endCursor']
         if len(nodes) % 1500 == 0:
             print(f'{len(nodes)} stars fetched', file=sys.stderr, flush=True)
+
+
+def fetch_lists(username, post, sleep=time.sleep):
+    """Return the user's star lists and a map from repository name to list slugs."""
+    data = _read_page_with_retries(post, LISTS_QUERY, {'username': username}, sleep)
+    lists = []
+    memberships = {}
+    for found in data['user']['lists']['nodes']:
+        lists.append({key: found[key] for key in ('slug', 'name', 'description')})
+        after = None
+        while True:
+            variables = {'id': found['id'], 'after': after}
+            items = _read_page_with_retries(post, LIST_ITEMS_QUERY, variables, sleep)['node']['items']
+            for item in items['nodes']:
+                # Lists can also hold non-repository items, which come back empty.
+                if item.get('nameWithOwner'):
+                    memberships.setdefault(item['nameWithOwner'], []).append(found['slug'])
+            if not items['pageInfo']['hasNextPage']:
+                break
+            after = items['pageInfo']['endCursor']
+    return lists, memberships
 
 
 def github_post(token):
@@ -135,8 +190,8 @@ def github_post(token):
         'User-Agent': 'awesome-stars',
     }
 
-    def post(variables):
-        data = json.dumps({'query': QUERY, 'variables': variables}).encode()
+    def post(query, variables):
+        data = json.dumps({'query': query, 'variables': variables}).encode()
         request = urllib.request.Request(API_URL, data=data, headers=headers)
         try:
             with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
@@ -189,11 +244,46 @@ def render(nodes, username, by_topic=False):
     return ''.join(lines).encode()
 
 
+def _star_entry(node, memberships):
+    return {
+        'name': node['nameWithOwner'],
+        'url': node['url'],
+        'description': node['description'],
+        'homepage': node['homepageUrl'] or None,
+        'language': _language(node),
+        'topics': [item['topic']['name'] for item in node['repositoryTopics']['nodes']],
+        'lists': memberships.get(node['nameWithOwner'], []),
+        'stars': node['stargazerCount'],
+        'forks': node['forkCount'],
+        'license': (node['licenseInfo'] or {}).get('spdxId'),
+        'archived': node['isArchived'],
+        'fork': node['isFork'],
+        'createdAt': node['createdAt'],
+        'pushedAt': node['pushedAt'],
+        'starredAt': node['starredAt'],
+    }
+
+
+def to_json(nodes, lists, memberships):
+    """One entry per line, so the daily commits show which stars changed."""
+
+    def block(entries):
+        return ',\n'.join('    ' + json.dumps(entry, ensure_ascii=False) for entry in entries)
+
+    stars = [_star_entry(node, memberships) for node in nodes if not node['isPrivate']]
+    text = f'{{\n  "lists": [\n{block(lists)}\n  ],\n  "stars": [\n{block(stars)}\n  ]\n}}\n'
+    return text.encode()
+
+
 def update(username, post, directory, sleep=time.sleep):
     nodes = fetch_stars(username, post, sleep)
     print(f'{len(nodes)} stars fetched in total', file=sys.stderr, flush=True)
+    lists, memberships = fetch_lists(username, post, sleep)
+    print(f'{len(lists)} lists fetched', file=sys.stderr, flush=True)
+    # Write only once everything is fetched, so a failure never publishes partial data.
     (directory / 'README.md').write_bytes(render(nodes, username))
     (directory / 'topics.md').write_bytes(render(nodes, username, by_topic=True))
+    (directory / 'stars.json').write_bytes(to_json(nodes, lists, memberships))
 
 
 def main():
