@@ -18618,6 +18618,7 @@
 
 ## others 
 
+- [nkzw-tech/audio](https://github.com/nkzw-tech/audio) - Javascript audio library for the modern web.
 - [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman) - Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K p
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM 
 - [vite-hub/email-labeller](https://github.com/vite-hub/email-labeller) - Labels new Gmail messages with rules and Jev, built on ViteHub

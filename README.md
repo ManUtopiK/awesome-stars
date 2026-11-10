@@ -565,7 +565,6 @@
 - [unstoppabledomains/decentralized-websites](https://github.com/unstoppabledomains/decentralized-websites) - Repository for resources on building decentralized websites
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [dgraph-io/discuss-tutorial-vue](https://github.com/dgraph-io/discuss-tutorial-vue) - 
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [ambientsprotocol/whitepaper](https://github.com/ambientsprotocol/whitepaper) - 📄 The Ambients protocol white paper
 - [mjgs/freelancer](https://github.com/mjgs/freelancer) - Website for freelancers with homepage and payments pages to securely receive payments for services
@@ -1603,6 +1602,7 @@
 - [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sylvek/domotik](https://github.com/sylvek/domotik) - Home Monitoring Project
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
@@ -2267,6 +2267,7 @@
 
 ## JavaScript 
 
+- [nkzw-tech/audio](https://github.com/nkzw-tech/audio) - Javascript audio library for the modern web.
 - [BrowyHQ/browy](https://github.com/BrowyHQ/browy) - The browser agent that runs on the AI subscription you already pay for. Drives real tabs through chat, from a side panel or a DevTools REPL.
 - [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) - Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev.
 - [marclou/mailcheap](https://github.com/marclou/mailcheap) - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
@@ -4145,6 +4146,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [uber/h3-js](https://github.com/uber/h3-js) - h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [leafOfTree/svelte-lazy](https://github.com/leafOfTree/svelte-lazy) - A svelte component to lazyload any content including images
 - [hunterloftis/throng](https://github.com/hunterloftis/throng) - A simple worker-manager for clustered Node.js apps
 - [fastify/csrf-protection](https://github.com/fastify/csrf-protection) - A fastify csrf plugin
@@ -7175,7 +7177,6 @@
 - [brendanheywood/ghello](https://github.com/brendanheywood/ghello) - A start at making a trello inspired interface for GitHub issues. See readme for more info
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [lightglitch/bootstrap-xtra](https://github.com/lightglitch/bootstrap-xtra) - DEPRECATED - Use Font-Awesome or Font-Awesome-More
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [node-wiki/node-wiki](https://github.com/node-wiki/node-wiki) - A wiki that uses pluggable backends for storage and markup filtering.
 - [jbar/open-udc](https://github.com/jbar/open-udc) - Open Universal Digital Currency
 - [Open-UDC/open-udc](https://github.com/Open-UDC/open-udc) - Open Protocol Enabling New Universal Dividend Currencies
@@ -8475,6 +8476,7 @@
 - [awssat/tailwindo](https://github.com/awssat/tailwindo) - 🔌  Convert Bootstrap CSS code to Tailwind CSS code
 - [scriptburn/git-auto-deploy](https://github.com/scriptburn/git-auto-deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or web hooks
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively.
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
@@ -15618,7 +15620,6 @@
 - [lewebsimple/wp-scaffold](https://github.com/lewebsimple/wp-scaffold) - WordPress scaffolding tool
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [bdcorps/candymail](https://github.com/bdcorps/candymail) - Email Automations for Node.js
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [posva/vue-router-mock](https://github.com/posva/vue-router-mock) - 🧪 Easily mock routing interactions in your Vue apps
 - [aragon/use-wallet](https://github.com/aragon/use-wallet) - 👛 useWallet() · All-in-one solution to connect a dapp to an Ethereum provider.
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
@@ -16003,7 +16004,6 @@
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
 - [Theodo-UK/nestjs-admin](https://github.com/Theodo-UK/nestjs-admin) - A generic administration interface for TypeORM entities
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [FiberJW/expo-hasura-todo](https://github.com/FiberJW/expo-hasura-todo) - 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -16531,6 +16531,7 @@
 - [rendro/countdown](https://github.com/rendro/countdown) - Simple, lightweight and easy to use jQuery countdown plugin
 - [derbyjs/racer](https://github.com/derbyjs/racer) - Realtime model synchronization engine for Node.js
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## Vala 
 
