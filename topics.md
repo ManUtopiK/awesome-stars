@@ -1431,6 +1431,7 @@
 - [awebai/aweb](https://github.com/awebai/aweb) - Communication for AI agents: stable identity, durable mail and chat, and wake-up events across sessions, runtimes, machines, and organizations. MIT, self-hostable.
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) - Replay your coding agent sessions as a map and a timeline
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [disler/durable-pi](https://github.com/disler/durable-pi) - Durable Pi playground and agent network: persistent, multi-device durable agents with web and terminal clients
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [Stanshy/AgentHub](https://github.com/Stanshy/AgentHub) - One person, one software company. Manage 47 AI agents from a single      Electron app — with Harness Engineering (Skills + Hooks +   FileWatchers) for disciplined, traceable AI workflows.
@@ -1937,7 +1938,7 @@
 
 ## angular 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [farnabaz/comark-pele](https://github.com/farnabaz/comark-pele) - Render Mermaid diagrams in Comark with Pele: a parse plugin plus components for HTML, ANSI, Vue, React, Svelte, and Angular
 - [mohamadgarmabi/tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client for TanStack Query: returns data, throws typed FetchError, honors AbortSignal. Auth/refresh interceptors, SSR, SSE, WebSocket, upload, tRPC, DevTools. React, Vue/Nuxt, Solid, Svelte
 - [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
@@ -3889,6 +3890,7 @@
 
 - [BrowyHQ/browy](https://github.com/BrowyHQ/browy) - The browser agent that runs on the AI subscription you already pay for. Drives real tabs through chat, from a side panel or a DevTools REPL.
 - [jojo8356/md2linkedin](https://github.com/jojo8356/md2linkedin) - Chrome extension to convert Markdown to LinkedIn-formatted posts using Unicode
+- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Vimeo Video Downloader: download private, unlisted, password-protected and embedded Vimeo videos as MP4. Browser extension for Chrome, Edge, Brave and Opera.
 - [serpapps/skool-downloader](https://github.com/serpapps/skool-downloader) - Download videos from your skool.com classroom and backup your hard work.
 - [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 - [JavascriptDon/TLDR-Master](https://github.com/JavascriptDon/TLDR-Master) - A minimal Chrome extension that summarises the current web page instantly — no API keys or external services required
@@ -4181,6 +4183,7 @@
 - [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) - Replay your coding agent sessions as a map and a timeline
 - [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) - Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file.
 - [entire-vc/evc-local-sync-plugin](https://github.com/entire-vc/evc-local-sync-plugin) - Obsidian plugin for bidirectional sync between Obsidian vault and AI development projects (Claude Code, Cursor AI, VS Code)
+- [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [Stanshy/AgentHub](https://github.com/Stanshy/AgentHub) - One person, one software company. Manage 47 AI agents from a single      Electron app — with Harness Engineering (Skills + Hooks +   FileWatchers) for disciplined, traceable AI workflows.
 - [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层
@@ -4992,7 +4995,7 @@
 - [CPlusPatch/web-business](https://github.com/CPlusPatch/web-business) - A customizable CMS written in Vue with a dynamic block system
 - [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
-- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source versatile content workspace
 - [guMcrey/nuxt3-cms-blog](https://github.com/guMcrey/nuxt3-cms-blog) - A cms blog based on nuxt 3
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -5954,7 +5957,7 @@
 - [InseeFrLab/onyxia](https://github.com/InseeFrLab/onyxia) - 🔬 Data science environment for k8s
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
@@ -7339,7 +7342,7 @@
 - [postalserver/docs](https://github.com/postalserver/docs) - 📚 Documentation for the Postal mail server!
 - [incubrain/foundry](https://github.com/incubrain/foundry) - IncuBrain Foundry is a Nuxt 4 template optimised for creating AI-native businesses
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
-- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source versatile content workspace
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
@@ -11972,7 +11975,7 @@
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source versatile content workspace
 - [yjl9903/Optc](https://github.com/yjl9903/Optc) - An easy way to write TypeScript CLI Script
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
@@ -12190,7 +12193,7 @@
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [martinascharrer/vuensight](https://github.com/martinascharrer/vuensight) - Visualize Vue.js component relationships and communication channels, i.e. props, events and slots. This developer tool operates on the command line and aims to give in-depth insight into a Vue.js proj
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ujjwalguptaofficial/mahal](https://github.com/ujjwalguptaofficial/mahal) - Simple, modern web application framework for UI development.
 - [DataGridXL/DataGridXL2](https://github.com/DataGridXL/DataGridXL2) - Excel-like Experience for Web Apps (The performant & reliable Vanilla Javascript data grid with Excel-like controls)
@@ -18771,7 +18774,6 @@
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
 - [PierreMesure/social-to-md](https://github.com/PierreMesure/social-to-md) - Convert your LinkedIn posts to Markdown
 - [shenning00/md-to-linkedin](https://github.com/shenning00/md-to-linkedin) - Simple markdown to UTF8 converter for LinkedIn posts
-- [averyfreeman/devtools-mcp-linkedin-post](https://github.com/averyfreeman/devtools-mcp-linkedin-post) - A CLI tool using TypeScript, Playwright, DevTools-MCP and markdown to automate Linkedin posts
 - [digitaljavelina/publish-social](https://github.com/digitaljavelina/publish-social) - Publish one Markdown post to Bluesky, Mastodon, Threads, LinkedIn, Facebook, Instagram, and X with a single command. Claude Code skill + CLI.
 - [ScriptedAlchemy/grafeo](https://github.com/ScriptedAlchemy/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
 - [SergeyStepanenko/linkedin](https://github.com/SergeyStepanenko/linkedin) - CLI tool for publishing posts to LinkedIn from markdown files. Zero dependencies, powered by Bun
@@ -18796,7 +18798,6 @@
 - [nazimboudeffa/gitmatrix](https://github.com/nazimboudeffa/gitmatrix) - An Open Source alternative to Git Clients
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
 - [serpapps/linkedin-downloader](https://github.com/serpapps/linkedin-downloader) - Download LinkedIn videos, images, and post text from feed pages and post pages in one browser workflow.
-- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Save Vimeo videos instantly for offline viewing.
 - [serpapps/tellatv-downloader](https://github.com/serpapps/tellatv-downloader) - Download Tella videos, screen recordings, and presentations as MP4 files from Tella pages and supported embeds.
 - [bigskysoftware/the-fixi-project](https://github.com/bigskysoftware/the-fixi-project) - The Fixi Project
 - [thoughtbot/roux](https://github.com/thoughtbot/roux) - A boilerplate of pre-defined native CSS styling
@@ -19454,7 +19455,7 @@
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [timbenniks/turbo-tween](https://github.com/timbenniks/turbo-tween) - GSAP ergonomics in ~5KB. A lightweight, type-safe tweening library for modern web apps.
 - [alexanderop/awesome-local-first](https://github.com/alexanderop/awesome-local-first) - Useful Links for Everything related to LocalFirst
-- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.48.0) - download at https://pair.w3dev.fr
+- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.50.0) — download at https://pair.w3dev.fr
 - [w3dev33/pair-dist](https://github.com/w3dev33/pair-dist) - PaiR — An issue tracker, driven by AI, and Human 😉
 - [sqliteai/sqlite-memory](https://github.com/sqliteai/sqlite-memory) - Markdown based AI agent memory with semantic search, hybrid retrieval, and offline-first sync between agents.
 - [cafkafk/navi](https://github.com/cafkafk/navi) - Specialized deployment tool for NixOS with persistent daemon architecture, integrated infrastructure provisioning (Terraform/Terranix), and TUI management. Forked from Colmena.
@@ -28256,7 +28257,7 @@
 
 ## react 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [farnabaz/comark-pele](https://github.com/farnabaz/comark-pele) - Render Mermaid diagrams in Comark with Pele: a parse plugin plus components for HTML, ANSI, Vue, React, Svelte, and Angular
 - [onmax/comark-ui](https://github.com/onmax/comark-ui) - Comark UI is a free, open source library built on Comark, with 40+ blocks for docs, reviews, and agent reports.
 - [mohamadgarmabi/tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client for TanStack Query: returns data, throws typed FetchError, honors AbortSignal. Auth/refresh interceptors, SSR, SSE, WebSocket, upload, tRPC, DevTools. React, Vue/Nuxt, Solid, Svelte
@@ -30780,7 +30781,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [Ninroot/nacre](https://github.com/Ninroot/nacre) - Intuitive Shell
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [mearns/just-run-it](https://github.com/mearns/just-run-it) - A simple and straightforward javascript library for running system commands
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -31278,7 +31279,7 @@
 
 ## svelte 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [farnabaz/comark-pele](https://github.com/farnabaz/comark-pele) - Render Mermaid diagrams in Comark with Pele: a parse plugin plus components for HTML, ANSI, Vue, React, Svelte, and Angular
 - [onmax/comark-ui](https://github.com/onmax/comark-ui) - Comark UI is a free, open source library built on Comark, with 40+ blocks for docs, reviews, and agent reports.
 - [mohamadgarmabi/tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client for TanStack Query: returns data, throws typed FetchError, honors AbortSignal. Auth/refresh interceptors, SSR, SSE, WebSocket, upload, tRPC, DevTools. React, Vue/Nuxt, Solid, Svelte
@@ -32111,7 +32112,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -32446,7 +32447,7 @@
 
 ## typescript 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [onmax/tiny](https://github.com/onmax/tiny) - Tiny, fast, dependency-free drop-in parsers: tinyaml, tinyjson5, tinyini
 - [mohamadgarmabi/tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client for TanStack Query: returns data, throws typed FetchError, honors AbortSignal. Auth/refresh interceptors, SSR, SSE, WebSocket, upload, tRPC, DevTools. React, Vue/Nuxt, Solid, Svelte
 - [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) - ⭐️ Self-hostable AI support for Discord, GitHub, Slack & Discourse communities. Answers from your knowledge source, checked by a second AI agent, approved by your team before it's sent.
@@ -32999,7 +33000,7 @@
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
-- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source versatile content workspace
 - [yjl9903/Optc](https://github.com/yjl9903/Optc) - An easy way to write TypeScript CLI Script
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
@@ -33273,7 +33274,7 @@
 - [LouisMazel/maz-ui](https://github.com/LouisMazel/maz-ui) - Vue & Nuxt library of standalone components & tools to build interfaces
 - [martinascharrer/vuensight](https://github.com/martinascharrer/vuensight) - Visualize Vue.js component relationships and communication channels, i.e. props, events and slots. This developer tool operates on the command line and aims to give in-depth insight into a Vue.js proj
 - [unjs/untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [qber-soft/Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs) - Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
 - [ujjwalguptaofficial/mahal](https://github.com/ujjwalguptaofficial/mahal) - Simple, modern web application framework for UI development.
 - [hugoclrd/color-webapp-tuto](https://github.com/hugoclrd/color-webapp-tuto) - WebApp
@@ -34192,7 +34193,7 @@
 
 ## vue 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [farnabaz/comark-pele](https://github.com/farnabaz/comark-pele) - Render Mermaid diagrams in Comark with Pele: a parse plugin plus components for HTML, ANSI, Vue, React, Svelte, and Angular
 - [onmax/comark-ui](https://github.com/onmax/comark-ui) - Comark UI is a free, open source library built on Comark, with 40+ blocks for docs, reviews, and agent reports.
 - [mohamadgarmabi/tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client for TanStack Query: returns data, throws typed FetchError, honors AbortSignal. Auth/refresh interceptors, SSR, SSE, WebSocket, upload, tRPC, DevTools. React, Vue/Nuxt, Solid, Svelte

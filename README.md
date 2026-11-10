@@ -1602,7 +1602,6 @@
 - [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sylvek/domotik](https://github.com/sylvek/domotik) - Home Monitoring Project
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
@@ -7545,7 +7544,7 @@
 
 ## Others 
 
-- [productdevbook/ui](https://github.com/productdevbook/ui) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
+- [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [mpiv-ai/awesome-buzz](https://github.com/mpiv-ai/awesome-buzz) - A curated list of resources for Buzz, Block's self-hostable Nostr-based workspace where humans and AI agents share the same channels
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
@@ -10162,6 +10161,7 @@
 - [anomalyco/opentunnel](https://github.com/anomalyco/opentunnel) - 
 - [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [storytold/designcraft](https://github.com/storytold/designcraft) - DesignCraft: An open-source page and layout design editor written from scratch in pure Rust
 - [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft.
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
@@ -11494,7 +11494,6 @@
 - [sdananjay/paseo-herdr](https://github.com/sdananjay/paseo-herdr) - Paseo plugin: chat with OMP agents running in Herdr terminal sessions
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [raphaelsalaja/pond](https://github.com/raphaelsalaja/pond) - Your personal web archiver.
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [jespervos/tailwindcss-squircles](https://github.com/jespervos/tailwindcss-squircles) - Tailwind CSS v4 plugin that turns every rounded-* utility into a compensated squircle with CSS corner-shape as a seamless progressive enhancement.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
@@ -11580,7 +11579,6 @@
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
 - [Comfy-indirectobject340/social-queue](https://github.com/Comfy-indirectobject340/social-queue) - Automate publishing markdown posts to Bluesky, Mastodon, LinkedIn, Medium, Dev.to, and Substack without a database or UI.
 - [bierwirth-it/n8n-nodes-linkedin-formatter](https://github.com/bierwirth-it/n8n-nodes-linkedin-formatter) - Turn Markdown into ready-to-post LinkedIn content — with proper handling of German umlauts
-- [averyfreeman/devtools-mcp-linkedin-post](https://github.com/averyfreeman/devtools-mcp-linkedin-post) - A CLI tool using TypeScript, Playwright, DevTools-MCP and markdown to automate Linkedin posts
 - [SergeyStepanenko/linkedin](https://github.com/SergeyStepanenko/linkedin) - CLI tool for publishing posts to LinkedIn from markdown files. Zero dependencies, powered by Bun
 - [jojo8356/md2linkedin](https://github.com/jojo8356/md2linkedin) - Chrome extension to convert Markdown to LinkedIn-formatted posts using Unicode
 - [atinux/comark-knap](https://github.com/atinux/comark-knap) - A Comark plugin that renders knap templates before parsing.
@@ -11594,7 +11592,7 @@
 - [shadcn-labs/mdxcn](https://github.com/shadcn-labs/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
 - [atinux/comark-graphs-demo](https://github.com/atinux/comark-graphs-demo) - A demo of writing charts inside a plain .md file.
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
-- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Save Vimeo videos instantly for offline viewing.
+- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Vimeo Video Downloader: download private, unlisted, password-protected and embedded Vimeo videos as MP4. Browser extension for Chrome, Edge, Brave and Opera.
 - [Devansh-365/freellm](https://github.com/Devansh-365/freellm) - OpenAI-compatible gateway aggregating 8 free LLM providers with automatic failover, circuit breakers, and smart routing. 32+ models, zero cost.
 - [maria-rcks/t3libre](https://github.com/maria-rcks/t3libre) - T3 Code, liberated 🤍 Open forever, profitable never 🕊️
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
@@ -14002,7 +14000,7 @@
 - [BayBreezy/nuxt-pdfmake](https://github.com/BayBreezy/nuxt-pdfmake) - Easily generate PDFs in Nuxt.js using pdfmake
 - [eulier1/nuxt3-openai-test](https://github.com/eulier1/nuxt3-openai-test) - 
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
-- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source versatile content workspace
 - [ceramicstudio/js-composedb](https://github.com/ceramicstudio/js-composedb) - ComposeDB is a decentralized GraphQL database built on Ceramic Network
 - [flozero/nuxt-stripe](https://github.com/flozero/nuxt-stripe) - nuxt module for stripe
 - [yjl9903/Optc](https://github.com/yjl9903/Optc) - An easy way to write TypeScript CLI Script
@@ -14909,7 +14907,7 @@
 - [Baiyuetribe/nuxt3-naive-ui-starter](https://github.com/Baiyuetribe/nuxt3-naive-ui-starter) - A starter example for naive-ui with nuxt3.
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [unjs/untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
-- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal 🎨
 - [relekang/graphql-rss-parser](https://github.com/relekang/graphql-rss-parser) - A microservice that parses rss feeds and makes it available as grahpql service.
 - [mailgun/mailgun.js](https://github.com/mailgun/mailgun.js) - Javascript SDK for Mailgun
 - [privatenumber/link](https://github.com/privatenumber/link) - 🔗 A better `npm link`
@@ -16004,6 +16002,7 @@
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
 - [Theodo-UK/nestjs-admin](https://github.com/Theodo-UK/nestjs-admin) - A generic administration interface for TypeORM entities
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [FiberJW/expo-hasura-todo](https://github.com/FiberJW/expo-hasura-todo) - 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -16587,7 +16586,7 @@
 - [canstand/unocss-nuxt-ui](https://github.com/canstand/unocss-nuxt-ui) - 
 - [ISOR3X/nuxt-gantt](https://github.com/ISOR3X/nuxt-gantt) - Gantt charts for Nuxt UI
 - [orazchollaev/nuxt-feature-starter](https://github.com/orazchollaev/nuxt-feature-starter) - Simple and organized Nuxt starter template with feature-based architecture.
-- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.48.0) - download at https://pair.w3dev.fr
+- [w3dev33/beads-task-issue-tracker](https://github.com/w3dev33/beads-task-issue-tracker) - This project's successor is PaiR (v0.50.0) — download at https://pair.w3dev.fr
 - [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue 3 component to setup scroll-driven interactions (aka scrollytelling)
 - [MFM-347/nuxpert](https://github.com/MFM-347/nuxpert) - Nuxpert is a sleek, high-performance Nuxt 4 template with TypeScript, Tailwind CSS, accessibility, and SEO optimization built in.
 - [nuxt-content/nuxt-studio-sso](https://github.com/nuxt-content/nuxt-studio-sso) - A centralized OAuth 2.0 Authorization Server that enables Single Sign-On (SSO) across multiple Nuxt Studio-powered websites.
