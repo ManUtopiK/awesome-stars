@@ -339,6 +339,7 @@
 
 ## C++ 
 
+- [bepaald/signalbackup-tools](https://github.com/bepaald/signalbackup-tools) - Tool to work with Signal Backup files.
 - [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [Gecode/MPG](https://github.com/Gecode/MPG) - Modeling and Programming with Gecode
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
@@ -361,7 +362,7 @@
 - [openwebf/webf](https://github.com/openwebf/webf) - Bring JavaScript and Web Dev to Flutter
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
+- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages 🔍
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -2272,7 +2273,7 @@
 - [marclou/mailcheap](https://github.com/marclou/mailcheap) - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [Parcha-ai/agentrun](https://github.com/Parcha-ai/agentrun) - The Agentrun Workflow DSL
+- [Parcha-ai/agentrun](https://github.com/Parcha-ai/agentrun) - AgentRun is an open-source platform that supercharges your agents. It adds self-improvement, durable execution and a control plane on top of your favorite agent harness. Your agents become smarter, mo
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [tarwin/tinyjsapp-examples](https://github.com/tarwin/tinyjsapp-examples) - 
 - [ipols/comark](https://github.com/ipols/comark) - Markdown review companion for Claude Code — comment on agent-generated docs in your browser; the chat agent answers them in parallel via comark's MCP tools. No API key required.
@@ -3814,7 +3815,6 @@
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
 - [dariusk/rss-to-activitypub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter.
 - [rzr/fediverse-action](https://github.com/rzr/fediverse-action) - Post to fediverse from github using mastodon-lite
-- [elevenpassin/yt2pt](https://github.com/elevenpassin/yt2pt) - Youtube to Peertube importer
 - [vulet/ligh7hau5](https://github.com/vulet/ligh7hau5) - A Matrix (https://matrix.org/docs/spec/) to Fediverse / ActivityPub client / bridge. Also, some media proxying.
 - [kool-dev/pdf](https://github.com/kool-dev/pdf) - Micro-service for generating PDF files using Puppeteer with an Express API
 - [plcgi1/fastify-delayed-job](https://github.com/plcgi1/fastify-delayed-job) - 
@@ -10139,6 +10139,7 @@
 
 ## Rust 
 
+- [papiche/astroportd](https://github.com/papiche/astroportd) - Station UPlanet / Astroport en un seul binaire Rust : relai Nostr, uCloud + FaceCloud, partages N1/N2, P2P, économie ẐEN. ORIGIN & ẐEN, Y-Level SSH=IPFS.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel diagnostics in your terminal. Investigate scheduling, memory pressure and block I/O. Built with Rust.
@@ -11662,7 +11663,7 @@
 - [oneworks-ai/shikitor](https://github.com/oneworks-ai/shikitor) - Code editor base on shiki.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js) - Official JavaScript SDK for the Agent2Agent (A2A) Protocol
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for teams
 - [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [Flo0806/nuxt-spyglass](https://github.com/Flo0806/nuxt-spyglass) - Capture browser and server logs in one correlated place - and let your AI agent read them over MCP
@@ -14478,7 +14479,7 @@
 - [Eckhardt-D/nuxt3-bookmark-manager](https://github.com/Eckhardt-D/nuxt3-bookmark-manager) - 
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [elierotenberg/fastify-zod](https://github.com/elierotenberg/fastify-zod) - Zod integration with Fastify
 - [turkerdev/fastify-type-provider-zod](https://github.com/turkerdev/fastify-type-provider-zod) - 
 - [lmiller1990/tree-view](https://github.com/lmiller1990/tree-view) - IDE-like file system tree structure and component
