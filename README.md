@@ -966,6 +966,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [enablebanking/enablebanking-api-samples](https://github.com/enablebanking/enablebanking-api-samples) - Code samples C#, Go, JavaScript, PHP, Postman, Python and Ruby for use of Open Banking aggregation API https://api.enablebanking.com
 - [patriceckhart/zot](https://github.com/patriceckhart/zot) - Yet another coding agent harness, lightweight and written in go.
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.
@@ -2515,7 +2516,7 @@
 - [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source GitHub repositories. Explore star trends showing daily stats.
 - [phaserjs/template-vue](https://github.com/phaserjs/template-vue) - A Phaser 3 project template that demonstrates Vue communication and  uses Vite for bundling
 - [agentPritam47/clipvideo](https://github.com/agentPritam47/clipvideo) - 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [lttr/claude-marketplace](https://github.com/lttr/claude-marketplace) - Claude Code plugins extracted from my own development workflows.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
@@ -9110,7 +9111,7 @@
 - [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 - [kszenes/tocPDF](https://github.com/kszenes/tocPDF) - Automatic CLI tool for generating outline of PDFs based on parsing the table of contents.
 - [lzakharov/csv2md](https://github.com/lzakharov/csv2md) - Command line tool for converting CSV files into Markdown tables.
-- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.
+- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, Hermes, Antigravity, and OpenCode.
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [felipelobomotta-blip/book-genesis-studio](https://github.com/felipelobomotta-blip/book-genesis-studio) - Open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw, and Hermes. Your creativity. Your agent. Your book.
@@ -10138,6 +10139,8 @@
 
 ## Rust 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [zircote/adrscope](https://github.com/zircote/adrscope) - Rust CLI and GitHub Action for Architecture Decision Records. Generate self-contained HTML viewers with faceted search, relationship graphs, and GitHub Wiki pages. Validate ADRs in CI/CD pipelines.
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
 - [Kinference-AI/kinference](https://github.com/Kinference-AI/kinference) - An inference control plane for Kubernetes and vLLM
@@ -10470,7 +10473,7 @@
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [hyfdev/libvue-rs](https://github.com/hyfdev/libvue-rs) - 
 - [aliezzahn/rs-markdown-parser](https://github.com/aliezzahn/rs-markdown-parser) - A Node.js module for converting Markdown files to HTML using Rust
-- [nilgradisnik/markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Simple Markdown editor
+- [nilgrad/markdown-rs](https://github.com/nilgrad/markdown-rs) - Simple Markdown editor
 - [johannhof/markdown.rs](https://github.com/johannhof/markdown.rs) - Rust Markdown parsing library
 - [Epistates/turbovault](https://github.com/Epistates/turbovault) - Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
@@ -10578,7 +10581,7 @@
 - [neplextech/vectorizer](https://github.com/neplextech/vectorizer) - Fast JavaScript library to convert and optimize raster images to svg using vtracer
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [prooflinedev/yek](https://github.com/prooflinedev/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [dhth/bmm](https://github.com/dhth/bmm) - get to your bookmarks in a flash
 - [theseus-rs/postgresql-embedded](https://github.com/theseus-rs/postgresql-embedded) - Embed PostgreSQL database
@@ -11465,6 +11468,8 @@
 
 ## TypeScript 
 
+- [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Cl
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [anelkabag/bag-ui](https://github.com/anelkabag/bag-ui) - BagUI is an open-source shadcn/ui registry with production-ready components, blocks, templates, and animations for React, Next.js, and Tailwind CSS. Copy, customize, and build faster.
 - [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken

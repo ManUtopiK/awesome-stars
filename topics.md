@@ -1124,7 +1124,7 @@
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [prooflinedev/yek](https://github.com/prooflinedev/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [dditlev/ollama-js-client](https://github.com/dditlev/ollama-js-client) - 🦙 JS fetch wrapper for consuming the Ollama API in node and the browser 🦙
@@ -1422,6 +1422,9 @@
 
 ## ai-agents 
 
+- [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Cl
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
 - [agentrhq/webcmd](https://github.com/agentrhq/webcmd) - Self-learning agent browser
@@ -1452,7 +1455,7 @@
 - [maypaz/md.page](https://github.com/maypaz/md.page) - Instantly turn Markdown into a shareable web page. Self-hostable open-source engine of md.page.
 - [sixb-ai/sixb](https://github.com/sixb-ai/sixb) - Open-source TypeScript framework for building operational software used by humans and AI agents.
 - [busabase/busabase](https://github.com/busabase/busabase) - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.
-- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.
+- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, Hermes, Antigravity, and OpenCode.
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
 - [sulabhdubey/rta-smriti-brain](https://github.com/sulabhdubey/rta-smriti-brain) - Local-first, evidence-aware project memory for AI coding agents.
 - [templetongroup/radiant](https://github.com/templetongroup/radiant) - A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and drive a real terminal — in one window. Free and MIT licensed.
@@ -4014,6 +4017,7 @@
 
 ## claude 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 - [FlorianBruniaux/cc-skill-usage](https://github.com/FlorianBruniaux/cc-skill-usage) - Retroactive Claude Code Skill usage analytics. Single-file Python CLI, reads your existing ~/.claude transcripts, counts real Skill tool_use invocations (not prose mentions). No hook to install ahead 
 - [happier-dev/happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, Qwen, fully end-to-end encrypted
@@ -4176,6 +4180,9 @@
 
 ## claude-code 
 
+- [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Cl
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 - [BrowyHQ/browy](https://github.com/BrowyHQ/browy) - The browser agent that runs on the AI subscription you already pay for. Drives real tabs through chat, from a side panel or a DevTools REPL.
@@ -4206,7 +4213,7 @@
 - [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Building the self-learning layer next-gen agents will ship with, learning skills from real work.
 - [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.
 - [x0c/agentsync](https://github.com/x0c/agentsync) - Sync Claude Code and Cursor rules, skills, and MCP configs from one source of truth. One CLI for Codex, Gemini CLI, and other AI coding agents.
-- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.
+- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, Hermes, Antigravity, and OpenCode.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [felipelobomotta-blip/book-genesis-studio](https://github.com/felipelobomotta-blip/book-genesis-studio) - Open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw, and Hermes. Your creativity. Your agent. Your book.
@@ -4481,7 +4488,7 @@
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [lzakharov/csv2md](https://github.com/lzakharov/csv2md) - Command line tool for converting CSV files into Markdown tables.
 - [uzimaru0000/tv](https://github.com/uzimaru0000/tv) - Format json into table view
-- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.
+- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, Hermes, Antigravity, and OpenCode.
 - [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife) - A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.
 - [felipelobomotta-blip/book-genesis-studio](https://github.com/felipelobomotta-blip/book-genesis-studio) - Open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw, and Hermes. Your creativity. Your agent. Your book.
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
@@ -4665,7 +4672,7 @@
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
 - [dtnewman/zev](https://github.com/dtnewman/zev) - A simple CLI tool to help you remember terminal commands
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [prooflinedev/yek](https://github.com/prooflinedev/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -6526,6 +6533,7 @@
 
 ## developer-tools 
 
+- [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Cl
 - [modeled-information-format/structured-madr](https://github.com/modeled-information-format/structured-madr) - Machine-readable Architectural Decision Records with YAML frontmatter, risk assessment, and audit trails. Includes GitHub Action validator and JSON Schema for CI/CD.
 - [zircote/adrscope](https://github.com/zircote/adrscope) - Rust CLI and GitHub Action for Architecture Decision Records. Generate self-contained HTML viewers with faceted search, relationship graphs, and GitHub Wiki pages. Validate ADRs in CI/CD pipelines.
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
@@ -6986,6 +6994,7 @@
 
 ## docker 
 
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [vite-hub/email-labeller](https://github.com/vite-hub/email-labeller) - Label new Gmail with your rules first and Jev for the rest. Runs on Cloudflare Workers or Docker, built on ViteHub.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [entire-vc/evc-team-relay](https://github.com/entire-vc/evc-team-relay) - Self-hosted real-time collaboration and web publishing server for Obsidian vaults
@@ -7544,6 +7553,7 @@
 
 ## electron 
 
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [create-collective/openflow](https://github.com/create-collective/openflow) - Get the most out of your keyboard. Offline, open source, yours. Naya Create, Tune, Touch & Track on Windows, macOS and Linux.
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
@@ -8645,7 +8655,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [IngloriousCoderz/inglorious-forge](https://github.com/IngloriousCoderz/inglorious-forge) - An entity-based JavaScript framework for web apps, SSR/SSG sites, generative UI and games.
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
@@ -8661,7 +8671,7 @@
 ## game-engine 
 
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -8671,7 +8681,7 @@
 ## gamedev 
 
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
@@ -9330,6 +9340,7 @@
 
 ## golang 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) - Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file.
@@ -10265,7 +10276,7 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -11421,6 +11432,7 @@
 
 ## ios 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [vastx-tech/vastx-native](https://github.com/vastx-tech/vastx-native) - Build real native iOS & Android apps with Nuxt and Vue — no WebView. A Flutter/React Native-style framework for the Nuxt ecosystem, powered by NativeScript's native runtime.
 - [bulwarkmail/native](https://github.com/bulwarkmail/native) - Bulwark Mobile: React Native client for iOS and Android. Mail, calendar and contacts over JMAP. Beta.
@@ -11757,7 +11769,7 @@
 - [adelzemzemi/CryptoBox](https://github.com/adelzemzemi/CryptoBox) - Zero-dependency encryption library for JavaScript & TypeScript. Secure localStorage, sessionStorage, or any data with AES-256-GCM encryption. Production-ready with 93% test coverage.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 - [Wroud/foundation](https://github.com/Wroud/foundation) - Tools for modern js
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
@@ -13605,6 +13617,7 @@
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Low-Latency Accelerated Web Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [heymrun/heym](https://github.com/heymrun/heym) - Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.
 - [docker-secret-operator/dso](https://github.com/docker-secret-operator/dso) - Zero-persistence secret injection for Docker. AWS, Azure, Vault support.
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored.
@@ -13991,6 +14004,7 @@
 
 ## linux 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [Condor2026/diabolic_france_v3](https://github.com/Condor2026/diabolic_france_v3) - 🇫🇷🗼 DIABOLIC FRANCE - OSINT social aid platform.  · 4 languages (ES/FR/IT/IN) ·  Monitoring Crime Analyst
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel diagnostics in your terminal. Investigate scheduling, memory pressure and block I/O. Built with Rust.
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
@@ -14046,7 +14060,7 @@
 - [shendrew/Lilypad](https://github.com/shendrew/Lilypad) - Open-source desktop extension to organize, hide, and reorder app indicators in GNOME menu bar
 - [funinkina/Gnome-OCR-Screenshot](https://github.com/funinkina/Gnome-OCR-Screenshot) - A simple python script to extarct text from screenshot in GNOME desktop environment using pytesseract.
 - [danst0/gnome-uptime-kuma](https://github.com/danst0/gnome-uptime-kuma) - Monitor your Uptime Kuma instance directly from the GNOME Shell panel. Supports public status pages, private API, and Prometheus metrics endpoints.
-- [nilgradisnik/markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Simple Markdown editor
+- [nilgrad/markdown-rs](https://github.com/nilgrad/markdown-rs) - Simple Markdown editor
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [popovicu/ultimate-linux](https://github.com/popovicu/ultimate-linux) - The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!
@@ -14464,7 +14478,7 @@
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
-- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [prooflinedev/yek](https://github.com/prooflinedev/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -14810,6 +14824,7 @@
 
 ## macos 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [create-collective/openflow](https://github.com/create-collective/openflow) - Get the most out of your keyboard. Offline, open source, yours. Naya Create, Tune, Touch & Track on Windows, macOS and Linux.
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
@@ -15075,7 +15090,7 @@
 - [nberlette/comrak-wasm](https://github.com/nberlette/comrak-wasm) - TypeScript and WebAssembly bindings for Comrak, the Markdown-to-HTML renderer written in Rust.
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [aliezzahn/rs-markdown-parser](https://github.com/aliezzahn/rs-markdown-parser) - A Node.js module for converting Markdown files to HTML using Rust
-- [nilgradisnik/markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Simple Markdown editor
+- [nilgrad/markdown-rs](https://github.com/nilgrad/markdown-rs) - Simple Markdown editor
 - [Epistates/turbovault](https://github.com/Epistates/turbovault) - Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
@@ -15439,6 +15454,7 @@
 
 ## mcp 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
 - [harlan-zw/gscdump](https://github.com/harlan-zw/gscdump) - Dump your entire Google Search Console dataset and put your agents to work finding insights and improving your SEO.
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
@@ -17024,7 +17040,7 @@
 - [adelzemzemi/CryptoBox](https://github.com/adelzemzemi/CryptoBox) - Zero-dependency encryption library for JavaScript & TypeScript. Secure localStorage, sessionStorage, or any data with AES-256-GCM encryption. Production-ready with 93% test coverage.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
 - [unproducts/unmail](https://github.com/unproducts/unmail) - Unified email API for sending transactional emails across various providers and support for custom drivers.
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Typed command-line arguments parser for Node.js
@@ -17194,6 +17210,7 @@
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON) - DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a ba
 - [sindresorhus/get-windows](https://github.com/sindresorhus/get-windows) - Get metadata about the active window and open windows (title, id, bounds, owner, etc)
+- [artmizu/nuxt-prometheus](https://github.com/artmizu/nuxt-prometheus) - Prometheus metrics for NodeJS and a set of custom metrics for Nuxt applications
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [bridge-codes/bridge](https://github.com/bridge-codes/bridge) - Bridge is a Typescript Node.js framework that provides an easy and scalable way to create REST APIs while generating the client code.  Our goal is to make Bridge a great framework for both frontend an
 - [thuongtruong1009/metasave](https://github.com/thuongtruong1009/metasave) - ⏰ Manage your personal work schedule over time through intuitive boards and time calendars 📅
@@ -18099,6 +18116,7 @@
 
 ## open-source 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [anelkabag/bag-ui](https://github.com/anelkabag/bag-ui) - BagUI is an open-source shadcn/ui registry with production-ready components, blocks, templates, and animations for React, Next.js, and Tailwind CSS. Copy, customize, and build faster.
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [Condor2026/diabolic_france_v3](https://github.com/Condor2026/diabolic_france_v3) - 🇫🇷🗼 DIABOLIC FRANCE - OSINT social aid platform.  · 4 languages (ES/FR/IT/IN) ·  Monitoring Crime Analyst
@@ -18660,6 +18678,7 @@
 
 ## others 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [daveprowse/Draw-On-Gnome](https://github.com/daveprowse/Draw-On-Gnome) - Annotate your GNOME desktop. Press Super+Alt+D to begin!
@@ -21889,7 +21908,6 @@
 - [alloc/vite-postgres](https://github.com/alloc/vite-postgres) - 
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [artmizu/nuxt-prometheus](https://github.com/artmizu/nuxt-prometheus) - Prometheus metrics for NodeJS and a set of custom metrics for Nuxt applications
 - [hasura/build-with-hasura-byp](https://github.com/hasura/build-with-hasura-byp) - 
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
@@ -29485,6 +29503,7 @@
 
 ## rust 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
 - [zircote/adrscope](https://github.com/zircote/adrscope) - Rust CLI and GitHub Action for Architecture Decision Records. Generate self-contained HTML viewers with faceted search, relationship graphs, and GitHub Wiki pages. Validate ADRs in CI/CD pipelines.
 - [pi-infected/tokenade](https://github.com/pi-infected/tokenade) - Cut your AI coding agent's token bill, locally: Claude Code, Codex, Cursor, Copilot. #1 on THOL, 39% cheaper on long sessions.
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+
@@ -29650,7 +29669,7 @@
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [nberlette/comrak-wasm](https://github.com/nberlette/comrak-wasm) - TypeScript and WebAssembly bindings for Comrak, the Markdown-to-HTML renderer written in Rust.
 - [aliezzahn/rs-markdown-parser](https://github.com/aliezzahn/rs-markdown-parser) - A Node.js module for converting Markdown files to HTML using Rust
-- [nilgradisnik/markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Simple Markdown editor
+- [nilgrad/markdown-rs](https://github.com/nilgrad/markdown-rs) - Simple Markdown editor
 - [Epistates/turbovault](https://github.com/Epistates/turbovault) - Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [leandrocp/mdex](https://github.com/leandrocp/mdex) - Markdown for Elixir. Fast, Extensible, Phoenix-native. AI-ready. Built on top of comrak, ammonia, lumis, and syntect.
@@ -30250,6 +30269,8 @@
 
 ## self-hosted 
 
+- [leepokai/Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windo
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [rebasepro/rebase](https://github.com/rebasepro/rebase) - Open-source backend-as-a-service for Postgres — REST, typed SDK, auth, storage, realtime and row-level security over your own database, with a schema-driven admin panel when you want one.
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [papiche/astroportd](https://github.com/papiche/astroportd) - Station UPlanet / Astroport en un seul binaire Rust : relai Nostr, uCloud + FaceCloud, partages N1/N2, P2P, économie ẐEN. ORIGIN & ẐEN, Y-Level SSH=IPFS.
@@ -30335,7 +30356,6 @@
 - [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [florianjs/nagare](https://github.com/florianjs/nagare) - Self-hosted, cookieless, GDPR-native analytics
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [RootCX/RootCX](https://github.com/RootCX/RootCX) - Governed infrastructure for internal tools and AI agents
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -30877,7 +30897,7 @@
 - [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect a
 - [agentskill-sh/ags](https://github.com/agentskill-sh/ags) - Find & install agent skills. The /learn command for Claude Code, Codex, Cursor, Copilot, and more.
 - [x0c/agentsync](https://github.com/x0c/agentsync) - Sync Claude Code and Cursor rules, skills, and MCP configs from one source of truth. One CLI for Codex, Gemini CLI, and other AI coding agents.
-- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.
+- [edonadei/caliper](https://github.com/edonadei/caliper) - Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, Hermes, Antigravity, and OpenCode.
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
@@ -32497,6 +32517,8 @@
 
 ## typescript 
 
+- [rbartoli/agent-usage-guard](https://github.com/rbartoli/agent-usage-guard) - A Claude Code mod that holds subagent fan-out, heavy-context prompts and retry loops before they spend your usage window. It reads your plan's usage, counts agents across every session, and asks in Cl
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [rebasepro/rebase](https://github.com/rebasepro/rebase) - Open-source backend-as-a-service for Postgres — REST, typed SDK, auth, storage, realtime and row-level security over your own database, with a schema-driven admin panel when you want one.
 - [productdevbook/hamur](https://github.com/productdevbook/hamur) - Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways. Work in progress.
 - [onmax/tiny](https://github.com/onmax/tiny) - Tiny, fast, dependency-free drop-in parsers: tinyaml, tinyjson5, tinyini
@@ -32719,7 +32741,7 @@
 - [Wroud/foundation](https://github.com/Wroud/foundation) - Tools for modern js
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [bloodyowl/boxed](https://github.com/bloodyowl/boxed) - Essential building-blocks for functional & safe TypeScript code
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori wo
 - [Logos-Flux/cloudflare-multiagent](https://github.com/Logos-Flux/cloudflare-multiagent) - Multi-agent AI platform on Cloudflare Workers — public preview (v0.1.x)
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
@@ -33149,6 +33171,7 @@
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
+- [artmizu/nuxt-prometheus](https://github.com/artmizu/nuxt-prometheus) - Prometheus metrics for NodeJS and a set of custom metrics for Nuxt applications
 - [mujahidfa/vue-mafs](https://github.com/mujahidfa/vue-mafs) - Vue components for creating interactive math visualizations, based on Mafs.
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 - [soulsam480/furikaeru](https://github.com/soulsam480/furikaeru) - A small app to discuss retrospective while being Anonymous. Create public/private boards with a simple kanban board interface and realtime changes. Flexible, simple and free.
@@ -34045,7 +34068,7 @@
 
 ## virtual-reality 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## visual-studio-code 
@@ -34143,6 +34166,7 @@
 
 ## vpn 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
