@@ -965,6 +965,7 @@
 
 ## Go 
 
+- [devvmhq/devvm](https://github.com/devvmhq/devvm) - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [enablebanking/enablebanking-api-samples](https://github.com/enablebanking/enablebanking-api-samples) - Code samples C#, Go, JavaScript, PHP, Postman, Python and Ruby for use of Open Banking aggregation API https://api.enablebanking.com
 - [patriceckhart/zot](https://github.com/patriceckhart/zot) - Yet another coding agent harness, lightweight and written in go.
@@ -1704,6 +1705,7 @@
 
 ## HTML 
 
+- [sybil-solutions/local-ai-registry](https://github.com/sybil-solutions/local-ai-registry) - Local AI registry: one validated recipe per machine, with the evidence attached
 - [lexifina/global-law](https://github.com/lexifina/global-law) - The world's law in git: any provision, any country, any date, and the law that wrote each word.
 - [atinux/amp-orbs-on-vercel](https://github.com/atinux/amp-orbs-on-vercel) - Run Amp self-hosted orbs on Vercel Sandbox with a Vercel Daemon and OIDC
 - [jastfan/github-trending](https://github.com/jastfan/github-trending) - Tracking the most popular Github repos, update daily(Python version). Updated every 12 hours.
@@ -2278,6 +2280,7 @@
 - [nkzw-tech/audio](https://github.com/nkzw-tech/audio) - Javascript audio library for the modern web.
 - [BrowyHQ/browy](https://github.com/BrowyHQ/browy) - The browser agent that runs on the AI subscription you already pay for. Drives real tabs through chat, from a side panel or a DevTools REPL.
 - [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) - Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev.
+- [vite-hub/drop](https://github.com/vite-hub/drop) - Review what your agent makes. Your agent publishes its plan, page, or app over MCP; you comment on the exact spot, and it publishes the next version. Built with ViteHub.
 - [marclou/mailcheap](https://github.com/marclou/mailcheap) - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -2322,6 +2325,7 @@
 - [leyvanah/sozvon](https://github.com/leyvanah/sozvon) - Self-hosted video conferencing with per-group end-to-end encryption, a waiting room and one-command deployment. A fork of Galene.
 - [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) - Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without hitting CORS.
 - [wink-run/tokenbank](https://github.com/wink-run/tokenbank) - Token Bank — the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go · Spend less with smart routing to Ollama, Groq, GitHub Models · Earn by sharing idle quot
+- [evlon/aisix-console](https://github.com/evlon/aisix-console) - 个人使用的 AISIX AI Gateway（文件模式）Web 配置控制台。独立 git 项目*不修改 aisix 源码。
 - [jhonderson/actual-http-api](https://github.com/jhonderson/actual-http-api) - Basic Actual Budget API exposed through HTTP endpoints
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [fw-ai-external/nexus-cli](https://github.com/fw-ai-external/nexus-cli) - Use Fireworks AI models in Claude Code, Codex, Cursor, VS Code, Copilot, and other coding agents.
@@ -3609,7 +3613,6 @@
 - [NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
 - [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 - [nearform/federation-demo](https://github.com/nearform/federation-demo) - Demo of Apollo Federation
-- [retog/scuttlesaurus](https://github.com/retog/scuttlesaurus) - 
 - [leezng/vue-json-pretty](https://github.com/leezng/vue-json-pretty) - A JSON tree view component that is easy to use and also supports data selection.
 - [rococtz/gun_examples](https://github.com/rococtz/gun_examples) - 
 - [regardscitoyens/the-law-factory](https://github.com/regardscitoyens/the-law-factory) - Track the french law-making process
@@ -9070,7 +9073,7 @@
 - [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gate
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10), with an evidence-checked attack-path grap
 - [mistralai/timestral](https://github.com/mistralai/timestral) - Repository for Timestral, the time-series foundation model by Mistral AI
 - [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
@@ -9180,7 +9183,7 @@
 - [reapbenefit/Samaaja](https://github.com/reapbenefit/Samaaja) - Samaaja is an open source software solution for rapidly building location based civic services connected with volunteer, human interactions.
 - [DemocracyClub/WhoCanIVoteFor](https://github.com/DemocracyClub/WhoCanIVoteFor) - 🗳 The source for https://whocanivotefor.co.uk/
 - [liqd/a4-meinberlin](https://github.com/liqd/a4-meinberlin) - The central participation platform of the city of Berlin, Germany
-- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.
+- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Agent is an open-source AI agent harness you own: loop, memory, evals, and an always-on layer (event inbox, timers, approvals, outbox), in code that stays readable.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -10139,6 +10142,8 @@
 
 ## Rust 
 
+- [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
+- [unharnessed-agent/Unharnessed](https://github.com/unharnessed-agent/Unharnessed) - A minimalist and powerful harness with one tool: a persistent Python REPL.
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
@@ -11471,6 +11476,7 @@
 
 ## TypeScript 
 
+- [DhruvilChauahan0210/ink-scroll](https://github.com/DhruvilChauahan0210/ink-scroll) - Scroll-driven animation in ~10 KB: draw SVG paths, reveal, pin, parallax, scrub video. MIT, zero deps, native CSS fast path. React, Vue, Svelte, Solid, Angular, Astro.
 - [Negative-Space-Dev/aero-slider](https://github.com/Negative-Space-Dev/aero-slider) - A lightweight, CSS-first slider library for the modern web
 - [getpaseo/hub](https://github.com/getpaseo/hub) - Self-hosted automation for Paseo daemons
 - [av/skilled](https://github.com/av/skilled) - TUI dashboard for skill usage stats across AI coding tools
@@ -11503,7 +11509,6 @@
 - [AbdullahMukadam/formscn](https://github.com/AbdullahMukadam/formscn) - An Shadcn based form builder
 - [farnabaz/comark-pele](https://github.com/farnabaz/comark-pele) - Render Mermaid diagrams in Comark with Pele: a parse plugin plus components for HTML, ANSI, Vue, React, Svelte, and Angular
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
-- [vite-hub/drop](https://github.com/vite-hub/drop) - Review what your agent makes. Your agent publishes its plan, page, or app over MCP; you comment on the exact spot, and it publishes the next version. Built with ViteHub.
 - [happier-dev/happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, Qwen, fully end-to-end encrypted
 - [lochie/skullet](https://github.com/lochie/skullet) - Smart skeleton states
 - [onmax/tiny](https://github.com/onmax/tiny) - Tiny, fast, dependency-free drop-in parsers: tinyaml, tinyjson5, tinyini
@@ -15166,6 +15171,7 @@
 - [toshusai/Vega](https://github.com/toshusai/Vega) - 
 - [unrevised6419/vue-render-everywhere](https://github.com/unrevised6419/vue-render-everywhere) - 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [retog/scuttlesaurus](https://github.com/retog/scuttlesaurus) - 
 - [cobudget/cobudget](https://github.com/cobudget/cobudget) - Participatory budgeting
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
@@ -16592,7 +16598,6 @@
 - [ppietris/vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
 - [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
 - [nuxt-ui-templates/calendar](https://github.com/nuxt-ui-templates/calendar) - Nuxt Calendar Template made with Nuxt UI.
-- [evlon/aisix-console](https://github.com/evlon/aisix-console) - 个人使用的 AISIX AI Gateway（文件模式）Web 配置控制台。独立 git 项目*不修改 aisix 源码。
 - [agersant/polaris-web](https://github.com/agersant/polaris-web) - Web client for Polaris
 - [openvi-foundation/openvue](https://github.com/openvi-foundation/openvue) - MIT-licensed fork of PrimeVue. 80+ Vue 3 UI components, Nuxt support and one-command migration.
 - [dbzx10299/geist-vaul](https://github.com/dbzx10299/geist-vaul) - A minimal drawer component for Vue
@@ -17692,6 +17697,7 @@
 
 ## Zig 
 
+- [pithings/wland](https://github.com/pithings/wland) - 🪟 Wayland apps, composited in the browser: a Wayland compositor in WebAssembly.
 - [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
