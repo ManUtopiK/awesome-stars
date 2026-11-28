@@ -145,7 +145,6 @@
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 6+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [manasky/lorem.space](https://github.com/manasky/lorem.space) - ✨✨✨🪐✨✨✨  LOREM.SPACE ✨✨✨🪐✨✨✨
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
@@ -823,7 +822,6 @@
 - [MirkoRaimo/help_your_city](https://github.com/MirkoRaimo/help_your_city) - Help your city! is an app designed to put citizens in direct contact with the administrators of their municipality!
 - [GetBallot/mobile](https://github.com/GetBallot/mobile) - A mobile app for busy voters
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [threefoldtech/grid_connect](https://github.com/threefoldtech/grid_connect) - 
@@ -1073,6 +1071,7 @@
 - [c0m4r/kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 - [nilbuild/slim](https://github.com/nilbuild/slim) - Give your localhost a local or public URL
 - [brexhq/CrabTrap](https://github.com/brexhq/CrabTrap) - An LLM-as-a-judge HTTP proxy to secure agents in production
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [szkiba/mdcode](https://github.com/szkiba/mdcode) - Markdown code block authoring tool
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -1498,6 +1497,7 @@
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
@@ -3810,7 +3810,6 @@
 - [xbill82/vuepress-frontmatter-lint](https://github.com/xbill82/vuepress-frontmatter-lint) - Validate frontmatters like VueJS props.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
-- [jaakkytt/InjectCode](https://github.com/jaakkytt/InjectCode) - Source for InjectCode Chrome Extention
 - [kapydev/fastify-passport-google-example](https://github.com/kapydev/fastify-passport-google-example) - Sample code for using passportjs with fastify
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search through a website's history.
 - [sindresorhus/is-reachable](https://github.com/sindresorhus/is-reachable) - Check if servers are reachable
@@ -8223,7 +8222,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [cozy/cozy](https://github.com/cozy/cozy) - Simple, Versatile, Yours
@@ -9145,7 +9143,7 @@
 - [nazimboudeffa/gitmatrix](https://github.com/nazimboudeffa/gitmatrix) - An Open Source alternative to Git Clients
 - [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [preloop/preloop](https://github.com/preloop/preloop) - The open-source AI agent control plane and software factory: govern every tool and model call.
-- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions, Responses and Anthropic Messages APIs: 125 routing strategies (incl. feedback-aware Thompson sampling) across GPT-6, Claude Opus 5.5 / Fa
+- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions (with tool calling), Responses and Anthropic Messages APIs: LiteLLM-style virtual keys with per-key budgets, model allowlists and rate lim
 - [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - Source-available LLM router and AI cost optimizer. Routes simple prompts to cheap or local models and complex ones to premium models, automatically. Drop-in OpenAI-compatible proxy for Claude Code, Co
 - [mozilla-ai/otari](https://github.com/mozilla-ai/otari) - Open-source AI gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
@@ -9343,7 +9341,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [duriantaco/sago](https://github.com/duriantaco/sago) - You describe what you want in markdown, sago generates a plan
 - [hostinger/selfhosted-mcp-server-template](https://github.com/hostinger/selfhosted-mcp-server-template) - 
-- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [GrafeoDB/graph-bench](https://github.com/GrafeoDB/graph-bench) - Benchmark suite for graph databases. Built to compare graph databases on LPG, RDF and vector data, complex queries, graph algorithms, memory usage and durability.
 - [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) - 120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 aud
@@ -9991,6 +9989,7 @@
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [pirate/crypto-trader](https://github.com/pirate/crypto-trader) - :moneybag: Cryptocurrency trading bot library with a simple example strategy (trading via Gemini).
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A  shared budget web application
@@ -10212,7 +10211,7 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [zenolab124/monet](https://github.com/zenolab124/monet) - Monet — Multi-engine mission control for coding agents (Claude Code and Codex today). Browse, search, and drive your agent sessions from a native desktop app.
 - [Sal-ami/sortie](https://github.com/Sal-ami/sortie) - Deploy Rust binaries to Linux servers over SSH.
-- [pch/rawmakase](https://github.com/pch/rawmakase) - 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.
+- [pch/rawmakase](https://github.com/pch/rawmakase) - 📸 Free and fast RAW photo editor for Linux, macOS, and Windows.
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 29 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone
 - [moghtech/cicada](https://github.com/moghtech/cicada) - 
 - [sjvrensburg/squigl](https://github.com/sjvrensburg/squigl) - Use an Android phone as a document camera on Linux, without the full scrcpy client:
@@ -11243,7 +11242,6 @@
 - [actions-js/push](https://github.com/actions-js/push) - ⬆️ Push changes made by actions right back into the current repository.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - ⛔️ DEPRECATED Check all links in markdown files if they are alive or dead. 🔗✔️PS: https://github.com/tcort/github-action-markdown-link-check
 - [temporalio/docker-compose](https://github.com/temporalio/docker-compose) - Temporal docker-compose files
@@ -11562,7 +11560,6 @@
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [dennisadriaans/nuxt-agentic-oss](https://github.com/dennisadriaans/nuxt-agentic-oss) - 
 - [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [harlan-zw/harlan-nuxt](https://github.com/harlan-zw/harlan-nuxt) - A collection of my personal experimental Nuxt modules.
@@ -11806,7 +11803,7 @@
 - [pi0/rangi](https://github.com/pi0/rangi) - 🎨 Tiny Syntax Highlighter
 - [solarch-dev/solarch](https://github.com/solarch-dev/solarch) - Diagram→code through a deterministic rules gate: the AI proposes, 50 rules verify, only valid architecture lands. Try it: app.solarch.dev
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions (AI Slops)
-- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
+- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent - A remote‑first workspace for AI agents.
 - [earendil-works/pi-chat](https://github.com/earendil-works/pi-chat) - 
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI agent swarms.
 - [Varshithvhegde/flowchat](https://github.com/Varshithvhegde/flowchat) - Multi-user AI chat that generates live HTML UI — games, dashboards, apps — powered by Cloudflare Workers + Durable Objects
@@ -13225,6 +13222,7 @@
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Deprecated and no longer maintained. Langfuse is the recommended replacement: see the README.
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert music links between streaming services
+- [zeSchlausKwab/earthly](https://github.com/zeSchlausKwab/earthly) - earthly.city
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - chez moi
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [cuse-dev/cuse](https://github.com/cuse-dev/cuse) - Framework for implementing computer use for AI agents
@@ -15095,6 +15093,7 @@
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
 - [GavinRay97/hasura-openapi-to-actions-converter](https://github.com/GavinRay97/hasura-openapi-to-actions-converter) - 
 - [Koleok/sveltekit-wundergraph-postgresql-realtime-chat](https://github.com/Koleok/sveltekit-wundergraph-postgresql-realtime-chat) - WunderGraph Realtime Chat Example using SvelteKit, TypeScript, PostgreSQL, GraphQL
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [buzz/mediainfo.js](https://github.com/buzz/mediainfo.js) - Extract media file metadata in the browser using WebAssembly.
@@ -15422,6 +15421,7 @@
 - [polkadot-js/extension](https://github.com/polkadot-js/extension) - Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extens
 - [streamr-dev/hub](https://github.com/streamr-dev/hub) - Streamr Hub frontend
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [jaakkytt/InjectCode](https://github.com/jaakkytt/InjectCode) - Source for InjectCode Chrome Extention
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
 - [trigo-at/hasura-api-testing](https://github.com/trigo-at/hasura-api-testing) - Demonstrates how to test a Hasura GraphQL API with Jest
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
@@ -15838,7 +15838,7 @@
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [GavinRay97/graphql-operation-generator](https://github.com/GavinRay97/graphql-operation-generator) - Automatically generate GraphQL operations from a schema
 - [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites on a smaller learning curve 🌀
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents to 1,600+ APIs.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [aws-solutions/dynamic-image-transformation-for-amazon-cloudfront](https://github.com/aws-solutions/dynamic-image-transformation-for-amazon-cloudfront) - Transform, optimize, and deliver images in real time at a fraction of the cost.
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
@@ -17404,7 +17404,7 @@
 - [mayashavin/nuxt-blog-template](https://github.com/mayashavin/nuxt-blog-template) - Template for using git submodule
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
 - [cyon/vue3-file-selector](https://github.com/cyon/vue3-file-selector) - A Vue 3 headless file selector component
-- [cuongvuong-phoenix/vite-cvp](https://github.com/cuongvuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
+- [cuong-phoenix/vite-cvp](https://github.com/cuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
 - [jamalroger/vue-capacitorjs-example](https://github.com/jamalroger/vue-capacitorjs-example) - 
 - [Jeffreyrn/vue-simple-flowchart](https://github.com/Jeffreyrn/vue-simple-flowchart) - flowchart editor for Vue.js
 - [fullsolid/tailwindshades](https://github.com/fullsolid/tailwindshades) - Tailwind CSS color shades generator
@@ -17502,7 +17502,7 @@
 - [posva/vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
 - [maccali/Brain-Nuxt.WEB](https://github.com/maccali/Brain-Nuxt.WEB) - 🔥🦕 BrainNuxt is a Boilerplate based in NuxtJS
 - [Henryes/energyEfficiency](https://github.com/Henryes/energyEfficiency) - 
-- [sylvainjule/kirby-matomo](https://github.com/sylvainjule/kirby-matomo) - Matomo integration for Kirby, in both your panel and templates. Compatible with Kirby 3, 4, 5.
+- [sylvainjule/kirby-matomo](https://github.com/sylvainjule/kirby-matomo) - Matomo integration for Kirby, in both your panel and templates. Compatible with Kirby 5 & 6.
 - [Kinrany/vue-p5](https://github.com/Kinrany/vue-p5) - Vue component for p5.js
 - [nexmo-community/social-cafe](https://github.com/nexmo-community/social-cafe) - An online social space to have video conversations around prompts built with Nuxt.js.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog

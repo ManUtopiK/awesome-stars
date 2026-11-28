@@ -698,6 +698,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [aiurda/cursor10x](https://github.com/aiurda/cursor10x) - Cursor10x is a comprehensive suite of tools that enhances the A.I. agent's capabilities within the Cursor IDE, providing persistent memory across sessions, standardized task management, and enforced b
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any 
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -865,6 +866,7 @@
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents to 1,600+ APIs.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [fictionco/fiction](https://github.com/fictionco/fiction) - Agentic Digital Self Platform
@@ -1240,6 +1242,7 @@
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Deprecated and no longer maintained. Langfuse is the recommended replacement: see the README.
+- [zeSchlausKwab/earthly](https://github.com/zeSchlausKwab/earthly) - earthly.city
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [atinux/llm-scraper-nuxt](https://github.com/atinux/llm-scraper-nuxt) - Demo of a LLM Scraper with Nuxt & Cloudflare AI & Browser rendering to return structured output.
 - [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot → The Invisible Companion for Work + Life
@@ -1543,7 +1546,6 @@
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [awebai/aweb](https://github.com/awebai/aweb) - Communication for AI agents: stable identity, durable mail and chat, and wake-up events across sessions, runtimes, machines, and organizations. MIT, self-hostable.
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) - Replay your coding agent sessions as a map and a timeline
@@ -1938,7 +1940,7 @@
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
-- [sylvainjule/kirby-matomo](https://github.com/sylvainjule/kirby-matomo) - Matomo integration for Kirby, in both your panel and templates. Compatible with Kirby 3, 4, 5.
+- [sylvainjule/kirby-matomo](https://github.com/sylvainjule/kirby-matomo) - Matomo integration for Kirby, in both your panel and templates. Compatible with Kirby 5 & 6.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [pimlie/nuxt-matomo](https://github.com/pimlie/nuxt-matomo) - Matomo analytics for Nuxt.js
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -2411,7 +2413,7 @@
 - [trumail/trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents to 1,600+ APIs.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for PostgreSQL
@@ -4151,7 +4153,6 @@
 - [Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it) - Kayforkind Content-Derived Design CLI. HTML in, standalone HTML out from the source's own nouns, dates, numbers, and colors. Not the reimagineit.ai interview SaaS.
 - [templetongroup/radiant](https://github.com/templetongroup/radiant) - A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and drive a real terminal — in one window. Free and MIT licensed.
 - [mydisha/keirouter](https://github.com/mydisha/keirouter) - Your friendly, blazing-fast, self-hostable AI gateway
-- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions, Responses and Anthropic Messages APIs: 125 routing strategies (incl. feedback-aware Thompson sampling) across GPT-6, Claude Opus 5.5 / Fa
 - [GetBusbar/busbar](https://github.com/GetBusbar/busbar) - The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping your native protocols intact: six native LLM protocols in, six
 - [vllora/vllora](https://github.com/vllora/vllora) - Debug your AI agents
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
@@ -4462,6 +4463,7 @@
 - [duriantaco/sago](https://github.com/duriantaco/sago) - You describe what you want in markdown, sago generates a plan
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [nirholas/fresh-start](https://github.com/nirholas/fresh-start) - Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode 2 plugin that uses your existing Claude Code credentials — no separate login needed.
 - [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
@@ -6715,7 +6717,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [os-factory/har](https://github.com/os-factory/har) - HAR: open agent harness (CLI + MCP) for coding agents. Isolated worktrees, deterministic verify, software factory workflows for Claude Code, Cursor, and Codex.
 - [solarch-dev/solarch](https://github.com/solarch-dev/solarch) - Diagram→code through a deterministic rules gate: the AI proposes, 50 rules verify, only valid architecture lands. Try it: app.solarch.dev
-- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
+- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent - A remote‑first workspace for AI agents.
 - [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 96.2% fewer tokens per lookup on average than grep-and-read on our 15-lookup benchmark. Works 
 - [heardlabs/heard](https://github.com/heardlabs/heard) - Open-source (Apache 2.0) voice tool for Claude Code and Codex on macOS that reads your coding agent's progress aloud. The voice runs locally with Kokoro, no account needed, or bring your own ElevenLab
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -7651,6 +7653,7 @@
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
@@ -8247,7 +8250,7 @@
 - [makushingu/harness-maxxing](https://github.com/makushingu/harness-maxxing) - Self-hosted web control room for Claude Code: persistent sessions, memory, scheduled jobs, Telegram and voice on your own server. Free and fair source (source-available).
 - [create-collective/openflow](https://github.com/create-collective/openflow) - Get the most out of your keyboard. Offline, open source, yours. Naya Create, Tune, Touch & Track on Windows, macOS and Linux.
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
-- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions, Responses and Anthropic Messages APIs: 125 routing strategies (incl. feedback-aware Thompson sampling) across GPT-6, Claude Opus 5.5 / Fa
+- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions (with tool calling), Responses and Anthropic Messages APIs: LiteLLM-style virtual keys with per-key budgets, model allowlists and rate lim
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [traoreera/xcore](https://github.com/traoreera/xcore) - An open-source Python framework for building extensible, plugin-based applications. Fragile monoliths or overly bloated microservices? xcore offers a third way.  You write your plugin as a simple Pyth
 - [Obelus-Labs-LLC/WeThePeople](https://github.com/Obelus-Labs-LLC/WeThePeople) - Civic transparency platform tracking corporate influence on Congress across 11 sectors. 49 government APIs, 537 politicians, 1,000+ companies, all 50 states. AGPL-3.0 open source.
@@ -8257,7 +8260,7 @@
 - [luna-prompts/skillnote](https://github.com/luna-prompts/skillnote) - The open-source skill registry for AI coding agents. Create, manage, and distribute SKILL.md files across Openclaw, Claude Code, Cursor, Codex, OpenHands, Antigravity, and more.
 - [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.
 - [V-Vaal/Promy](https://github.com/V-Vaal/Promy) - An end-to-end OCR pipeline for invoice document processing. The recognition module (CRNN with MobileNetV3 + BiLSTM + CTC) is fine-tuned on a corpus of 1,413 annotated invoices. Served via FastAPI and 
-- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [Kaiohz/mcp-raganything](https://github.com/Kaiohz/mcp-raganything) - API/MCP wrapper for RagAnything
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [fraiseql/fraiseql-python](https://github.com/fraiseql/fraiseql-python) - The Explicit GraphQL Framework for the LLM Era  Simple patterns. High performance. PostgreSQL at the center.
@@ -8910,6 +8913,7 @@
 ## gis 
 
 - [pgspider/sqlite_fdw](https://github.com/pgspider/sqlite_fdw) - SQLite Foreign Data Wrapper for PostgreSQL
+- [zeSchlausKwab/earthly](https://github.com/zeSchlausKwab/earthly) - earthly.city
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some ama
@@ -9276,7 +9280,6 @@
 
 - [patriceckhart/zot](https://github.com/patriceckhart/zot) - Yet another coding agent harness, lightweight and written in go.
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) - Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -14538,7 +14541,7 @@
 - [duriantaco/sago](https://github.com/duriantaco/sago) - You describe what you want in markdown, sago generates a plan
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
-- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
 - [pgEdge/pgedge-postgres-mcp](https://github.com/pgEdge/pgedge-postgres-mcp) - pgEdge MCP Server.  A PostgreSQL MCP server with a Natural Language Agent CLI and Web UI.
 - [JKHeadley/instar](https://github.com/JKHeadley/instar) - Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
@@ -14998,7 +15001,6 @@
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [zenolab124/monet](https://github.com/zenolab124/monet) - Monet — Multi-engine mission control for coding agents (Claude Code and Codex today). Browse, search, and drive your agent sessions from a native desktop app.
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
@@ -15644,7 +15646,6 @@
 - [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) - 🔥 Turn your community's knowledge into answers that keep members engaged. AnswerLoops brings trusted, AI-powered answers to Discord, GitHub, Slack, Discourse, and your website. Open source and self-ho
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [awebai/aweb](https://github.com/awebai/aweb) - Communication for AI agents: stable identity, durable mail and chat, and wake-up events across sessions, runtimes, machines, and organizations. MIT, self-hostable.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) - Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file.
@@ -15858,6 +15859,7 @@
 - [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) - A single interface to use and evaluate different agent frameworks
 - [moeru-ai/mcp-launcher](https://github.com/moeru-ai/mcp-launcher) - 🐳🧩 Easy to use MCP builder & launcher for all possible MCP servers, just like Ollama for models!
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any 
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -18631,7 +18633,7 @@
 - [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) - Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without hitting CORS.
 - [wink-run/tokenbank](https://github.com/wink-run/tokenbank) - Token Bank — the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go · Spend less with smart routing to Ollama, Groq, GitHub Models · Earn by sharing idle quot
 - [mydisha/keirouter](https://github.com/mydisha/keirouter) - Your friendly, blazing-fast, self-hostable AI gateway
-- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions, Responses and Anthropic Messages APIs: 125 routing strategies (incl. feedback-aware Thompson sampling) across GPT-6, Claude Opus 5.5 / Fa
+- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Drop-in LLM router and AI gateway for OpenAI Chat Completions (with tool calling), Responses and Anthropic Messages APIs: LiteLLM-style virtual keys with per-key budgets, model allowlists and rate lim
 - [GetBusbar/busbar](https://github.com/GetBusbar/busbar) - The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping your native protocols intact: six native LLM protocols in, six
 - [vllora/vllora](https://github.com/vllora/vllora) - Debug your AI agents
 - [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - Source-available LLM router and AI cost optimizer. Routes simple prompts to cheap or local models and complex ones to premium models, automatically. Drop-in OpenAI-compatible proxy for Claude Code, Co
@@ -18681,7 +18683,7 @@
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Install, update and manage AI agent skills across 45 coding agents from one CLI. Sources: marketplace, GitHub, private Git and npm.
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
-- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [smg-project/smg](https://github.com/smg-project/smg) - Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, ch
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -19027,7 +19029,7 @@
 - [unjs/upm](https://github.com/unjs/upm) - 📦 A fast, tiny package manager for the npm registry, written in TypeScript.
 - [AndrewBogdanovTSS/eslint-unocss-normalize-classes](https://github.com/AndrewBogdanovTSS/eslint-unocss-normalize-classes) - 
 - [affolter-engineering/wireless-assessment](https://github.com/affolter-engineering/wireless-assessment) - Nix flakes to perform Wireless LAN assessments
-- [pch/rawmakase](https://github.com/pch/rawmakase) - 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.
+- [pch/rawmakase](https://github.com/pch/rawmakase) - 📸 Free and fast RAW photo editor for Linux, macOS, and Windows.
 - [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
@@ -27644,6 +27646,7 @@
 - [kindmetrics/kindmetrics](https://github.com/kindmetrics/kindmetrics) - Kind metrics analytics for your website
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
@@ -28045,7 +28048,7 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [duriantaco/sago](https://github.com/duriantaco/sago) - You describe what you want in markdown, sago generates a plan
-- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various AI model providers.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - A restful API designed to route user prompts to various free AI model providers.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -30298,7 +30301,6 @@
 
 - [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -31418,7 +31420,6 @@
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
-- [kerviaHerve/kervia-vault](https://github.com/kerviaHerve/kervia-vault) - Multi-agent secrets vault for Hermes Agent, OpenCode and AI agents — one Go binary: REST + MCP + WebUI. SQLite, AES-256-GCM, Argon2id. Zero-knowledge personal password vault. One-command install (Linu
 - [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) - Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file.
 - [disler/durable-pi](https://github.com/disler/durable-pi) - Durable Pi playground and agent network: persistent, multi-device durable agents with web and terminal clients
 - [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) - MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases
@@ -31631,6 +31632,7 @@
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [naturetime10/github-stats](https://github.com/naturetime10/github-stats) - Embed Github profile every where you want
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
@@ -32286,7 +32288,7 @@
 - [acidjazz/tv-toast](https://github.com/acidjazz/tv-toast) - Programmatic toasts for Nuxt.js powered by Tailwind CSS
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-- [cuongvuong-phoenix/vite-cvp](https://github.com/cuongvuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
+- [cuong-phoenix/vite-cvp](https://github.com/cuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
 - [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page
 - [benface/tailwindcss-filters](https://github.com/benface/tailwindcss-filters) - Tailwind CSS plugin to generate filter and backdrop filter utilities
 - [Los-Crackitos/svelte-tailwind-i18n-template](https://github.com/Los-Crackitos/svelte-tailwind-i18n-template) - Svelte project template with Tailwindcss and i18n pre-configured
@@ -32927,7 +32929,7 @@
 - [Obelus-Labs-LLC/WeThePeople](https://github.com/Obelus-Labs-LLC/WeThePeople) - Civic transparency platform tracking corporate influence on Congress across 11 sectors. 49 government APIs, 537 politicians, 1,000+ companies, all 50 states. AGPL-3.0 open source.
 - [os-factory/har](https://github.com/os-factory/har) - HAR: open agent harness (CLI + MCP) for coding agents. Isolated worktrees, deterministic verify, software factory workflows for Claude Code, Cursor, and Codex.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions (AI Slops)
-- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
+- [jmfederico/pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent - A remote‑first workspace for AI agents.
 - [Varshithvhegde/flowchat](https://github.com/Varshithvhegde/flowchat) - Multi-user AI chat that generates live HTML UI — games, dashboards, apps — powered by Cloudflare Workers + Durable Objects
 - [rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
@@ -33842,7 +33844,7 @@
 - [sultan99/stylin](https://github.com/sultan99/stylin) - A built-time  CSS library for styling React components.
 - [neo4j/graphql](https://github.com/neo4j/graphql) - A GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.
 - [zenflow/hasura-node-monolith-example](https://github.com/zenflow/hasura-node-monolith-example) - Example of a monolithic web application using Hasura GraphQL Engine + Node.js + Next.js
-- [cuongvuong-phoenix/vite-cvp](https://github.com/cuongvuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
+- [cuong-phoenix/vite-cvp](https://github.com/cuong-phoenix/vite-cvp) - ⚡ Opinionated Vite Starter Template. Inspired by Vitesse
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [hellowuxin/vue3-mindmap](https://github.com/hellowuxin/vue3-mindmap) - Mindmap component for Vue3
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
